@@ -1,0 +1,32 @@
+# Local dependencies and generated individual-record working data
+/work/Rlib/
+/work/prepared.rds
+/work/analysis_results.rds
+/work/raw/*.csv
+/work/raw/readme.txt
+/work/raw/2022/
+/work/raw/2025/
+/work/docs/*.txt
+/outputs/data_original/*.csv
+/outputs/data_original/*.zip
+
+# Local staging, rendering and caches
+/work/repository/
+/work/package/
+/work/figures_package/
+/work/english_figure_package/
+/work/figure_qa/
+/work/manuscript_render/
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.tmp
+Thumbs.db
+Desktop.ini
+
+# Superseded local deliverable bundles and legacy outputs
+/outputs/NHIS_*.zip
+/outputs/abbildungen/
+/outputs/Machbarkeitsbericht.html
+/outputs/praevalenzen.png

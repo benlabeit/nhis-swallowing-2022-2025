@@ -1,0 +1,14 @@
+Statistical runtime used
+R 4.6.0 (Windows UCRT)
+survey 4.5
+pdftools 3.9.1
+numDeriv 2016.8-1.1
+grid (included with R)
+
+Install missing dependencies using outputs/00_setup.R.
+survey brings in numDeriv as a dependency in the recorded environment.
+The repository does not vendor compiled packages or lock future CRAN versions.
+See outputs/package_versions.tsv and the session information files for the complete environment.
+
+Figure generation requires Cairo graphics support and Arial (or a suitable substitute font).
+Rendering for visual QA uses pdftools/Poppler; this is not required to estimate results.
