@@ -1,0 +1,36 @@
+NHIS Project 1 - Analysis plan addendum v1
+Date: 6 November 2026
+
+Status and scope
+These analyses were requested after inspection of the original results. They are post-hoc, exploratory robustness analyses, not a new primary analysis or an external preregistration. This addendum is saved before fitting the additional models or calculating the additional prevalence contrasts. The original analysis plan and its primary results remain unchanged.
+
+1. Age- and sex-adjusted primary-outcome contrasts
+Outcome: reported swallowing problems during the preceding 12 months (VSLSWYR_A 1=yes, 2=no; 7/8/9 missing). Population: adults aged 65+ with known age and a valid primary outcome, with end point-specific complete cases for sex and, for subgroup models, stroke history.
+Use the full stacked adult survey design, WTFA_A, PSTRAT, PPSU, nest=TRUE, then domain subsets. Public design identifiers and annual weights remain unchanged across years according to CDC guidance. Fit survey-weighted logistic models with quasibinomial variance to avoid noninteger-outcome warnings; design-based coefficient covariance via Taylor linearization.
+Overall model: any ~ year + age group + sex.
+Stroke subgroup model: any ~ year * stroke + age group + sex.
+Age groups: 65-74, 75-84, 85+; sex: SEX_A codes 1 and 2. No additional year-by-age, year-by-sex or higher-order interactions, no automated variable selection, no causal interpretation.
+Marginal predictions use one fixed reference distribution in every year and group: the original US 2000 age-standard weights within 65+ multiplied by 0.5 male and 0.5 female within each age group. The age counts are 18,135,514; 12,314,793; 4,259,173. This hypothetical balanced-sex standard is an explicit analytic choice, not the actual sex distribution of older US adults. Its fixed values avoid treating a sample-estimated reference distribution as known. Absolute levels should not be directly interpreted as population burden or substituted for the primary age-standardized estimates.
+Report predicted prevalence, absolute 2025-minus-2022 differences, and additive interaction (stroke difference minus no-stroke difference). Use analytic gradients of the marginal predictions and the complete coefficient covariance; logit-delta 95% t intervals for marginal prevalence and linear t intervals for differences. Use residual design degrees of freedom from the fitted survey model. Retain complete-case counts and event counts. Export coefficients and covariance for audit; odds ratios are not the main reporting measure.
+
+2. Self-response sensitivity
+The public proxy indicator changed, so a blank 2022 PROXY_A is not automatically a confirmed self-response. Conservative harmonization:
+2022: confirmed self-response requires AVAIL_A=1 (sample adult available) and PROXY_A missing (outside proxy-question universe). Proxy response requires AVAIL_A=3 (condition prevents responding) and PROXY_A=1 (proxy available). All other combinations are unknown/ambiguous, including AVAIL_A=2, AVAIL_A=8 and AVAIL_A=3 with PROXY_A=2. Contradictory combinations must be flagged and cause review.
+2025: PROXYFLAG_A=2 is self-response; PROXYFLAG_A=1 is proxy response; all other values unknown.
+This deliberately strict definition may exclude some self-responses in 2022. Document the resulting counts, outcome missingness and excluded events, so its asymmetry is visible. Do not describe this as an unbiased correction for proxy reports.
+First reproduce the original directly age-standardized primary-outcome analysis within the confirmed-self-response domain for all adults 65+, stroke, and no stroke. Use the same age standard, survey covariance, logit-delta prevalence intervals and linear contrast intervals. Report additive interaction only if every year-by-stroke-by-age cell has >=30 valid responses, >=10 events and >=10 nonevents, and design degrees of freedom >=8.
+Then fit the same two age- and sex-adjusted models above in the confirmed-self-response domain to show the combined sensitivity. Fit only if models converge, coefficients/covariance are finite, all modeled levels are represented, and residual design degrees of freedom >=8; otherwise report why results are unavailable.
+
+Validation and interpretation
+Compare analytic prediction gradients with numerical gradients and predictions with R predict(). Independently compare direct standardization point estimates to weighted age-specific means; compare the covariance of age-domain means against a saturated survey-weighted linear model. Audit design counts, model sample counts, and proxy raw codes. Fail on singleton strata rather than applying a silent correction.
+All additional tests and intervals are exploratory, unadjusted for multiple comparisons. A self-only analysis changes the target population toward people able to answer for themselves. Neither sex adjustment nor proxy exclusion resolves changes in survey participation, the 2025 collection interruption, recall error, unmeasured composition differences, or lack of a clinically confirmed diagnosis. Do not interpret a changed p value as proof that one analysis is correct.
+
+Official documentation checked locally
+2022 Adult Codebook, pp.14-15: AVAIL_A and PROXY_A, including their universes and codes.
+2025 Adult Codebook, p.12: PROXYFLAG_A.
+2022 Survey Description, Proxy Status, p.110.
+2025 Survey Description, Proxy Status, p.121; variance and combining-year guidance, pp.35 and 47-50.
+https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/adult-codebook.pdf
+https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/adult-codebook.pdf
+https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/srvydesc-508.pdf
+https://www.cdc.gov/nchs/hus/sources-definitions/age-adjustment.htm

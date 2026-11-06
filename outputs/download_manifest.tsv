@@ -1,0 +1,3 @@
+"year"	"url"	"file"	"md5"	"n"
+2022	"https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NHIS/2022/adult22csv.zip"	"work/raw/adult22csv.zip"	"25abd1926e3d8a11f9e9ec4c8d873a88"	27651
+2025	"https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NHIS/2025/adult25csv.zip"	"work/raw/adult25csv.zip"	"f727f9580eb463b85402ea451223a09f"	24215

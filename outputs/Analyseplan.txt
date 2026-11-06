@@ -1,0 +1,39 @@
+NHIS Projekt 1 – Analyseplan v1, 06.11.2026
+Festgehalten nach Prüfung von Codebooks und ungewichteten Zellzahlen, vor Berechnung gewichteter Endpunktschätzer oder inferentieller Vergleiche. Keine externe Präregistrierung.
+
+Fragestellung und Population
+Vergleich zweier wiederholter Querschnitte 2022 und 2025; keine individuellen Verläufe. Zivile, nicht institutionalisierte US-Bevölkerung ab 65 Jahren. AGEP_A 65–85 einschließen; 85 ist topkodiert (85+), 97–99 sind fehlend. Keine Aussage über Pflegeheimbewohner oder klinisch bestätigte Dysphagie. STREV_A ist die berichtete frühere ärztliche Mitteilung eines Schlaganfalls; Ereigniszeitpunkt und kausale Zuordnung der Beschwerden sind unbekannt.
+
+Endpunkte
+Primär: VSLSWYR_A=1 gegenüber 2, Beschwerden in vergangenen 12 Monaten.
+Sekundär: starke Beschwerden VSLSWDIF_A=2; andere gültige Antworten 1 und 3 sind nicht stark. Populationsprävalenz: VSLSWYR_A=2 als 0, VSLSWYR_A=1 mit gültiger Schwere als 0/1. Unbekannter Primärstatus oder fehlende Schwere bei Betroffenen bleiben fehlend.
+Sekundär: Dauer >=180 Tage (VSLSWDYS_A=6); Codes 1–5 kürzer. Analog Populationsprävalenz berechnen. Keine Umrechnung der ordinalen Kategorien in eine scheinbar exakte mittlere Tageszahl. Vollständige Dauer- und Schwereverteilung unter Betroffenen ergänzend deskriptiv.
+Codes 7/8/9 sind keine Negativantworten. Filterauslassungen außerhalb der Betroffenengruppe sind kein zusätzlicher Item-Nonresponse bei Schwere/Dauer.
+
+Design und Schätzung
+R survey, Taylor-Linearisierung. Design zuerst auf allen Erwachsenen aufbauen: ids=~PPSU, strata=~PSTRAT, weights=~WTFA_A, nest=TRUE; danach Domänen bilden. Für den Jahresvergleich Dateien anhängen, Gewichte unverändert lassen. Öffentliche PSTRAT/PPSU unverändert gemäß CDC 2025 Survey Description S.35 und S.50; keine künstliche Trennung nach Jahr. Die inhaltlich unabhängigen Querschnitte rechtfertigen nicht das Ignorieren der gemeinsamen öffentlichen Varianzstruktur. Kovarianz der Jahres- und Alterszellschätzer aus dem gemeinsamen Design verwenden. Keine naive Regression. Singleton-Strata sollen einen Fehler auslösen; nicht stillschweigend ersetzen.
+Direkte Altersstandardisierung: 65–74, 75–84, 85+; US-Standardpopulation 2000 mit 18.135.514, 12.314.793, 4.259.173 Personen, innerhalb 65+ auf Summe 1 normiert. Identischer Standard für beide Jahre und alle Schlaganfallgruppen. Quelle: CDC Health, United States, Age adjustment, Tabelle I. Standardisierte Prävalenzen sind Vergleichsindizes, keine tatsächlichen Bevölkerungsanteile. Zusätzlich rohe surveygewichtete Prävalenzen berichten.
+Prävalenz-KI: 95%-t-Intervalle auf Logit-Skala, Delta-Methode; Differenzen: lineare Kontraste in Prozentpunkten, 95%-t-KI unter Nutzung der vollen Kovarianzmatrix. Freiheitsgrade aus jeweiliger Analysedomäne. Keine einseitigen Tests. Primärer Vergleich ist 2025 minus 2022 in allen Personen 65+.
+
+Subgruppen und Interaktion
+Vorab definierte Schlaganfallgruppe; fehlender Schlaganfallstatus nur aus Subgruppenanalysen ausschließen. Beide Gruppen auf denselben Altersstandard beziehen. Interaktion primär auf additiver Skala: Differenz der altersstandardisierten Jahresdifferenzen (Schlaganfall minus kein Schlaganfall). Kein zusätzliches logistisches Interaktionsmodell erforderlich. Berechnung nur, wenn in jeder Jahr×Schlaganfall×Altersgruppe >=30 gültige Beobachtungen sowie >=10 Ereignisse und >=10 Nichtereignisse vorliegen und ausreichend Design-Freiheitsgrade bestehen. Dies ist eine pragmatische Projektregel, kein formaler Powernachweis. Die primäre Beschwerdevariable erfüllt die Zellregel; keine Interaktionstests für sekundäre Endpunkte. Sekundäre Subgruppenschätzungen bei kleinen Zellen nur explorativ mit Warnhinweis, nicht als belastbarer Nullbefund.
+
+Fehlende Werte und Sensitivität
+Endpunktspezifische Complete-case-Analyse; ungewichtete und gewichtete fehlende Anteile ausweisen. Extremwert-Sensitivität für primären Endpunkt (alle fehlenden Antworten als Nein bzw. Ja), einschließlich gegensätzlicher Annahmen zwischen Jahren. Diese Grenzen sind keine Imputation unter einer realistischen Missing-at-random-Annahme.
+Zusätzlich gemeinsamer Interviewzeitraum Quartale 1–3, um die 2025 ausgefallene/verschobene Erhebung am Jahresende zu prüfen. Domänenanalyse mit Jahresgewichten; keine spezifische Nonresponse-Neukalibrierung. Deshalb nur explorative Robustheitsprüfung, kein vollwertiger saisonbereinigter Jahresvergleich.
+Geschlecht wird deskriptiv gewichtet dargestellt; keine automatische Confounder-Selektion. Der primäre Schätzer ist alters-, nicht geschlechtsstandardisiert.
+
+Präzision und Interpretation
+Ungewichtete Ereignis-/Nennerzahlen, Design-Freiheitsgrade und relative Standardfehler ausgeben. Zellen mit <10 Ereignissen oder Nenner <30 sowie Schätzer mit relativem Standardfehler >30% als fragil markieren. Diese Diagnose ersetzt keine vollständige NCHS-Freigabeprüfung nach den Data Presentation Standards. Ergebnisse sind ein reproduzierbarer Forschungszwischenstand, noch keine freigegebene Publikationstabelle.
+Sekundäre Endpunkte, Subgruppen, Interaktion und Sensitivitätsanalysen explorativ; keine Vielzahl isolierter Signifikanzbehauptungen, keine nachträgliche Endpunktauswahl. Keine Aussage, dass ein nicht signifikanter Vergleich Gleichheit belegt. Zwei Jahre zeigen eine Jahresdifferenz, keinen kontinuierlichen Trend.
+
+Vergleichbarkeit und Grenzen
+Codebooks: Fragewortlaut, Universe und Antwortcodes der drei Schluckvariablen und von STREV_A stimmen überein. Erhebungsumstände unterscheiden sich: 2025 neues Stichprobendesign; öffentliche Varianzvariablen laut CDC gemeinsam verwendbar. 2025 nur elf Stichprobenmonate, angepasste Jahresgewichte, Erhebungsausfall im Oktober/November und fehlender Dezemberstichprobenmonat. Q4 ist 2025 als 9 kodiert, nicht als fehlendes Interviewdatum zu verwerfen. Response-/Moduseffekte, Proxy-Antworten, Erinnerung, Selektion und verbleibender Nonresponse begrenzen die Vergleichbarkeit. Die 2022 veröffentlichte ungewichtete und die 2025 gewichtete Rücklaufquote dürfen nicht unmittelbar als Zeitvergleich verwendet werden.
+
+Quellen
+https://www.cdc.gov/nchs/nhis/documentation/2022-nhis.html
+https://www.cdc.gov/nchs/nhis/documentation/2025-nhis.html
+https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/adult-codebook.pdf
+https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/adult-codebook.pdf
+https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/srvydesc-508.pdf
+https://www.cdc.gov/nchs/hus/sources-definitions/age-adjustment.htm

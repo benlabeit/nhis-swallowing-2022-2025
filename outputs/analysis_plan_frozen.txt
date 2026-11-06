@@ -1,0 +1,6 @@
+
+Algorithm : SHA256
+Hash      : F266A0829C5EFDA412CA03EB542E5227CBDEBE5FD2A74DA3D4C0E33CB851A2AF
+Path      : C:\Users\benlabeit\Documents\Codex\2026-11-06\nhis-p1-analyse\outputs\Analyseplan.txt
+
+2026-11-06T15:10:30.9444150+01:00

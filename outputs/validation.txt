@@ -1,0 +1,6 @@
+all: saturated survey Gaussian model versus domain means; max coefficient difference 3.75e-16; max covariance difference 1.14e-18; PASS
+stroke: saturated survey Gaussian model versus domain means; max coefficient difference 1.67e-16; max covariance difference 2.6e-18; PASS
+no_stroke: saturated survey Gaussian model versus domain means; max coefficient difference 2.22e-16; max covariance difference 6.78e-19; PASS
+Adult record counts and primary yes counts match official codebooks: PASS
+01_prepare.R assertions: unique HHX within year, all required columns, valid design and positive weights, expected skip logic: PASS
+02_analyse.R: standardized estimates agree with manual weighted age means to 1e-10: PASS
