@@ -1,0 +1,5 @@
+"analysis"	"group"	"outcome"	"estimate_type"	"estimate"	"se"	"lcl"	"ucl"	"df"	"n"	"events"	"fragile"	"p"	"model_id"
+"main"	"stroke"	"any"	"difference_2025_minus_2022"	0.062740659712774	0.026442212753018	0.0108171389110187	0.114664180514529	643	NA	NA	FALSE	0.0179495477138268	""
+"age_sex_adjusted"	"stroke"	"any"	"difference_2025_minus_2022"	0.0583841390984807	0.025694043111858	0.00797006410804487	0.108798214088917	1116	NA	NA	FALSE	0.0232590098439091	"age_sex_adjusted_stroke_groups"
+"self_direct_age_standardized"	"stroke"	"any"	"difference_2025_minus_2022"	0.0453154454034027	0.0252115604012389	-0.00419818404026817	0.0948290748470736	600	NA	NA	FALSE	0.072773673726428	""
+"self_age_sex_adjusted"	"stroke"	"any"	"difference_2025_minus_2022"	0.0405317218196556	0.0246243435266094	-0.00778350423240221	0.0888469478717135	1116	NA	NA	FALSE	0.10004488867618	"self_age_sex_adjusted_stroke_groups"

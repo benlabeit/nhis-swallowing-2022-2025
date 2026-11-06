@@ -1,0 +1,6 @@
+All plotted records uniquely matched by analysis/group/outcome/estimate_type.
+All plotted CIs finite, ordered and fully inside the x axis.
+Figure 1 events and denominators agree with unweighted cell counts.
+Only saved estimates plotted; no new statistical testing.
+Input MD5: b6b807ba1c86dd93a3c797153f477c97
+Three English-only PDF pages rendered and visually checked; gallery links validated: PASS.

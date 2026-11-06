@@ -1,0 +1,5 @@
+Figure 4: four unique source rows matched to saved analysis results.
+CIs finite, ordered, fully inside the axis range; original main row matches exactly.
+No statistical estimates recomputed.
+Input MD5: 3008c56409bed2051d343922fab0b375
+PDF rendered at 120 dpi and visually inspected: no clipping, overlapping labels or misplaced markers. PASS.
