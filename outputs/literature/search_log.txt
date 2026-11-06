@@ -1,0 +1,71 @@
+Literature search supporting the NHIS 2022/2025 swallowing-difficulties manuscript
+Search date: 6 November 2026
+Purpose: contextualize reported swallowing difficulties in US adults aged 65 years and older, with particular attention to respondents with a history of stroke; support the interpretation and reporting of a repeated cross-sectional comparison.
+
+Nature and limits of the search
+This was a targeted narrative literature search, supplemented by exact-title and identifier verification. It was not a systematic review, registered review, or PRISMA study. There was no duplicate independent screening, formal risk-of-bias assessment, predefined exhaustive database coverage, or documented deduplicated screening denominator. Search result counts and exclusion counts should therefore not be presented as a PRISMA flow diagram. The search prioritized original population studies, directly relevant NHIS analyses, longitudinal community studies, instrument validation, and official survey documentation. Three broad dysphagia reviews and one stroke guideline were retained for context. English-language sources were consulted. No publication-date cutoff was applied other than availability on the search date. Studies published online before their print issue were retained with the indexed print year and the online date described where relevant.
+
+Sources and verification
+1. Web searches restricted primarily to PubMed, with follow-up to PubMed records, PMC full text where accessible, and official journal pages.
+2. NCBI E-utilities exact-title searches and PubMed XML retrieval for metadata and abstracts. Nineteen selected PubMed journal records were verified against downloaded NCBI XML. Local audit material is in work/literature/pubmed_all.xml, pubmed_food.xml, pubmed_initial.xml, and abstract_audit.json.
+3. Official CDC/NCHS 2022 and 2025 survey descriptions and Sample Adult codebooks, and the CDC age-adjustment definition page.
+4. Journal of Statistical Software's original methods article by Lumley.
+5. Reference and title follow-up from the directly relevant NHIS and community-population records.
+
+Executed web queries, grouped as run
+Group 1
+site:pubmed.ncbi.nlm.nih.gov NHIS 2022 swallowing dysphagia prevalence
+site:pubmed.ncbi.nlm.nih.gov prevalence swallowing problems adults United States National Health Interview Survey 2012
+site:pubmed.ncbi.nlm.nih.gov community dwelling older adults dysphagia prevalence study stroke
+
+Group 2
+site:pubmed.ncbi.nlm.nih.gov "Dysphagia and Functional Limitations" 2022
+site:pubmed.ncbi.nlm.nih.gov dysphagia stroke systematic review Martino 2005 incidence diagnosis pulmonary complications
+site:pubmed.ncbi.nlm.nih.gov dysphagia stroke six months longitudinal Mann Hankey Cameron 1999
+site:pubmed.ncbi.nlm.nih.gov "2025" "2022" "NHIS" dysphagia
+
+Group 3
+"Dysphagia and Functional Limitations" PubMed
+"Dysphagia Care in the United States" PubMed
+"Swallowing function after stroke" "1999" PubMed
+"Reliability and validity" "Eating Assessment Tool" "2008" PubMed
+
+Group 4
+site:pubmed.ncbi.nlm.nih.gov "Self-Reported Dysphagia and Psychosocial Health"
+site:pubmed.ncbi.nlm.nih.gov "Older adults with dysphagia have increased odds"
+site:pubmed.ncbi.nlm.nih.gov "Yang" "2013" "dysphagia" "community"
+site:pubmed.ncbi.nlm.nih.gov "oropharyngeal dysphagia" "risk factor" "malnutrition" "2012"
+
+Group 5
+site:pubmed.ncbi.nlm.nih.gov "Dysphagia after stroke: incidence, diagnosis, and pulmonary complications"
+site:pubmed.ncbi.nlm.nih.gov "European Stroke Organisation" "swallowing" "2021"
+site:pubmed.ncbi.nlm.nih.gov "STROBE" "2007" "von Elm"
+"NHIS" "2025" "swallowing" prevalence study
+
+Executed NCBI E-utilities exact-title queries
+Dysphagia after stroke incidence diagnosis pulmonary complications[Title]
+Older adults with dysphagia have increased odds[Title]
+European Stroke Organisation and European Society for Swallowing Disorders guideline[Title]
+Strengthening the Reporting of Observational Studies in Epidemiology statement guidelines reporting observational studies[Title]
+
+Metadata reconciliation
+The final indexed title of Jones2023 is "Dysphagia in Older Adults is Associated With Food Insecurity and Being Homebound" (PMID 37249305), whereas the PMC author manuscript uses a different title. An unrelated identifier returned during title searching (PMID 40015349) was excluded after verification and was never used as evidence. PubMed XML pagination was reconstructed from StartPage and EndPage where both were available; an article number or MedlinePgn was retained otherwise. No missing metadata were invented. See metadata_validation.txt. Complete author lists and available volume, issue, pages, DOI and PMID are in references.json.
+
+Selection rationale
+Direct NHIS precedents: Bhattacharyya2014, Hong2024Prevalence, Disparities2023, Hong2024Function, Zhao2025.
+Older/community population estimates and patient-reported outcomes: Namasivayam2026, Kawashima2004, Holland2011, Yang2013, Leiman2023, Jones2023.
+Prospective clinical/community context: Mann1999, SerraPrat2012.
+Measurement: Belafsky2008.
+Reviews/guideline used as context: Madhavan2016, Frequency2022, Martino2005, Dziewas2021.
+Reporting/design methods: STROBE2007, Lumley2004.
+Official study documentation: NHIS2022Survey, NHIS2022Codebook, NHIS2025Survey, NHIS2025Codebook, CDCAgeStandard.
+Total selected references: 25. This is a selected evidence set, not a count of all eligible publications.
+
+Relevant boundaries and unselected material
+Recent acute-stroke meta-analyses and an older-adult EAT-10 survey in Israel were identified but were not necessary additions to the selected evidence set: they address different settings or instruments, and additional pooled acute-stroke estimates would not improve comparability with a community survey stroke-history subgroup. An NHIS 2022 insomnia/dysphagia report identified in 2026 searches did not provide the requested 2022/2025 comparison. Non-primary search results were used only to locate original records, not as claim-supporting evidence.
+
+Search for an existing 2022/2025 comparison
+The targeted searches combining NHIS, 2022, 2025, swallowing and dysphagia did not identify a directly matching published comparison. This is an observation about these searches only. It is not evidence that no such work exists and does not justify a claim of novelty or priority. In particular, Hong2024Prevalence already compared NHIS 2012 and 2022, and Zhao2025 also analyzed those two survey years. Any submission should update the search near submission and avoid an unsupported "first" claim.
+
+How to use the accompanying files
+evidence_table.tsv records each study's design, population, measurement, supported claim, intended use, limitations and inspected access level. Abstract-only review is explicitly distinguished from selected full-text inspection. references.json contains bibliographic metadata for import into the manuscript's Zotero workflow. synthesis.txt is an English background and interpretation memo with stable reference IDs; it is not the final manuscript and does not substitute for the project's numerical results.

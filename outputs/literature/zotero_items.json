@@ -1,0 +1,2556 @@
+{
+  "schemaVersion": 1,
+  "exportedAt": "2026-11-06T15:08:23.213Z",
+  "generator": "Zotero Run JavaScript: native item API and installed CSL processor",
+  "zoteroVersion": "10.0.7",
+  "sourceFile": "outputs/literature\\references.json",
+  "sourceReferenceOrder": [
+    "Bhattacharyya2014",
+    "Hong2024Prevalence",
+    "Namasivayam2026",
+    "Disparities2023",
+    "Madhavan2016",
+    "Frequency2022",
+    "Kawashima2004",
+    "Holland2011",
+    "Hong2024Function",
+    "Zhao2025",
+    "Mann1999",
+    "Belafsky2008",
+    "Leiman2023",
+    "SerraPrat2012",
+    "Yang2013",
+    "Martino2005",
+    "Jones2023",
+    "Dziewas2021",
+    "STROBE2007",
+    "Lumley2004",
+    "NHIS2022Survey",
+    "NHIS2022Codebook",
+    "NHIS2025Survey",
+    "NHIS2025Codebook",
+    "CDCAgeStandard"
+  ],
+  "collection": {
+    "id": 31,
+    "key": "QYDLBQBH",
+    "libraryID": 1,
+    "name": "NHIS Swallowing 2022–2025",
+    "createdDuringRun": true
+  },
+  "import": {
+    "createdItems": 25,
+    "reusedItems": 0,
+    "total": 25
+  },
+  "style": {
+    "id": "http://www.zotero.org/styles/springer-vancouver-brackets",
+    "title": "Springer - NLM/Vancouver (citation-sequence, brackets)",
+    "locale": "en-US",
+    "processor": "citeproc-js",
+    "automaticJournalAbbreviations": false
+  },
+  "documentPreferences": {
+    "serialized": "<data data-version=\"3\" zotero-version=\"10.0.7\"><session id=\"53ltqQE7Dr\"/><style id=\"http://www.zotero.org/styles/springer-vancouver-brackets\" locale=\"en-US\" hasBibliography=\"1\" bibliographyStyleHasBeenSet=\"0\"/><prefs><pref name=\"fieldType\" value=\"Field\"/></prefs></data>",
+    "customPropertyPrefix": "ZOTERO_PREF_",
+    "customPropertyChunkLength": 255,
+    "style": {
+      "styleID": "http://www.zotero.org/styles/springer-vancouver-brackets",
+      "locale": "en-US",
+      "hasBibliography": true,
+      "bibliographyStyleHasBeenSet": false
+    },
+    "prefs": {
+      "fieldType": "Field",
+      "noteType": 0,
+      "automaticJournalAbbreviations": false,
+      "delayCitationUpdates": false
+    },
+    "sessionID": "53ltqQE7Dr"
+  },
+  "items": [
+    {
+      "refID": "Bhattacharyya2014",
+      "id": 10161,
+      "key": "827HMBVD",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/827HMBVD",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/827HMBVD",
+        "type": "article-journal",
+        "container-title": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+        "DOI": "10.1177/0194599814549156",
+        "issue": "5",
+        "note": "NHIS reference ID: Bhattacharyya2014\nPMID: 25193514",
+        "page": "765-769",
+        "PMID": "25193514",
+        "title": "The prevalence of dysphagia among adults in the United States.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/25193514/",
+        "volume": "151",
+        "author": [
+          {
+            "family": "Bhattacharyya",
+            "given": "Neil"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2014"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10161,
+        "type": "article-journal",
+        "container-title": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+        "DOI": "10.1177/0194599814549156",
+        "issue": "5",
+        "note": "NHIS reference ID: Bhattacharyya2014\nPMID: 25193514",
+        "page": "765-769",
+        "PMID": "25193514",
+        "title": "The prevalence of dysphagia among adults in the United States.",
+        "volume": "151",
+        "author": [
+          {
+            "family": "Bhattacharyya",
+            "given": "Neil"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2014"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Hong2024Prevalence",
+      "id": 10162,
+      "key": "DL4LRY6E",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/DL4LRY6E",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/DL4LRY6E",
+        "type": "article-journal",
+        "container-title": "American journal of speech-language pathology",
+        "DOI": "10.1044/2024_AJSLP-23-00407",
+        "issue": "4",
+        "note": "NHIS reference ID: Hong2024Prevalence\nPMID: 38713813",
+        "page": "1868-1879",
+        "PMID": "38713813",
+        "title": "Prevalence of Dysphonia and Dysphagia Among Adults in the United States in 2012 and 2022.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/38713813/",
+        "volume": "33",
+        "author": [
+          {
+            "family": "Hong",
+            "given": "Ickpyo"
+          },
+          {
+            "family": "Bae",
+            "given": "Suyeong"
+          },
+          {
+            "family": "Lee",
+            "given": "Ho Kyung"
+          },
+          {
+            "family": "Bonilha",
+            "given": "Heather Shaw"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2024"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10162,
+        "type": "article-journal",
+        "container-title": "American journal of speech-language pathology",
+        "DOI": "10.1044/2024_AJSLP-23-00407",
+        "issue": "4",
+        "note": "NHIS reference ID: Hong2024Prevalence\nPMID: 38713813",
+        "page": "1868-1879",
+        "PMID": "38713813",
+        "title": "Prevalence of Dysphonia and Dysphagia Among Adults in the United States in 2012 and 2022.",
+        "volume": "33",
+        "author": [
+          {
+            "family": "Hong",
+            "given": "Ickpyo"
+          },
+          {
+            "family": "Bae",
+            "given": "Suyeong"
+          },
+          {
+            "family": "Lee",
+            "given": "Ho Kyung"
+          },
+          {
+            "family": "Bonilha",
+            "given": "Heather Shaw"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2024"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Namasivayam2026",
+      "id": 10163,
+      "key": "8KQCHTXS",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/8KQCHTXS",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/8KQCHTXS",
+        "type": "article-journal",
+        "container-title": "Dysphagia",
+        "DOI": "10.1007/s00455-025-10860-0",
+        "issue": "1",
+        "note": "NHIS reference ID: Namasivayam2026\nPMID: 40676172",
+        "page": "127-137",
+        "PMID": "40676172",
+        "title": "Prevalence and Predictors of Self-Reported Swallowing Difficulties in Community-Dwelling Older Adults: A Population-Based Study from the National Health and Aging Trends Study (NHATS).",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/40676172/",
+        "volume": "41",
+        "author": [
+          {
+            "family": "Namasivayam-MacDonald",
+            "given": "Ashwini"
+          },
+          {
+            "family": "Werbeloff",
+            "given": "Merle"
+          },
+          {
+            "family": "Shune",
+            "given": "Samantha"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2026"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10163,
+        "type": "article-journal",
+        "container-title": "Dysphagia",
+        "DOI": "10.1007/s00455-025-10860-0",
+        "issue": "1",
+        "note": "NHIS reference ID: Namasivayam2026\nPMID: 40676172",
+        "page": "127-137",
+        "PMID": "40676172",
+        "title": "Prevalence and Predictors of Self-Reported Swallowing Difficulties in Community-Dwelling Older Adults: A Population-Based Study from the National Health and Aging Trends Study (NHATS).",
+        "volume": "41",
+        "author": [
+          {
+            "family": "Namasivayam-MacDonald",
+            "given": "Ashwini"
+          },
+          {
+            "family": "Werbeloff",
+            "given": "Merle"
+          },
+          {
+            "family": "Shune",
+            "given": "Samantha"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2026"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Disparities2023",
+      "id": 10164,
+      "key": "AK2XENK4",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/AK2XENK4",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/AK2XENK4",
+        "type": "article-journal",
+        "container-title": "American journal of otolaryngology",
+        "DOI": "10.1016/j.amjoto.2022.103774",
+        "issue": "2",
+        "note": "NHIS reference ID: Disparities2023\nPMID: 36586319",
+        "page": "103774",
+        "PMID": "36586319",
+        "title": "Disparities in the prevalence of self-reported dysphagia and treatment among U.S. adults.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/36586319/",
+        "volume": "44",
+        "author": [
+          {
+            "family": "Zheng",
+            "given": "Melissa"
+          },
+          {
+            "family": "Zhou",
+            "given": "Sheng"
+          },
+          {
+            "family": "Hur",
+            "given": "Kevin"
+          },
+          {
+            "family": "Chambers",
+            "given": "Tamara"
+          },
+          {
+            "family": "O'Dell",
+            "given": "Karla"
+          },
+          {
+            "family": "Johns",
+            "given": "Michael"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2023"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10164,
+        "type": "article-journal",
+        "container-title": "American journal of otolaryngology",
+        "DOI": "10.1016/j.amjoto.2022.103774",
+        "issue": "2",
+        "note": "NHIS reference ID: Disparities2023\nPMID: 36586319",
+        "page": "103774",
+        "PMID": "36586319",
+        "title": "Disparities in the prevalence of self-reported dysphagia and treatment among U.S. adults.",
+        "volume": "44",
+        "author": [
+          {
+            "family": "Zheng",
+            "given": "Melissa"
+          },
+          {
+            "family": "Zhou",
+            "given": "Sheng"
+          },
+          {
+            "family": "Hur",
+            "given": "Kevin"
+          },
+          {
+            "family": "Chambers",
+            "given": "Tamara"
+          },
+          {
+            "family": "O'Dell",
+            "given": "Karla"
+          },
+          {
+            "family": "Johns",
+            "given": "Michael"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2023"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Madhavan2016",
+      "id": 10165,
+      "key": "M4S9ZYTA",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/M4S9ZYTA",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/M4S9ZYTA",
+        "type": "article-journal",
+        "container-title": "The journal of nutrition, health & aging",
+        "DOI": "10.1007/s12603-016-0712-3",
+        "issue": "8",
+        "note": "NHIS reference ID: Madhavan2016\nPMID: 27709229",
+        "page": "806-815",
+        "PMID": "27709229",
+        "PMCID": "PMC12879130",
+        "title": "Prevalence of and Risk Factors for Dysphagia in the Community Dwelling Elderly: A Systematic Review.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/27709229/",
+        "volume": "20",
+        "author": [
+          {
+            "family": "Madhavan",
+            "given": "A"
+          },
+          {
+            "family": "LaGorio",
+            "given": "L A"
+          },
+          {
+            "family": "Crary",
+            "given": "M A"
+          },
+          {
+            "family": "Dahl",
+            "given": "W J"
+          },
+          {
+            "family": "Carnaby",
+            "given": "G D"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2016"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10165,
+        "type": "article-journal",
+        "container-title": "The journal of nutrition, health & aging",
+        "DOI": "10.1007/s12603-016-0712-3",
+        "issue": "8",
+        "note": "NHIS reference ID: Madhavan2016\nPMID: 27709229",
+        "page": "806-815",
+        "PMID": "27709229",
+        "PMCID": "PMC12879130",
+        "title": "Prevalence of and Risk Factors for Dysphagia in the Community Dwelling Elderly: A Systematic Review.",
+        "volume": "20",
+        "author": [
+          {
+            "family": "Madhavan",
+            "given": "A"
+          },
+          {
+            "family": "LaGorio",
+            "given": "L A"
+          },
+          {
+            "family": "Crary",
+            "given": "M A"
+          },
+          {
+            "family": "Dahl",
+            "given": "W J"
+          },
+          {
+            "family": "Carnaby",
+            "given": "G D"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2016"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Frequency2022",
+      "id": 10166,
+      "key": "YZ4SUSTL",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/YZ4SUSTL",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/YZ4SUSTL",
+        "type": "article-journal",
+        "container-title": "Aging clinical and experimental research",
+        "DOI": "10.1007/s40520-022-02258-x",
+        "issue": "12",
+        "note": "NHIS reference ID: Frequency2022\nPMID: 36207669",
+        "page": "2945-2961",
+        "PMID": "36207669",
+        "title": "Frequency and associated factors for swallowing impairment in community-dwelling older persons: a systematic review and meta-analysis.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/36207669/",
+        "volume": "34",
+        "author": [
+          {
+            "family": "Rech",
+            "given": "Rafaela Soares"
+          },
+          {
+            "family": "Goulart",
+            "given": "Bárbara Niegia Garcia",
+            "non-dropping-particle": "de"
+          },
+          {
+            "family": "Dos Santos",
+            "given": "Karoline Weber"
+          },
+          {
+            "family": "Marcolino",
+            "given": "Miriam Allein Zago"
+          },
+          {
+            "family": "Hilgert",
+            "given": "Juliana Balbinot"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2022"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10166,
+        "type": "article-journal",
+        "container-title": "Aging clinical and experimental research",
+        "DOI": "10.1007/s40520-022-02258-x",
+        "issue": "12",
+        "note": "NHIS reference ID: Frequency2022\nPMID: 36207669",
+        "page": "2945-2961",
+        "PMID": "36207669",
+        "title": "Frequency and associated factors for swallowing impairment in community-dwelling older persons: a systematic review and meta-analysis.",
+        "volume": "34",
+        "author": [
+          {
+            "family": "Rech",
+            "given": "Rafaela Soares"
+          },
+          {
+            "family": "Goulart",
+            "given": "Bárbara Niegia Garcia",
+            "non-dropping-particle": "de"
+          },
+          {
+            "family": "Dos Santos",
+            "given": "Karoline Weber"
+          },
+          {
+            "family": "Marcolino",
+            "given": "Miriam Allein Zago"
+          },
+          {
+            "family": "Hilgert",
+            "given": "Juliana Balbinot"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2022"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Kawashima2004",
+      "id": 10167,
+      "key": "8KQCZB7P",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/8KQCZB7P",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/8KQCZB7P",
+        "type": "article-journal",
+        "container-title": "Dysphagia",
+        "DOI": "10.1007/s00455-004-0013-6",
+        "issue": "4",
+        "note": "NHIS reference ID: Kawashima2004\nPMID: 15667063",
+        "page": "266-271",
+        "PMID": "15667063",
+        "title": "Prevalence of dysphagia among community-dwelling elderly individuals as estimated using a questionnaire for dysphagia screening.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/15667063/",
+        "volume": "19",
+        "author": [
+          {
+            "family": "Kawashima",
+            "given": "Kei"
+          },
+          {
+            "family": "Motohashi",
+            "given": "Yutaka"
+          },
+          {
+            "family": "Fujishima",
+            "given": "Ichiro"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2004"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10167,
+        "type": "article-journal",
+        "container-title": "Dysphagia",
+        "DOI": "10.1007/s00455-004-0013-6",
+        "issue": "4",
+        "note": "NHIS reference ID: Kawashima2004\nPMID: 15667063",
+        "page": "266-271",
+        "PMID": "15667063",
+        "title": "Prevalence of dysphagia among community-dwelling elderly individuals as estimated using a questionnaire for dysphagia screening.",
+        "volume": "19",
+        "author": [
+          {
+            "family": "Kawashima",
+            "given": "Kei"
+          },
+          {
+            "family": "Motohashi",
+            "given": "Yutaka"
+          },
+          {
+            "family": "Fujishima",
+            "given": "Ichiro"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2004"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Holland2011",
+      "id": 10168,
+      "key": "BL7VDZT8",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/BL7VDZT8",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/BL7VDZT8",
+        "type": "article-journal",
+        "container-title": "Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus",
+        "DOI": "10.1111/j.1442-2050.2011.01182.x",
+        "issue": "7",
+        "note": "NHIS reference ID: Holland2011\nPMID: 21385285",
+        "page": "476-480",
+        "PMID": "21385285",
+        "title": "Prevalence and symptom profiling of oropharyngeal dysphagia in a community dwelling of an elderly population: a self-reporting questionnaire survey.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/21385285/",
+        "volume": "24",
+        "author": [
+          {
+            "family": "Holland",
+            "given": "G"
+          },
+          {
+            "family": "Jayasekeran",
+            "given": "V"
+          },
+          {
+            "family": "Pendleton",
+            "given": "N"
+          },
+          {
+            "family": "Horan",
+            "given": "M"
+          },
+          {
+            "family": "Jones",
+            "given": "M"
+          },
+          {
+            "family": "Hamdy",
+            "given": "S"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2011"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10168,
+        "type": "article-journal",
+        "container-title": "Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus",
+        "DOI": "10.1111/j.1442-2050.2011.01182.x",
+        "issue": "7",
+        "note": "NHIS reference ID: Holland2011\nPMID: 21385285",
+        "page": "476-480",
+        "PMID": "21385285",
+        "title": "Prevalence and symptom profiling of oropharyngeal dysphagia in a community dwelling of an elderly population: a self-reporting questionnaire survey.",
+        "volume": "24",
+        "author": [
+          {
+            "family": "Holland",
+            "given": "G"
+          },
+          {
+            "family": "Jayasekeran",
+            "given": "V"
+          },
+          {
+            "family": "Pendleton",
+            "given": "N"
+          },
+          {
+            "family": "Horan",
+            "given": "M"
+          },
+          {
+            "family": "Jones",
+            "given": "M"
+          },
+          {
+            "family": "Hamdy",
+            "given": "S"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2011"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Hong2024Function",
+      "id": 10169,
+      "key": "WZU3I7K9",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/WZU3I7K9",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/WZU3I7K9",
+        "type": "article-journal",
+        "container-title": "Dysphagia",
+        "DOI": "10.1007/s00455-024-10680-8",
+        "issue": "6",
+        "note": "NHIS reference ID: Hong2024Function\nPMID: 38502346",
+        "page": "1042-1051",
+        "PMID": "38502346",
+        "title": "Dysphagia and Functional Limitations Among Adults in the United States: Findings from the 2022 National Health Interview Survey.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/38502346/",
+        "volume": "39",
+        "author": [
+          {
+            "family": "Hong",
+            "given": "Ickpyo"
+          },
+          {
+            "family": "Norman",
+            "given": "Rocío S"
+          },
+          {
+            "family": "Woo",
+            "given": "Hee-Soon"
+          },
+          {
+            "family": "Jin",
+            "given": "Yeonju"
+          },
+          {
+            "family": "Reistetter",
+            "given": "Timothy A"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2024"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10169,
+        "type": "article-journal",
+        "container-title": "Dysphagia",
+        "DOI": "10.1007/s00455-024-10680-8",
+        "issue": "6",
+        "note": "NHIS reference ID: Hong2024Function\nPMID: 38502346",
+        "page": "1042-1051",
+        "PMID": "38502346",
+        "title": "Dysphagia and Functional Limitations Among Adults in the United States: Findings from the 2022 National Health Interview Survey.",
+        "volume": "39",
+        "author": [
+          {
+            "family": "Hong",
+            "given": "Ickpyo"
+          },
+          {
+            "family": "Norman",
+            "given": "Rocío S"
+          },
+          {
+            "family": "Woo",
+            "given": "Hee-Soon"
+          },
+          {
+            "family": "Jin",
+            "given": "Yeonju"
+          },
+          {
+            "family": "Reistetter",
+            "given": "Timothy A"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2024"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Zhao2025",
+      "id": 10170,
+      "key": "ZQZ4TVSK",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/ZQZ4TVSK",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/ZQZ4TVSK",
+        "type": "article-journal",
+        "container-title": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+        "DOI": "10.1002/ohn.1239",
+        "issue": "1",
+        "note": "NHIS reference ID: Zhao2025\nPMID: 40167204",
+        "page": "162-170",
+        "PMID": "40167204",
+        "title": "Dysphagia Care in the United States: Examining the Impact of the Affordable Care Act on Access to Care.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/40167204/",
+        "volume": "173",
+        "author": [
+          {
+            "family": "Zhao",
+            "given": "Robin"
+          },
+          {
+            "family": "He",
+            "given": "Linh"
+          },
+          {
+            "family": "Albert",
+            "given": "Sara W"
+          },
+          {
+            "family": "Li",
+            "given": "Alexandra"
+          },
+          {
+            "family": "Rameau",
+            "given": "Anaïs"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2025"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10170,
+        "type": "article-journal",
+        "container-title": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+        "DOI": "10.1002/ohn.1239",
+        "issue": "1",
+        "note": "NHIS reference ID: Zhao2025\nPMID: 40167204",
+        "page": "162-170",
+        "PMID": "40167204",
+        "title": "Dysphagia Care in the United States: Examining the Impact of the Affordable Care Act on Access to Care.",
+        "volume": "173",
+        "author": [
+          {
+            "family": "Zhao",
+            "given": "Robin"
+          },
+          {
+            "family": "He",
+            "given": "Linh"
+          },
+          {
+            "family": "Albert",
+            "given": "Sara W"
+          },
+          {
+            "family": "Li",
+            "given": "Alexandra"
+          },
+          {
+            "family": "Rameau",
+            "given": "Anaïs"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2025"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Mann1999",
+      "id": 10171,
+      "key": "4UHE3A2C",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/4UHE3A2C",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/4UHE3A2C",
+        "type": "article-journal",
+        "container-title": "Stroke",
+        "DOI": "10.1161/01.str.30.4.744",
+        "issue": "4",
+        "note": "NHIS reference ID: Mann1999\nPMID: 10187872",
+        "page": "744-748",
+        "PMID": "10187872",
+        "title": "Swallowing function after stroke: prognosis and prognostic factors at 6 months.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/10187872/",
+        "volume": "30",
+        "author": [
+          {
+            "family": "Mann",
+            "given": "G"
+          },
+          {
+            "family": "Hankey",
+            "given": "G J"
+          },
+          {
+            "family": "Cameron",
+            "given": "D"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "1999"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10171,
+        "type": "article-journal",
+        "container-title": "Stroke",
+        "DOI": "10.1161/01.str.30.4.744",
+        "issue": "4",
+        "note": "NHIS reference ID: Mann1999\nPMID: 10187872",
+        "page": "744-748",
+        "PMID": "10187872",
+        "title": "Swallowing function after stroke: prognosis and prognostic factors at 6 months.",
+        "volume": "30",
+        "author": [
+          {
+            "family": "Mann",
+            "given": "G"
+          },
+          {
+            "family": "Hankey",
+            "given": "G J"
+          },
+          {
+            "family": "Cameron",
+            "given": "D"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "1999"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Belafsky2008",
+      "id": 10172,
+      "key": "GEX9IDTQ",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/GEX9IDTQ",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/GEX9IDTQ",
+        "type": "article-journal",
+        "container-title": "The Annals of otology, rhinology, and laryngology",
+        "DOI": "10.1177/000348940811701210",
+        "issue": "12",
+        "note": "NHIS reference ID: Belafsky2008\nPMID: 19140539",
+        "page": "919-924",
+        "PMID": "19140539",
+        "title": "Validity and reliability of the Eating Assessment Tool (EAT-10).",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/19140539/",
+        "volume": "117",
+        "author": [
+          {
+            "family": "Belafsky",
+            "given": "Peter C"
+          },
+          {
+            "family": "Mouadeb",
+            "given": "Debbie A"
+          },
+          {
+            "family": "Rees",
+            "given": "Catherine J"
+          },
+          {
+            "family": "Pryor",
+            "given": "Jan C"
+          },
+          {
+            "family": "Postma",
+            "given": "Gregory N"
+          },
+          {
+            "family": "Allen",
+            "given": "Jacqueline"
+          },
+          {
+            "family": "Leonard",
+            "given": "Rebecca J"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2008"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10172,
+        "type": "article-journal",
+        "container-title": "The Annals of otology, rhinology, and laryngology",
+        "DOI": "10.1177/000348940811701210",
+        "issue": "12",
+        "note": "NHIS reference ID: Belafsky2008\nPMID: 19140539",
+        "page": "919-924",
+        "PMID": "19140539",
+        "title": "Validity and reliability of the Eating Assessment Tool (EAT-10).",
+        "volume": "117",
+        "author": [
+          {
+            "family": "Belafsky",
+            "given": "Peter C"
+          },
+          {
+            "family": "Mouadeb",
+            "given": "Debbie A"
+          },
+          {
+            "family": "Rees",
+            "given": "Catherine J"
+          },
+          {
+            "family": "Pryor",
+            "given": "Jan C"
+          },
+          {
+            "family": "Postma",
+            "given": "Gregory N"
+          },
+          {
+            "family": "Allen",
+            "given": "Jacqueline"
+          },
+          {
+            "family": "Leonard",
+            "given": "Rebecca J"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2008"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Leiman2023",
+      "id": 10173,
+      "key": "LFPJ3L78",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/LFPJ3L78",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/LFPJ3L78",
+        "type": "article-journal",
+        "container-title": "Journal of general internal medicine",
+        "DOI": "10.1007/s11606-023-08232-1",
+        "issue": "15",
+        "note": "NHIS reference ID: Leiman2023\nPMID: 37254012",
+        "page": "3329-3338",
+        "PMID": "37254012",
+        "PMCID": "PMC10681967",
+        "title": "Self-Reported Dysphagia and Psychosocial Health Among Community-Dwelling Older Adults: Results of a National Study.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/37254012/",
+        "volume": "38",
+        "author": [
+          {
+            "family": "Leiman",
+            "given": "David A"
+          },
+          {
+            "family": "Jones",
+            "given": "Harrison N"
+          },
+          {
+            "family": "North",
+            "given": "Rebecca"
+          },
+          {
+            "family": "Porter Starr",
+            "given": "Kathryn N"
+          },
+          {
+            "family": "Pieper",
+            "given": "Carl F"
+          },
+          {
+            "family": "Cohen",
+            "given": "Seth M"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2023"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10173,
+        "type": "article-journal",
+        "container-title": "Journal of general internal medicine",
+        "DOI": "10.1007/s11606-023-08232-1",
+        "issue": "15",
+        "note": "NHIS reference ID: Leiman2023\nPMID: 37254012",
+        "page": "3329-3338",
+        "PMID": "37254012",
+        "PMCID": "PMC10681967",
+        "title": "Self-Reported Dysphagia and Psychosocial Health Among Community-Dwelling Older Adults: Results of a National Study.",
+        "volume": "38",
+        "author": [
+          {
+            "family": "Leiman",
+            "given": "David A"
+          },
+          {
+            "family": "Jones",
+            "given": "Harrison N"
+          },
+          {
+            "family": "North",
+            "given": "Rebecca"
+          },
+          {
+            "family": "Porter Starr",
+            "given": "Kathryn N"
+          },
+          {
+            "family": "Pieper",
+            "given": "Carl F"
+          },
+          {
+            "family": "Cohen",
+            "given": "Seth M"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2023"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "SerraPrat2012",
+      "id": 10174,
+      "key": "PQ476F5K",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/PQ476F5K",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/PQ476F5K",
+        "type": "article-journal",
+        "container-title": "Age and ageing",
+        "DOI": "10.1093/ageing/afs006",
+        "issue": "3",
+        "note": "NHIS reference ID: SerraPrat2012\nPMID: 22311895",
+        "page": "376-381",
+        "PMID": "22311895",
+        "title": "Oropharyngeal dysphagia as a risk factor for malnutrition and lower respiratory tract infection in independently living older persons: a population-based prospective study.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/22311895/",
+        "volume": "41",
+        "author": [
+          {
+            "family": "Serra-Prat",
+            "given": "Mateu"
+          },
+          {
+            "family": "Palomera",
+            "given": "Mercè"
+          },
+          {
+            "family": "Gomez",
+            "given": "Carlos"
+          },
+          {
+            "family": "Sar-Shalom",
+            "given": "David"
+          },
+          {
+            "family": "Saiz",
+            "given": "Adoración"
+          },
+          {
+            "family": "Montoya",
+            "given": "Jorge G"
+          },
+          {
+            "family": "Navajas",
+            "given": "Mario"
+          },
+          {
+            "family": "Palomera",
+            "given": "Elisabet"
+          },
+          {
+            "family": "Clavé",
+            "given": "Pere"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2012"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10174,
+        "type": "article-journal",
+        "container-title": "Age and ageing",
+        "DOI": "10.1093/ageing/afs006",
+        "issue": "3",
+        "note": "NHIS reference ID: SerraPrat2012\nPMID: 22311895",
+        "page": "376-381",
+        "PMID": "22311895",
+        "title": "Oropharyngeal dysphagia as a risk factor for malnutrition and lower respiratory tract infection in independently living older persons: a population-based prospective study.",
+        "volume": "41",
+        "author": [
+          {
+            "family": "Serra-Prat",
+            "given": "Mateu"
+          },
+          {
+            "family": "Palomera",
+            "given": "Mercè"
+          },
+          {
+            "family": "Gomez",
+            "given": "Carlos"
+          },
+          {
+            "family": "Sar-Shalom",
+            "given": "David"
+          },
+          {
+            "family": "Saiz",
+            "given": "Adoración"
+          },
+          {
+            "family": "Montoya",
+            "given": "Jorge G"
+          },
+          {
+            "family": "Navajas",
+            "given": "Mario"
+          },
+          {
+            "family": "Palomera",
+            "given": "Elisabet"
+          },
+          {
+            "family": "Clavé",
+            "given": "Pere"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2012"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Yang2013",
+      "id": 10175,
+      "key": "7I49JZ7S",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/7I49JZ7S",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/7I49JZ7S",
+        "type": "article-journal",
+        "container-title": "Journal of Korean medical science",
+        "DOI": "10.3346/jkms.2013.28.10.1534",
+        "issue": "10",
+        "note": "NHIS reference ID: Yang2013\nPMID: 24133362",
+        "page": "1534-1539",
+        "PMID": "24133362",
+        "PMCID": "PMC3792611",
+        "title": "Oropharyngeal Dysphagia in a community-based elderly cohort: the korean longitudinal study on health and aging.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/24133362/",
+        "volume": "28",
+        "author": [
+          {
+            "family": "Yang",
+            "given": "Eun Joo"
+          },
+          {
+            "family": "Kim",
+            "given": "Mi Hyun"
+          },
+          {
+            "family": "Lim",
+            "given": "Jae-young"
+          },
+          {
+            "family": "Paik",
+            "given": "Nam-Jong"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2013"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10175,
+        "type": "article-journal",
+        "container-title": "Journal of Korean medical science",
+        "DOI": "10.3346/jkms.2013.28.10.1534",
+        "issue": "10",
+        "note": "NHIS reference ID: Yang2013\nPMID: 24133362",
+        "page": "1534-1539",
+        "PMID": "24133362",
+        "PMCID": "PMC3792611",
+        "title": "Oropharyngeal Dysphagia in a community-based elderly cohort: the korean longitudinal study on health and aging.",
+        "volume": "28",
+        "author": [
+          {
+            "family": "Yang",
+            "given": "Eun Joo"
+          },
+          {
+            "family": "Kim",
+            "given": "Mi Hyun"
+          },
+          {
+            "family": "Lim",
+            "given": "Jae-young"
+          },
+          {
+            "family": "Paik",
+            "given": "Nam-Jong"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2013"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Martino2005",
+      "id": 10176,
+      "key": "3VDI3RRY",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/3VDI3RRY",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/3VDI3RRY",
+        "type": "article-journal",
+        "container-title": "Stroke",
+        "DOI": "10.1161/01.STR.0000190056.76543.eb",
+        "issue": "12",
+        "note": "NHIS reference ID: Martino2005\nPMID: 16269630",
+        "page": "2756-2763",
+        "PMID": "16269630",
+        "title": "Dysphagia after stroke: incidence, diagnosis, and pulmonary complications.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/16269630/",
+        "volume": "36",
+        "author": [
+          {
+            "family": "Martino",
+            "given": "Rosemary"
+          },
+          {
+            "family": "Foley",
+            "given": "Norine"
+          },
+          {
+            "family": "Bhogal",
+            "given": "Sanjit"
+          },
+          {
+            "family": "Diamant",
+            "given": "Nicholas"
+          },
+          {
+            "family": "Speechley",
+            "given": "Mark"
+          },
+          {
+            "family": "Teasell",
+            "given": "Robert"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2005"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10176,
+        "type": "article-journal",
+        "container-title": "Stroke",
+        "DOI": "10.1161/01.STR.0000190056.76543.eb",
+        "issue": "12",
+        "note": "NHIS reference ID: Martino2005\nPMID: 16269630",
+        "page": "2756-2763",
+        "PMID": "16269630",
+        "title": "Dysphagia after stroke: incidence, diagnosis, and pulmonary complications.",
+        "volume": "36",
+        "author": [
+          {
+            "family": "Martino",
+            "given": "Rosemary"
+          },
+          {
+            "family": "Foley",
+            "given": "Norine"
+          },
+          {
+            "family": "Bhogal",
+            "given": "Sanjit"
+          },
+          {
+            "family": "Diamant",
+            "given": "Nicholas"
+          },
+          {
+            "family": "Speechley",
+            "given": "Mark"
+          },
+          {
+            "family": "Teasell",
+            "given": "Robert"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2005"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Jones2023",
+      "id": 10177,
+      "key": "M3IPZQB2",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/M3IPZQB2",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/M3IPZQB2",
+        "type": "article-journal",
+        "container-title": "Journal of applied gerontology : the official journal of the Southern Gerontological Society",
+        "DOI": "10.1177/07334648231177568",
+        "issue": "9",
+        "note": "NHIS reference ID: Jones2023\nPMID: 37249305",
+        "page": "1993-2002",
+        "PMID": "37249305",
+        "PMCID": "PMC10811649",
+        "title": "Dysphagia in Older Adults is Associated With Food Insecurity and Being Homebound.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/37249305/",
+        "volume": "42",
+        "author": [
+          {
+            "family": "Jones",
+            "given": "Harrison N"
+          },
+          {
+            "family": "Leiman",
+            "given": "David A"
+          },
+          {
+            "family": "Porter Starr",
+            "given": "Kathryn N"
+          },
+          {
+            "family": "North",
+            "given": "Rebecca"
+          },
+          {
+            "family": "Pieper",
+            "given": "Carl F"
+          },
+          {
+            "family": "Robison",
+            "given": "Raele D"
+          },
+          {
+            "family": "Cohen",
+            "given": "Seth M"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2023"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10177,
+        "type": "article-journal",
+        "container-title": "Journal of applied gerontology : the official journal of the Southern Gerontological Society",
+        "DOI": "10.1177/07334648231177568",
+        "issue": "9",
+        "note": "NHIS reference ID: Jones2023\nPMID: 37249305",
+        "page": "1993-2002",
+        "PMID": "37249305",
+        "PMCID": "PMC10811649",
+        "title": "Dysphagia in Older Adults is Associated With Food Insecurity and Being Homebound.",
+        "volume": "42",
+        "author": [
+          {
+            "family": "Jones",
+            "given": "Harrison N"
+          },
+          {
+            "family": "Leiman",
+            "given": "David A"
+          },
+          {
+            "family": "Porter Starr",
+            "given": "Kathryn N"
+          },
+          {
+            "family": "North",
+            "given": "Rebecca"
+          },
+          {
+            "family": "Pieper",
+            "given": "Carl F"
+          },
+          {
+            "family": "Robison",
+            "given": "Raele D"
+          },
+          {
+            "family": "Cohen",
+            "given": "Seth M"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2023"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Dziewas2021",
+      "id": 10178,
+      "key": "SF59FRH4",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/SF59FRH4",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/SF59FRH4",
+        "type": "article-journal",
+        "container-title": "European stroke journal",
+        "DOI": "10.1177/23969873211039721",
+        "issue": "3",
+        "note": "NHIS reference ID: Dziewas2021\nPMID: 34746431",
+        "page": "LXXXIX-CXV",
+        "PMID": "34746431",
+        "PMCID": "PMC8564153",
+        "title": "European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/34746431/",
+        "volume": "6",
+        "author": [
+          {
+            "family": "Dziewas",
+            "given": "Rainer"
+          },
+          {
+            "family": "Michou",
+            "given": "Emilia"
+          },
+          {
+            "family": "Trapl-Grundschober",
+            "given": "Michaela"
+          },
+          {
+            "family": "Lal",
+            "given": "Avtar"
+          },
+          {
+            "family": "Arsava",
+            "given": "Ethem Murat"
+          },
+          {
+            "family": "Bath",
+            "given": "Philip M"
+          },
+          {
+            "family": "Clavé",
+            "given": "Pere"
+          },
+          {
+            "family": "Glahn",
+            "given": "Jörg"
+          },
+          {
+            "family": "Hamdy",
+            "given": "Shaheen"
+          },
+          {
+            "family": "Pownall",
+            "given": "Sue"
+          },
+          {
+            "family": "Schindler",
+            "given": "Antonio"
+          },
+          {
+            "family": "Walshe",
+            "given": "Margaret"
+          },
+          {
+            "family": "Wirth",
+            "given": "Rainer"
+          },
+          {
+            "family": "Wright",
+            "given": "David"
+          },
+          {
+            "family": "Verin",
+            "given": "Eric"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2021"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10178,
+        "type": "article-journal",
+        "container-title": "European stroke journal",
+        "DOI": "10.1177/23969873211039721",
+        "issue": "3",
+        "note": "NHIS reference ID: Dziewas2021\nPMID: 34746431",
+        "page": "LXXXIX-CXV",
+        "PMID": "34746431",
+        "PMCID": "PMC8564153",
+        "title": "European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia.",
+        "volume": "6",
+        "author": [
+          {
+            "family": "Dziewas",
+            "given": "Rainer"
+          },
+          {
+            "family": "Michou",
+            "given": "Emilia"
+          },
+          {
+            "family": "Trapl-Grundschober",
+            "given": "Michaela"
+          },
+          {
+            "family": "Lal",
+            "given": "Avtar"
+          },
+          {
+            "family": "Arsava",
+            "given": "Ethem Murat"
+          },
+          {
+            "family": "Bath",
+            "given": "Philip M"
+          },
+          {
+            "family": "Clavé",
+            "given": "Pere"
+          },
+          {
+            "family": "Glahn",
+            "given": "Jörg"
+          },
+          {
+            "family": "Hamdy",
+            "given": "Shaheen"
+          },
+          {
+            "family": "Pownall",
+            "given": "Sue"
+          },
+          {
+            "family": "Schindler",
+            "given": "Antonio"
+          },
+          {
+            "family": "Walshe",
+            "given": "Margaret"
+          },
+          {
+            "family": "Wirth",
+            "given": "Rainer"
+          },
+          {
+            "family": "Wright",
+            "given": "David"
+          },
+          {
+            "family": "Verin",
+            "given": "Eric"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2021"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "STROBE2007",
+      "id": 10179,
+      "key": "6TWX68KW",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/6TWX68KW",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/6TWX68KW",
+        "type": "article-journal",
+        "container-title": "PLoS medicine",
+        "DOI": "10.1371/journal.pmed.0040296",
+        "issue": "10",
+        "note": "NHIS reference ID: STROBE2007\nPMID: 17941714",
+        "page": "e296",
+        "PMID": "17941714",
+        "PMCID": "PMC2020495",
+        "title": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies.",
+        "URL": "https://pubmed.ncbi.nlm.nih.gov/17941714/",
+        "volume": "4",
+        "author": [
+          {
+            "family": "Elm",
+            "given": "Erik",
+            "non-dropping-particle": "von"
+          },
+          {
+            "family": "Altman",
+            "given": "Douglas G"
+          },
+          {
+            "family": "Egger",
+            "given": "Matthias"
+          },
+          {
+            "family": "Pocock",
+            "given": "Stuart J"
+          },
+          {
+            "family": "Gøtzsche",
+            "given": "Peter C"
+          },
+          {
+            "family": "Vandenbroucke",
+            "given": "Jan P"
+          },
+          {
+            "literal": "STROBE Initiative"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2007"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10179,
+        "type": "article-journal",
+        "container-title": "PLoS medicine",
+        "DOI": "10.1371/journal.pmed.0040296",
+        "issue": "10",
+        "note": "NHIS reference ID: STROBE2007\nPMID: 17941714",
+        "page": "e296",
+        "PMID": "17941714",
+        "PMCID": "PMC2020495",
+        "title": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies.",
+        "volume": "4",
+        "author": [
+          {
+            "family": "Elm",
+            "given": "Erik",
+            "non-dropping-particle": "von"
+          },
+          {
+            "family": "Altman",
+            "given": "Douglas G"
+          },
+          {
+            "family": "Egger",
+            "given": "Matthias"
+          },
+          {
+            "family": "Pocock",
+            "given": "Stuart J"
+          },
+          {
+            "family": "Gøtzsche",
+            "given": "Peter C"
+          },
+          {
+            "family": "Vandenbroucke",
+            "given": "Jan P"
+          },
+          {
+            "literal": "STROBE Initiative"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2007"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "Lumley2004",
+      "id": 10180,
+      "key": "Q2N9VKI8",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/Q2N9VKI8",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/Q2N9VKI8",
+        "type": "article-journal",
+        "container-title": "Journal of Statistical Software",
+        "DOI": "10.18637/jss.v009.i08",
+        "issue": "8",
+        "note": "NHIS reference ID: Lumley2004",
+        "title": "Analysis of Complex Survey Samples",
+        "URL": "https://www.jstatsoft.org/article/view/v009i08",
+        "volume": "9",
+        "author": [
+          {
+            "family": "Lumley",
+            "given": "Thomas"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2004",
+              4,
+              15
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10180,
+        "type": "article-journal",
+        "container-title": "Journal of Statistical Software",
+        "DOI": "10.18637/jss.v009.i08",
+        "issue": "8",
+        "note": "NHIS reference ID: Lumley2004",
+        "title": "Analysis of Complex Survey Samples",
+        "URL": "https://www.jstatsoft.org/article/view/v009i08",
+        "volume": "9",
+        "author": [
+          {
+            "family": "Lumley",
+            "given": "Thomas"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2004",
+              4,
+              15
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "NHIS2022Survey",
+      "id": 10181,
+      "key": "GY8LGCHV",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/GY8LGCHV",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/GY8LGCHV",
+        "type": "report",
+        "note": "NHIS reference ID: NHIS2022Survey",
+        "publisher": "Centers for Disease Control and Prevention",
+        "title": "National Health Interview Survey, 2022 survey description",
+        "URL": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/srvydesc-508.pdf",
+        "author": [
+          {
+            "literal": "National Center for Health Statistics"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2023"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10181,
+        "type": "report",
+        "note": "NHIS reference ID: NHIS2022Survey",
+        "publisher": "Centers for Disease Control and Prevention",
+        "title": "National Health Interview Survey, 2022 survey description",
+        "URL": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/srvydesc-508.pdf",
+        "author": [
+          {
+            "literal": "National Center for Health Statistics"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2023"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "NHIS2022Codebook",
+      "id": 10182,
+      "key": "K8C67EAV",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/K8C67EAV",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/K8C67EAV",
+        "type": "report",
+        "note": "NHIS reference ID: NHIS2022Codebook",
+        "publisher": "Centers for Disease Control and Prevention",
+        "title": "2022 National Health Interview Survey: Codebook for Sample Adult File",
+        "URL": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/adult-codebook.pdf",
+        "author": [
+          {
+            "literal": "National Center for Health Statistics"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2023"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10182,
+        "type": "report",
+        "note": "NHIS reference ID: NHIS2022Codebook",
+        "publisher": "Centers for Disease Control and Prevention",
+        "title": "2022 National Health Interview Survey: Codebook for Sample Adult File",
+        "URL": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/adult-codebook.pdf",
+        "author": [
+          {
+            "literal": "National Center for Health Statistics"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2023"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "NHIS2025Survey",
+      "id": 10183,
+      "key": "RADDCIRK",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/RADDCIRK",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/RADDCIRK",
+        "type": "report",
+        "note": "NHIS reference ID: NHIS2025Survey",
+        "publisher": "Centers for Disease Control and Prevention",
+        "title": "National Health Interview Survey, 2025 survey description",
+        "URL": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/srvydesc-508.pdf",
+        "author": [
+          {
+            "literal": "National Center for Health Statistics"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2026"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10183,
+        "type": "report",
+        "note": "NHIS reference ID: NHIS2025Survey",
+        "publisher": "Centers for Disease Control and Prevention",
+        "title": "National Health Interview Survey, 2025 survey description",
+        "URL": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/srvydesc-508.pdf",
+        "author": [
+          {
+            "literal": "National Center for Health Statistics"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2026"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "NHIS2025Codebook",
+      "id": 10184,
+      "key": "B9VEHGCF",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/B9VEHGCF",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/B9VEHGCF",
+        "type": "report",
+        "note": "NHIS reference ID: NHIS2025Codebook",
+        "publisher": "Centers for Disease Control and Prevention",
+        "title": "2025 National Health Interview Survey: Codebook for Sample Adult File",
+        "URL": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/adult-codebook.pdf",
+        "author": [
+          {
+            "literal": "National Center for Health Statistics"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2026"
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10184,
+        "type": "report",
+        "note": "NHIS reference ID: NHIS2025Codebook",
+        "publisher": "Centers for Disease Control and Prevention",
+        "title": "2025 National Health Interview Survey: Codebook for Sample Adult File",
+        "URL": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/adult-codebook.pdf",
+        "author": [
+          {
+            "literal": "National Center for Health Statistics"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              "2026"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "refID": "CDCAgeStandard",
+      "id": 10185,
+      "key": "DZJBURSC",
+      "libraryID": 1,
+      "uri": "http://zotero.org/users/local/m3300APk/items/DZJBURSC",
+      "csl": {
+        "id": "http://zotero.org/users/local/m3300APk/items/DZJBURSC",
+        "type": "webpage",
+        "note": "NHIS reference ID: CDCAgeStandard",
+        "title": "Age adjustment - Health, United States",
+        "URL": "https://www.cdc.gov/nchs/hus/sources-definitions/age-adjustment.htm",
+        "author": [
+          {
+            "literal": "National Center for Health Statistics"
+          }
+        ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2026",
+              11,
+              6
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              "2026",
+              9,
+              16
+            ]
+          ]
+        }
+      },
+      "citeprocItemData": {
+        "id": 10185,
+        "type": "webpage",
+        "note": "NHIS reference ID: CDCAgeStandard",
+        "title": "Age adjustment - Health, United States",
+        "URL": "https://www.cdc.gov/nchs/hus/sources-definitions/age-adjustment.htm",
+        "author": [
+          {
+            "literal": "National Center for Health Statistics"
+          }
+        ],
+        "accessed": {
+          "date-parts": [
+            [
+              "2026",
+              11,
+              6
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              "2026",
+              9,
+              16
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "bibliography": {
+    "purpose": "Complete-list processing proof in source-file order; final manuscript citation order is generated separately.",
+    "parameters": {
+      "maxoffset": 0,
+      "entryspacing": 1,
+      "linespacing": 1,
+      "second-field-align": false,
+      "entry_ids": [
+        [
+          "10161"
+        ],
+        [
+          "10162"
+        ],
+        [
+          "10163"
+        ],
+        [
+          "10164"
+        ],
+        [
+          "10165"
+        ],
+        [
+          "10166"
+        ],
+        [
+          "10167"
+        ],
+        [
+          "10168"
+        ],
+        [
+          "10169"
+        ],
+        [
+          "10170"
+        ],
+        [
+          "10171"
+        ],
+        [
+          "10172"
+        ],
+        [
+          "10173"
+        ],
+        [
+          "10174"
+        ],
+        [
+          "10175"
+        ],
+        [
+          "10176"
+        ],
+        [
+          "10177"
+        ],
+        [
+          "10178"
+        ],
+        [
+          "10179"
+        ],
+        [
+          "10180"
+        ],
+        [
+          "10181"
+        ],
+        [
+          "10182"
+        ],
+        [
+          "10183"
+        ],
+        [
+          "10184"
+        ],
+        [
+          "10185"
+        ]
+      ],
+      "bibliography_errors": [],
+      "done": false,
+      "bibstart": "",
+      "bibend": ""
+    },
+    "entries": [
+      {
+        "number": 1,
+        "itemIDs": [
+          "10161"
+        ],
+        "refIDs": [
+          "Bhattacharyya2014"
+        ],
+        "text": "1. Bhattacharyya N. The prevalence of dysphagia among adults in the United States. Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery. 2014;151:765–9. https://doi.org/10.1177/0194599814549156"
+      },
+      {
+        "number": 2,
+        "itemIDs": [
+          "10162"
+        ],
+        "refIDs": [
+          "Hong2024Prevalence"
+        ],
+        "text": "2. Hong I, Bae S, Lee HK, Bonilha HS. Prevalence of Dysphonia and Dysphagia Among Adults in the United States in 2012 and 2022. American journal of speech-language pathology. 2024;33:1868–79. https://doi.org/10.1044/2024_AJSLP-23-00407"
+      },
+      {
+        "number": 3,
+        "itemIDs": [
+          "10163"
+        ],
+        "refIDs": [
+          "Namasivayam2026"
+        ],
+        "text": "3. Namasivayam-MacDonald A, Werbeloff M, Shune S. Prevalence and Predictors of Self-Reported Swallowing Difficulties in Community-Dwelling Older Adults: A Population-Based Study from the National Health and Aging Trends Study (NHATS). Dysphagia. 2026;41:127–37. https://doi.org/10.1007/s00455-025-10860-0"
+      },
+      {
+        "number": 4,
+        "itemIDs": [
+          "10164"
+        ],
+        "refIDs": [
+          "Disparities2023"
+        ],
+        "text": "4. Zheng M, Zhou S, Hur K, Chambers T, O’Dell K, Johns M. Disparities in the prevalence of self-reported dysphagia and treatment among U.S. adults. American journal of otolaryngology. 2023;44:103774. https://doi.org/10.1016/j.amjoto.2022.103774"
+      },
+      {
+        "number": 5,
+        "itemIDs": [
+          "10165"
+        ],
+        "refIDs": [
+          "Madhavan2016"
+        ],
+        "text": "5. Madhavan A, LaGorio LA, Crary MA, Dahl WJ, Carnaby GD. Prevalence of and Risk Factors for Dysphagia in the Community Dwelling Elderly: A Systematic Review. The journal of nutrition, health & aging. 2016;20:806–15. https://doi.org/10.1007/s12603-016-0712-3"
+      },
+      {
+        "number": 6,
+        "itemIDs": [
+          "10166"
+        ],
+        "refIDs": [
+          "Frequency2022"
+        ],
+        "text": "6. Rech RS, de Goulart BNG, Dos Santos KW, Marcolino MAZ, Hilgert JB. Frequency and associated factors for swallowing impairment in community-dwelling older persons: a systematic review and meta-analysis. Aging clinical and experimental research. 2022;34:2945–61. https://doi.org/10.1007/s40520-022-02258-x"
+      },
+      {
+        "number": 7,
+        "itemIDs": [
+          "10167"
+        ],
+        "refIDs": [
+          "Kawashima2004"
+        ],
+        "text": "7. Kawashima K, Motohashi Y, Fujishima I. Prevalence of dysphagia among community-dwelling elderly individuals as estimated using a questionnaire for dysphagia screening. Dysphagia. 2004;19:266–71. https://doi.org/10.1007/s00455-004-0013-6"
+      },
+      {
+        "number": 8,
+        "itemIDs": [
+          "10168"
+        ],
+        "refIDs": [
+          "Holland2011"
+        ],
+        "text": "8. Holland G, Jayasekeran V, Pendleton N, Horan M, Jones M, Hamdy S. Prevalence and symptom profiling of oropharyngeal dysphagia in a community dwelling of an elderly population: a self-reporting questionnaire survey. Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus. 2011;24:476–80. https://doi.org/10.1111/j.1442-2050.2011.01182.x"
+      },
+      {
+        "number": 9,
+        "itemIDs": [
+          "10169"
+        ],
+        "refIDs": [
+          "Hong2024Function"
+        ],
+        "text": "9. Hong I, Norman RS, Woo H-S, Jin Y, Reistetter TA. Dysphagia and Functional Limitations Among Adults in the United States: Findings from the 2022 National Health Interview Survey. Dysphagia. 2024;39:1042–51. https://doi.org/10.1007/s00455-024-10680-8"
+      },
+      {
+        "number": 10,
+        "itemIDs": [
+          "10170"
+        ],
+        "refIDs": [
+          "Zhao2025"
+        ],
+        "text": "10. Zhao R, He L, Albert SW, Li A, Rameau A. Dysphagia Care in the United States: Examining the Impact of the Affordable Care Act on Access to Care. Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery. 2025;173:162–70. https://doi.org/10.1002/ohn.1239"
+      },
+      {
+        "number": 11,
+        "itemIDs": [
+          "10171"
+        ],
+        "refIDs": [
+          "Mann1999"
+        ],
+        "text": "11. Mann G, Hankey GJ, Cameron D. Swallowing function after stroke: prognosis and prognostic factors at 6 months. Stroke. 1999;30:744–8. https://doi.org/10.1161/01.str.30.4.744"
+      },
+      {
+        "number": 12,
+        "itemIDs": [
+          "10172"
+        ],
+        "refIDs": [
+          "Belafsky2008"
+        ],
+        "text": "12. Belafsky PC, Mouadeb DA, Rees CJ, Pryor JC, Postma GN, Allen J, et al. Validity and reliability of the Eating Assessment Tool (EAT-10). The Annals of otology, rhinology, and laryngology. 2008;117:919–24. https://doi.org/10.1177/000348940811701210"
+      },
+      {
+        "number": 13,
+        "itemIDs": [
+          "10173"
+        ],
+        "refIDs": [
+          "Leiman2023"
+        ],
+        "text": "13. Leiman DA, Jones HN, North R, Porter Starr KN, Pieper CF, Cohen SM. Self-Reported Dysphagia and Psychosocial Health Among Community-Dwelling Older Adults: Results of a National Study. Journal of general internal medicine. 2023;38:3329–38. https://doi.org/10.1007/s11606-023-08232-1"
+      },
+      {
+        "number": 14,
+        "itemIDs": [
+          "10174"
+        ],
+        "refIDs": [
+          "SerraPrat2012"
+        ],
+        "text": "14. Serra-Prat M, Palomera M, Gomez C, Sar-Shalom D, Saiz A, Montoya JG, et al. Oropharyngeal dysphagia as a risk factor for malnutrition and lower respiratory tract infection in independently living older persons: a population-based prospective study. Age and ageing. 2012;41:376–81. https://doi.org/10.1093/ageing/afs006"
+      },
+      {
+        "number": 15,
+        "itemIDs": [
+          "10175"
+        ],
+        "refIDs": [
+          "Yang2013"
+        ],
+        "text": "15. Yang EJ, Kim MH, Lim J, Paik N-J. Oropharyngeal Dysphagia in a community-based elderly cohort: the korean longitudinal study on health and aging. Journal of Korean medical science. 2013;28:1534–9. https://doi.org/10.3346/jkms.2013.28.10.1534"
+      },
+      {
+        "number": 16,
+        "itemIDs": [
+          "10176"
+        ],
+        "refIDs": [
+          "Martino2005"
+        ],
+        "text": "16. Martino R, Foley N, Bhogal S, Diamant N, Speechley M, Teasell R. Dysphagia after stroke: incidence, diagnosis, and pulmonary complications. Stroke. 2005;36:2756–63. https://doi.org/10.1161/01.STR.0000190056.76543.eb"
+      },
+      {
+        "number": 17,
+        "itemIDs": [
+          "10177"
+        ],
+        "refIDs": [
+          "Jones2023"
+        ],
+        "text": "17. Jones HN, Leiman DA, Porter Starr KN, North R, Pieper CF, Robison RD, et al. Dysphagia in Older Adults is Associated With Food Insecurity and Being Homebound. Journal of applied gerontology : the official journal of the Southern Gerontological Society. 2023;42:1993–2002. https://doi.org/10.1177/07334648231177568"
+      },
+      {
+        "number": 18,
+        "itemIDs": [
+          "10178"
+        ],
+        "refIDs": [
+          "Dziewas2021"
+        ],
+        "text": "18. Dziewas R, Michou E, Trapl-Grundschober M, Lal A, Arsava EM, Bath PM, et al. European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia. European stroke journal. 2021;6:LXXXIX–CXV. https://doi.org/10.1177/23969873211039721"
+      },
+      {
+        "number": 19,
+        "itemIDs": [
+          "10179"
+        ],
+        "refIDs": [
+          "STROBE2007"
+        ],
+        "text": "19. von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC, Vandenbroucke JP, et al. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies. PLoS medicine. 2007;4:e296. https://doi.org/10.1371/journal.pmed.0040296"
+      },
+      {
+        "number": 20,
+        "itemIDs": [
+          "10180"
+        ],
+        "refIDs": [
+          "Lumley2004"
+        ],
+        "text": "20. Lumley T. Analysis of Complex Survey Samples. Journal of Statistical Software [Internet]. 2004;9. https://doi.org/10.18637/jss.v009.i08"
+      },
+      {
+        "number": 21,
+        "itemIDs": [
+          "10181"
+        ],
+        "refIDs": [
+          "NHIS2022Survey"
+        ],
+        "text": "21. National Center for Health Statistics. National Health Interview Survey, 2022 survey description [Internet]. Centers for Disease Control and Prevention; 2023. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/srvydesc-508.pdf"
+      },
+      {
+        "number": 22,
+        "itemIDs": [
+          "10182"
+        ],
+        "refIDs": [
+          "NHIS2022Codebook"
+        ],
+        "text": "22. National Center for Health Statistics. 2022 National Health Interview Survey: Codebook for Sample Adult File [Internet]. Centers for Disease Control and Prevention; 2023. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/adult-codebook.pdf"
+      },
+      {
+        "number": 23,
+        "itemIDs": [
+          "10183"
+        ],
+        "refIDs": [
+          "NHIS2025Survey"
+        ],
+        "text": "23. National Center for Health Statistics. National Health Interview Survey, 2025 survey description [Internet]. Centers for Disease Control and Prevention; 2026. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/srvydesc-508.pdf"
+      },
+      {
+        "number": 24,
+        "itemIDs": [
+          "10184"
+        ],
+        "refIDs": [
+          "NHIS2025Codebook"
+        ],
+        "text": "24. National Center for Health Statistics. 2025 National Health Interview Survey: Codebook for Sample Adult File [Internet]. Centers for Disease Control and Prevention; 2026. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/adult-codebook.pdf"
+      },
+      {
+        "number": 25,
+        "itemIDs": [
+          "10185"
+        ],
+        "refIDs": [
+          "CDCAgeStandard"
+        ],
+        "text": "25. National Center for Health Statistics. Age adjustment - Health, United States [Internet]. 2026 [cited 2026 Nov 6]. https://www.cdc.gov/nchs/hus/sources-definitions/age-adjustment.htm. Accessed 6 Nov 2026"
+      }
+    ],
+    "text": "1. Bhattacharyya N. The prevalence of dysphagia among adults in the United States. Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery. 2014;151:765–9. https://doi.org/10.1177/0194599814549156\n2. Hong I, Bae S, Lee HK, Bonilha HS. Prevalence of Dysphonia and Dysphagia Among Adults in the United States in 2012 and 2022. American journal of speech-language pathology. 2024;33:1868–79. https://doi.org/10.1044/2024_AJSLP-23-00407\n3. Namasivayam-MacDonald A, Werbeloff M, Shune S. Prevalence and Predictors of Self-Reported Swallowing Difficulties in Community-Dwelling Older Adults: A Population-Based Study from the National Health and Aging Trends Study (NHATS). Dysphagia. 2026;41:127–37. https://doi.org/10.1007/s00455-025-10860-0\n4. Zheng M, Zhou S, Hur K, Chambers T, O’Dell K, Johns M. Disparities in the prevalence of self-reported dysphagia and treatment among U.S. adults. American journal of otolaryngology. 2023;44:103774. https://doi.org/10.1016/j.amjoto.2022.103774\n5. Madhavan A, LaGorio LA, Crary MA, Dahl WJ, Carnaby GD. Prevalence of and Risk Factors for Dysphagia in the Community Dwelling Elderly: A Systematic Review. The journal of nutrition, health & aging. 2016;20:806–15. https://doi.org/10.1007/s12603-016-0712-3\n6. Rech RS, de Goulart BNG, Dos Santos KW, Marcolino MAZ, Hilgert JB. Frequency and associated factors for swallowing impairment in community-dwelling older persons: a systematic review and meta-analysis. Aging clinical and experimental research. 2022;34:2945–61. https://doi.org/10.1007/s40520-022-02258-x\n7. Kawashima K, Motohashi Y, Fujishima I. Prevalence of dysphagia among community-dwelling elderly individuals as estimated using a questionnaire for dysphagia screening. Dysphagia. 2004;19:266–71. https://doi.org/10.1007/s00455-004-0013-6\n8. Holland G, Jayasekeran V, Pendleton N, Horan M, Jones M, Hamdy S. Prevalence and symptom profiling of oropharyngeal dysphagia in a community dwelling of an elderly population: a self-reporting questionnaire survey. Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus. 2011;24:476–80. https://doi.org/10.1111/j.1442-2050.2011.01182.x\n9. Hong I, Norman RS, Woo H-S, Jin Y, Reistetter TA. Dysphagia and Functional Limitations Among Adults in the United States: Findings from the 2022 National Health Interview Survey. Dysphagia. 2024;39:1042–51. https://doi.org/10.1007/s00455-024-10680-8\n10. Zhao R, He L, Albert SW, Li A, Rameau A. Dysphagia Care in the United States: Examining the Impact of the Affordable Care Act on Access to Care. Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery. 2025;173:162–70. https://doi.org/10.1002/ohn.1239\n11. Mann G, Hankey GJ, Cameron D. Swallowing function after stroke: prognosis and prognostic factors at 6 months. Stroke. 1999;30:744–8. https://doi.org/10.1161/01.str.30.4.744\n12. Belafsky PC, Mouadeb DA, Rees CJ, Pryor JC, Postma GN, Allen J, et al. Validity and reliability of the Eating Assessment Tool (EAT-10). The Annals of otology, rhinology, and laryngology. 2008;117:919–24. https://doi.org/10.1177/000348940811701210\n13. Leiman DA, Jones HN, North R, Porter Starr KN, Pieper CF, Cohen SM. Self-Reported Dysphagia and Psychosocial Health Among Community-Dwelling Older Adults: Results of a National Study. Journal of general internal medicine. 2023;38:3329–38. https://doi.org/10.1007/s11606-023-08232-1\n14. Serra-Prat M, Palomera M, Gomez C, Sar-Shalom D, Saiz A, Montoya JG, et al. Oropharyngeal dysphagia as a risk factor for malnutrition and lower respiratory tract infection in independently living older persons: a population-based prospective study. Age and ageing. 2012;41:376–81. https://doi.org/10.1093/ageing/afs006\n15. Yang EJ, Kim MH, Lim J, Paik N-J. Oropharyngeal Dysphagia in a community-based elderly cohort: the korean longitudinal study on health and aging. Journal of Korean medical science. 2013;28:1534–9. https://doi.org/10.3346/jkms.2013.28.10.1534\n16. Martino R, Foley N, Bhogal S, Diamant N, Speechley M, Teasell R. Dysphagia after stroke: incidence, diagnosis, and pulmonary complications. Stroke. 2005;36:2756–63. https://doi.org/10.1161/01.STR.0000190056.76543.eb\n17. Jones HN, Leiman DA, Porter Starr KN, North R, Pieper CF, Robison RD, et al. Dysphagia in Older Adults is Associated With Food Insecurity and Being Homebound. Journal of applied gerontology : the official journal of the Southern Gerontological Society. 2023;42:1993–2002. https://doi.org/10.1177/07334648231177568\n18. Dziewas R, Michou E, Trapl-Grundschober M, Lal A, Arsava EM, Bath PM, et al. European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia. European stroke journal. 2021;6:LXXXIX–CXV. https://doi.org/10.1177/23969873211039721\n19. von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC, Vandenbroucke JP, et al. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies. PLoS medicine. 2007;4:e296. https://doi.org/10.1371/journal.pmed.0040296\n20. Lumley T. Analysis of Complex Survey Samples. Journal of Statistical Software [Internet]. 2004;9. https://doi.org/10.18637/jss.v009.i08\n21. National Center for Health Statistics. National Health Interview Survey, 2022 survey description [Internet]. Centers for Disease Control and Prevention; 2023. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/srvydesc-508.pdf\n22. National Center for Health Statistics. 2022 National Health Interview Survey: Codebook for Sample Adult File [Internet]. Centers for Disease Control and Prevention; 2023. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/adult-codebook.pdf\n23. National Center for Health Statistics. National Health Interview Survey, 2025 survey description [Internet]. Centers for Disease Control and Prevention; 2026. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/srvydesc-508.pdf\n24. National Center for Health Statistics. 2025 National Health Interview Survey: Codebook for Sample Adult File [Internet]. Centers for Disease Control and Prevention; 2026. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/adult-codebook.pdf\n25. National Center for Health Statistics. Age adjustment - Health, United States [Internet]. 2026 [cited 2026 Nov 6]. https://www.cdc.gov/nchs/hus/sources-definitions/age-adjustment.htm. Accessed 6 Nov 2026\n",
+    "html": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; \">\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">1. Bhattacharyya N. The prevalence of dysphagia among adults in the United States. Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery. 2014;151:765–9. <a href=\"https://doi.org/10.1177/0194599814549156\">https://doi.org/10.1177/0194599814549156</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1177%2F0194599814549156&amp;rft_id=info%3Apmid%2F25193514&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20prevalence%20of%20dysphagia%20among%20adults%20in%20the%20United%20States.&amp;rft.jtitle=Otolaryngology--head%20and%20neck%20surgery%20%3A%20official%20journal%20of%20American%20Academy%20of%20Otolaryngology-Head%20and%20Neck%20Surgery&amp;rft.volume=151&amp;rft.issue=5&amp;rft.aufirst=Neil&amp;rft.aulast=Bhattacharyya&amp;rft.au=Neil%20Bhattacharyya&amp;rft.date=2014&amp;rft.pages=765-769&amp;rft.spage=765&amp;rft.epage=769\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">2. Hong I, Bae S, Lee HK, Bonilha HS. Prevalence of Dysphonia and Dysphagia Among Adults in the United States in 2012 and 2022. American journal of speech-language pathology. 2024;33:1868–79. <a href=\"https://doi.org/10.1044/2024_AJSLP-23-00407\">https://doi.org/10.1044/2024_AJSLP-23-00407</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1044%2F2024_AJSLP-23-00407&amp;rft_id=info%3Apmid%2F38713813&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Prevalence%20of%20Dysphonia%20and%20Dysphagia%20Among%20Adults%20in%20the%20United%20States%20in%202012%20and%202022.&amp;rft.jtitle=American%20journal%20of%20speech-language%20pathology&amp;rft.volume=33&amp;rft.issue=4&amp;rft.aufirst=Ickpyo&amp;rft.aulast=Hong&amp;rft.au=Ickpyo%20Hong&amp;rft.au=Suyeong%20Bae&amp;rft.au=Ho%20Kyung%20Lee&amp;rft.au=Heather%20Shaw%20Bonilha&amp;rft.date=2024&amp;rft.pages=1868-1879&amp;rft.spage=1868&amp;rft.epage=1879\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">3. Namasivayam-MacDonald A, Werbeloff M, Shune S. Prevalence and Predictors of Self-Reported Swallowing Difficulties in Community-Dwelling Older Adults: A Population-Based Study from the National Health and Aging Trends Study (NHATS). Dysphagia. 2026;41:127–37. <a href=\"https://doi.org/10.1007/s00455-025-10860-0\">https://doi.org/10.1007/s00455-025-10860-0</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1007%2Fs00455-025-10860-0&amp;rft_id=info%3Apmid%2F40676172&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Prevalence%20and%20Predictors%20of%20Self-Reported%20Swallowing%20Difficulties%20in%20Community-Dwelling%20Older%20Adults%3A%20A%20Population-Based%20Study%20from%20the%20National%20Health%20and%20Aging%20Trends%20Study%20(NHATS).&amp;rft.jtitle=Dysphagia&amp;rft.volume=41&amp;rft.issue=1&amp;rft.aufirst=Ashwini&amp;rft.aulast=Namasivayam-MacDonald&amp;rft.au=Ashwini%20Namasivayam-MacDonald&amp;rft.au=Merle%20Werbeloff&amp;rft.au=Samantha%20Shune&amp;rft.date=2026&amp;rft.pages=127-137&amp;rft.spage=127&amp;rft.epage=137\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">4. Zheng M, Zhou S, Hur K, Chambers T, O’Dell K, Johns M. Disparities in the prevalence of self-reported dysphagia and treatment among U.S. adults. American journal of otolaryngology. 2023;44:103774. <a href=\"https://doi.org/10.1016/j.amjoto.2022.103774\">https://doi.org/10.1016/j.amjoto.2022.103774</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1016%2Fj.amjoto.2022.103774&amp;rft_id=info%3Apmid%2F36586319&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Disparities%20in%20the%20prevalence%20of%20self-reported%20dysphagia%20and%20treatment%20among%20U.S.%20adults.&amp;rft.jtitle=American%20journal%20of%20otolaryngology&amp;rft.volume=44&amp;rft.issue=2&amp;rft.aufirst=Melissa&amp;rft.aulast=Zheng&amp;rft.au=Melissa%20Zheng&amp;rft.au=Sheng%20Zhou&amp;rft.au=Kevin%20Hur&amp;rft.au=Tamara%20Chambers&amp;rft.au=Karla%20O'Dell&amp;rft.au=Michael%20Johns&amp;rft.date=2023&amp;rft.pages=103774\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">5. Madhavan A, LaGorio LA, Crary MA, Dahl WJ, Carnaby GD. Prevalence of and Risk Factors for Dysphagia in the Community Dwelling Elderly: A Systematic Review. The journal of nutrition, health &amp; aging. 2016;20:806–15. <a href=\"https://doi.org/10.1007/s12603-016-0712-3\">https://doi.org/10.1007/s12603-016-0712-3</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1007%2Fs12603-016-0712-3&amp;rft_id=info%3Apmid%2F27709229&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Prevalence%20of%20and%20Risk%20Factors%20for%20Dysphagia%20in%20the%20Community%20Dwelling%20Elderly%3A%20A%20Systematic%20Review.&amp;rft.jtitle=The%20journal%20of%20nutrition%2C%20health%20%26%20aging&amp;rft.volume=20&amp;rft.issue=8&amp;rft.aufirst=A&amp;rft.aulast=Madhavan&amp;rft.au=A%20Madhavan&amp;rft.au=L%20A%20LaGorio&amp;rft.au=M%20A%20Crary&amp;rft.au=W%20J%20Dahl&amp;rft.au=G%20D%20Carnaby&amp;rft.date=2016&amp;rft.pages=806-815&amp;rft.spage=806&amp;rft.epage=815\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">6. Rech RS, de Goulart BNG, Dos Santos KW, Marcolino MAZ, Hilgert JB. Frequency and associated factors for swallowing impairment in community-dwelling older persons: a systematic review and meta-analysis. Aging clinical and experimental research. 2022;34:2945–61. <a href=\"https://doi.org/10.1007/s40520-022-02258-x\">https://doi.org/10.1007/s40520-022-02258-x</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1007%2Fs40520-022-02258-x&amp;rft_id=info%3Apmid%2F36207669&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Frequency%20and%20associated%20factors%20for%20swallowing%20impairment%20in%20community-dwelling%20older%20persons%3A%20a%20systematic%20review%20and%20meta-analysis.&amp;rft.jtitle=Aging%20clinical%20and%20experimental%20research&amp;rft.volume=34&amp;rft.issue=12&amp;rft.aufirst=Rafaela%20Soares&amp;rft.aulast=Rech&amp;rft.au=Rafaela%20Soares%20Rech&amp;rft.au=B%C3%A1rbara%20Niegia%20Garcia%20de%20Goulart&amp;rft.au=Karoline%20Weber%20Dos%20Santos&amp;rft.au=Miriam%20Allein%20Zago%20Marcolino&amp;rft.au=Juliana%20Balbinot%20Hilgert&amp;rft.date=2022&amp;rft.pages=2945-2961&amp;rft.spage=2945&amp;rft.epage=2961\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">7. Kawashima K, Motohashi Y, Fujishima I. Prevalence of dysphagia among community-dwelling elderly individuals as estimated using a questionnaire for dysphagia screening. Dysphagia. 2004;19:266–71. <a href=\"https://doi.org/10.1007/s00455-004-0013-6\">https://doi.org/10.1007/s00455-004-0013-6</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1007%2Fs00455-004-0013-6&amp;rft_id=info%3Apmid%2F15667063&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Prevalence%20of%20dysphagia%20among%20community-dwelling%20elderly%20individuals%20as%20estimated%20using%20a%20questionnaire%20for%20dysphagia%20screening.&amp;rft.jtitle=Dysphagia&amp;rft.volume=19&amp;rft.issue=4&amp;rft.aufirst=Kei&amp;rft.aulast=Kawashima&amp;rft.au=Kei%20Kawashima&amp;rft.au=Yutaka%20Motohashi&amp;rft.au=Ichiro%20Fujishima&amp;rft.date=2004&amp;rft.pages=266-271&amp;rft.spage=266&amp;rft.epage=271\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">8. Holland G, Jayasekeran V, Pendleton N, Horan M, Jones M, Hamdy S. Prevalence and symptom profiling of oropharyngeal dysphagia in a community dwelling of an elderly population: a self-reporting questionnaire survey. Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus. 2011;24:476–80. <a href=\"https://doi.org/10.1111/j.1442-2050.2011.01182.x\">https://doi.org/10.1111/j.1442-2050.2011.01182.x</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1442-2050.2011.01182.x&amp;rft_id=info%3Apmid%2F21385285&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Prevalence%20and%20symptom%20profiling%20of%20oropharyngeal%20dysphagia%20in%20a%20community%20dwelling%20of%20an%20elderly%20population%3A%20a%20self-reporting%20questionnaire%20survey.&amp;rft.jtitle=Diseases%20of%20the%20esophagus%20%3A%20official%20journal%20of%20the%20International%20Society%20for%20Diseases%20of%20the%20Esophagus&amp;rft.volume=24&amp;rft.issue=7&amp;rft.aufirst=G&amp;rft.aulast=Holland&amp;rft.au=G%20Holland&amp;rft.au=V%20Jayasekeran&amp;rft.au=N%20Pendleton&amp;rft.au=M%20Horan&amp;rft.au=M%20Jones&amp;rft.au=S%20Hamdy&amp;rft.date=2011&amp;rft.pages=476-480&amp;rft.spage=476&amp;rft.epage=480\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">9. Hong I, Norman RS, Woo H-S, Jin Y, Reistetter TA. Dysphagia and Functional Limitations Among Adults in the United States: Findings from the 2022 National Health Interview Survey. Dysphagia. 2024;39:1042–51. <a href=\"https://doi.org/10.1007/s00455-024-10680-8\">https://doi.org/10.1007/s00455-024-10680-8</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1007%2Fs00455-024-10680-8&amp;rft_id=info%3Apmid%2F38502346&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Dysphagia%20and%20Functional%20Limitations%20Among%20Adults%20in%20the%20United%20States%3A%20Findings%20from%20the%202022%20National%20Health%20Interview%20Survey.&amp;rft.jtitle=Dysphagia&amp;rft.volume=39&amp;rft.issue=6&amp;rft.aufirst=Ickpyo&amp;rft.aulast=Hong&amp;rft.au=Ickpyo%20Hong&amp;rft.au=Roc%C3%ADo%20S%20Norman&amp;rft.au=Hee-Soon%20Woo&amp;rft.au=Yeonju%20Jin&amp;rft.au=Timothy%20A%20Reistetter&amp;rft.date=2024&amp;rft.pages=1042-1051&amp;rft.spage=1042&amp;rft.epage=1051\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">10. Zhao R, He L, Albert SW, Li A, Rameau A. Dysphagia Care in the United States: Examining the Impact of the Affordable Care Act on Access to Care. Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery. 2025;173:162–70. <a href=\"https://doi.org/10.1002/ohn.1239\">https://doi.org/10.1002/ohn.1239</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1002%2Fohn.1239&amp;rft_id=info%3Apmid%2F40167204&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Dysphagia%20Care%20in%20the%20United%20States%3A%20Examining%20the%20Impact%20of%20the%20Affordable%20Care%20Act%20on%20Access%20to%20Care.&amp;rft.jtitle=Otolaryngology--head%20and%20neck%20surgery%20%3A%20official%20journal%20of%20American%20Academy%20of%20Otolaryngology-Head%20and%20Neck%20Surgery&amp;rft.volume=173&amp;rft.issue=1&amp;rft.aufirst=Robin&amp;rft.aulast=Zhao&amp;rft.au=Robin%20Zhao&amp;rft.au=Linh%20He&amp;rft.au=Sara%20W%20Albert&amp;rft.au=Alexandra%20Li&amp;rft.au=Ana%C3%AFs%20Rameau&amp;rft.date=2025&amp;rft.pages=162-170&amp;rft.spage=162&amp;rft.epage=170\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">11. Mann G, Hankey GJ, Cameron D. Swallowing function after stroke: prognosis and prognostic factors at 6 months. Stroke. 1999;30:744–8. <a href=\"https://doi.org/10.1161/01.str.30.4.744\">https://doi.org/10.1161/01.str.30.4.744</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1161%2F01.str.30.4.744&amp;rft_id=info%3Apmid%2F10187872&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Swallowing%20function%20after%20stroke%3A%20prognosis%20and%20prognostic%20factors%20at%206%20months.&amp;rft.jtitle=Stroke&amp;rft.volume=30&amp;rft.issue=4&amp;rft.aufirst=G&amp;rft.aulast=Mann&amp;rft.au=G%20Mann&amp;rft.au=G%20J%20Hankey&amp;rft.au=D%20Cameron&amp;rft.date=1999&amp;rft.pages=744-748&amp;rft.spage=744&amp;rft.epage=748\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">12. Belafsky PC, Mouadeb DA, Rees CJ, Pryor JC, Postma GN, Allen J, et al. Validity and reliability of the Eating Assessment Tool (EAT-10). The Annals of otology, rhinology, and laryngology. 2008;117:919–24. <a href=\"https://doi.org/10.1177/000348940811701210\">https://doi.org/10.1177/000348940811701210</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1177%2F000348940811701210&amp;rft_id=info%3Apmid%2F19140539&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Validity%20and%20reliability%20of%20the%20Eating%20Assessment%20Tool%20(EAT-10).&amp;rft.jtitle=The%20Annals%20of%20otology%2C%20rhinology%2C%20and%20laryngology&amp;rft.volume=117&amp;rft.issue=12&amp;rft.aufirst=Peter%20C&amp;rft.aulast=Belafsky&amp;rft.au=Peter%20C%20Belafsky&amp;rft.au=Debbie%20A%20Mouadeb&amp;rft.au=Catherine%20J%20Rees&amp;rft.au=Jan%20C%20Pryor&amp;rft.au=Gregory%20N%20Postma&amp;rft.au=Jacqueline%20Allen&amp;rft.au=Rebecca%20J%20Leonard&amp;rft.date=2008&amp;rft.pages=919-924&amp;rft.spage=919&amp;rft.epage=924\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">13. Leiman DA, Jones HN, North R, Porter Starr KN, Pieper CF, Cohen SM. Self-Reported Dysphagia and Psychosocial Health Among Community-Dwelling Older Adults: Results of a National Study. Journal of general internal medicine. 2023;38:3329–38. <a href=\"https://doi.org/10.1007/s11606-023-08232-1\">https://doi.org/10.1007/s11606-023-08232-1</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1007%2Fs11606-023-08232-1&amp;rft_id=info%3Apmid%2F37254012&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Self-Reported%20Dysphagia%20and%20Psychosocial%20Health%20Among%20Community-Dwelling%20Older%20Adults%3A%20Results%20of%20a%20National%20Study.&amp;rft.jtitle=Journal%20of%20general%20internal%20medicine&amp;rft.volume=38&amp;rft.issue=15&amp;rft.aufirst=David%20A&amp;rft.aulast=Leiman&amp;rft.au=David%20A%20Leiman&amp;rft.au=Harrison%20N%20Jones&amp;rft.au=Rebecca%20North&amp;rft.au=Kathryn%20N%20Porter%20Starr&amp;rft.au=Carl%20F%20Pieper&amp;rft.au=Seth%20M%20Cohen&amp;rft.date=2023&amp;rft.pages=3329-3338&amp;rft.spage=3329&amp;rft.epage=3338\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">14. Serra-Prat M, Palomera M, Gomez C, Sar-Shalom D, Saiz A, Montoya JG, et al. Oropharyngeal dysphagia as a risk factor for malnutrition and lower respiratory tract infection in independently living older persons: a population-based prospective study. Age and ageing. 2012;41:376–81. <a href=\"https://doi.org/10.1093/ageing/afs006\">https://doi.org/10.1093/ageing/afs006</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1093%2Fageing%2Fafs006&amp;rft_id=info%3Apmid%2F22311895&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Oropharyngeal%20dysphagia%20as%20a%20risk%20factor%20for%20malnutrition%20and%20lower%20respiratory%20tract%20infection%20in%20independently%20living%20older%20persons%3A%20a%20population-based%20prospective%20study.&amp;rft.jtitle=Age%20and%20ageing&amp;rft.volume=41&amp;rft.issue=3&amp;rft.aufirst=Mateu&amp;rft.aulast=Serra-Prat&amp;rft.au=Mateu%20Serra-Prat&amp;rft.au=Merc%C3%A8%20Palomera&amp;rft.au=Carlos%20Gomez&amp;rft.au=David%20Sar-Shalom&amp;rft.au=Adoraci%C3%B3n%20Saiz&amp;rft.au=Jorge%20G%20Montoya&amp;rft.au=Mario%20Navajas&amp;rft.au=Elisabet%20Palomera&amp;rft.au=Pere%20Clav%C3%A9&amp;rft.date=2012&amp;rft.pages=376-381&amp;rft.spage=376&amp;rft.epage=381\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">15. Yang EJ, Kim MH, Lim J, Paik N-J. Oropharyngeal Dysphagia in a community-based elderly cohort: the korean longitudinal study on health and aging. Journal of Korean medical science. 2013;28:1534–9. <a href=\"https://doi.org/10.3346/jkms.2013.28.10.1534\">https://doi.org/10.3346/jkms.2013.28.10.1534</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.3346%2Fjkms.2013.28.10.1534&amp;rft_id=info%3Apmid%2F24133362&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Oropharyngeal%20Dysphagia%20in%20a%20community-based%20elderly%20cohort%3A%20the%20korean%20longitudinal%20study%20on%20health%20and%20aging.&amp;rft.jtitle=Journal%20of%20Korean%20medical%20science&amp;rft.volume=28&amp;rft.issue=10&amp;rft.aufirst=Eun%20Joo&amp;rft.aulast=Yang&amp;rft.au=Eun%20Joo%20Yang&amp;rft.au=Mi%20Hyun%20Kim&amp;rft.au=Jae-young%20Lim&amp;rft.au=Nam-Jong%20Paik&amp;rft.date=2013&amp;rft.pages=1534-1539&amp;rft.spage=1534&amp;rft.epage=1539\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">16. Martino R, Foley N, Bhogal S, Diamant N, Speechley M, Teasell R. Dysphagia after stroke: incidence, diagnosis, and pulmonary complications. Stroke. 2005;36:2756–63. <a href=\"https://doi.org/10.1161/01.STR.0000190056.76543.eb\">https://doi.org/10.1161/01.STR.0000190056.76543.eb</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1161%2F01.STR.0000190056.76543.eb&amp;rft_id=info%3Apmid%2F16269630&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Dysphagia%20after%20stroke%3A%20incidence%2C%20diagnosis%2C%20and%20pulmonary%20complications.&amp;rft.jtitle=Stroke&amp;rft.volume=36&amp;rft.issue=12&amp;rft.aufirst=Rosemary&amp;rft.aulast=Martino&amp;rft.au=Rosemary%20Martino&amp;rft.au=Norine%20Foley&amp;rft.au=Sanjit%20Bhogal&amp;rft.au=Nicholas%20Diamant&amp;rft.au=Mark%20Speechley&amp;rft.au=Robert%20Teasell&amp;rft.date=2005&amp;rft.pages=2756-2763&amp;rft.spage=2756&amp;rft.epage=2763\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">17. Jones HN, Leiman DA, Porter Starr KN, North R, Pieper CF, Robison RD, et al. Dysphagia in Older Adults is Associated With Food Insecurity and Being Homebound. Journal of applied gerontology : the official journal of the Southern Gerontological Society. 2023;42:1993–2002. <a href=\"https://doi.org/10.1177/07334648231177568\">https://doi.org/10.1177/07334648231177568</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1177%2F07334648231177568&amp;rft_id=info%3Apmid%2F37249305&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Dysphagia%20in%20Older%20Adults%20is%20Associated%20With%20Food%20Insecurity%20and%20Being%20Homebound.&amp;rft.jtitle=Journal%20of%20applied%20gerontology%20%3A%20the%20official%20journal%20of%20the%20Southern%20Gerontological%20Society&amp;rft.volume=42&amp;rft.issue=9&amp;rft.aufirst=Harrison%20N&amp;rft.aulast=Jones&amp;rft.au=Harrison%20N%20Jones&amp;rft.au=David%20A%20Leiman&amp;rft.au=Kathryn%20N%20Porter%20Starr&amp;rft.au=Rebecca%20North&amp;rft.au=Carl%20F%20Pieper&amp;rft.au=Raele%20D%20Robison&amp;rft.au=Seth%20M%20Cohen&amp;rft.date=2023&amp;rft.pages=1993-2002&amp;rft.spage=1993&amp;rft.epage=2002\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">18. Dziewas R, Michou E, Trapl-Grundschober M, Lal A, Arsava EM, Bath PM, et al. European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia. European stroke journal. 2021;6:LXXXIX–CXV. <a href=\"https://doi.org/10.1177/23969873211039721\">https://doi.org/10.1177/23969873211039721</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1177%2F23969873211039721&amp;rft_id=info%3Apmid%2F34746431&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=European%20Stroke%20Organisation%20and%20European%20Society%20for%20Swallowing%20Disorders%20guideline%20for%20the%20diagnosis%20and%20treatment%20of%20post-stroke%20dysphagia.&amp;rft.jtitle=European%20stroke%20journal&amp;rft.volume=6&amp;rft.issue=3&amp;rft.aufirst=Rainer&amp;rft.aulast=Dziewas&amp;rft.au=Rainer%20Dziewas&amp;rft.au=Emilia%20Michou&amp;rft.au=Michaela%20Trapl-Grundschober&amp;rft.au=Avtar%20Lal&amp;rft.au=Ethem%20Murat%20Arsava&amp;rft.au=Philip%20M%20Bath&amp;rft.au=Pere%20Clav%C3%A9&amp;rft.au=J%C3%B6rg%20Glahn&amp;rft.au=Shaheen%20Hamdy&amp;rft.au=Sue%20Pownall&amp;rft.au=Antonio%20Schindler&amp;rft.au=Margaret%20Walshe&amp;rft.au=Rainer%20Wirth&amp;rft.au=David%20Wright&amp;rft.au=Eric%20Verin&amp;rft.date=2021&amp;rft.pages=LXXXIX-CXV&amp;rft.spage=LXXXIX&amp;rft.epage=CXV\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">19. von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC, Vandenbroucke JP, et al. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies. PLoS medicine. 2007;4:e296. <a href=\"https://doi.org/10.1371/journal.pmed.0040296\">https://doi.org/10.1371/journal.pmed.0040296</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pmed.0040296&amp;rft_id=info%3Apmid%2F17941714&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20Strengthening%20the%20Reporting%20of%20Observational%20Studies%20in%20Epidemiology%20(STROBE)%20statement%3A%20guidelines%20for%20reporting%20observational%20studies.&amp;rft.jtitle=PLoS%20medicine&amp;rft.volume=4&amp;rft.issue=10&amp;rft.aufirst=Erik&amp;rft.aulast=von%20Elm&amp;rft.au=Erik%20von%20Elm&amp;rft.au=Douglas%20G%20Altman&amp;rft.au=Matthias%20Egger&amp;rft.au=Stuart%20J%20Pocock&amp;rft.au=Peter%20C%20G%C3%B8tzsche&amp;rft.au=Jan%20P%20Vandenbroucke&amp;rft.au=undefined&amp;rft.date=2007&amp;rft.pages=e296\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">20. Lumley T. Analysis of Complex Survey Samples. Journal of Statistical Software [Internet]. 2004;9. <a href=\"https://doi.org/10.18637/jss.v009.i08\">https://doi.org/10.18637/jss.v009.i08</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.18637%2Fjss.v009.i08&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Analysis%20of%20Complex%20Survey%20Samples&amp;rft.jtitle=Journal%20of%20Statistical%20Software&amp;rft.volume=9&amp;rft.issue=8&amp;rft.aufirst=Thomas&amp;rft.aulast=Lumley&amp;rft.au=Thomas%20Lumley&amp;rft.date=2004-04-15\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">21. National Center for Health Statistics. National Health Interview Survey, 2022 survey description [Internet]. Centers for Disease Control and Prevention; 2023. <a href=\"https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/srvydesc-508.pdf\">https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/srvydesc-508.pdf</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=report&amp;rft.btitle=National%20Health%20Interview%20Survey%2C%202022%20survey%20description&amp;rft.au=undefined&amp;rft.date=2023\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">22. National Center for Health Statistics. 2022 National Health Interview Survey: Codebook for Sample Adult File [Internet]. Centers for Disease Control and Prevention; 2023. <a href=\"https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/adult-codebook.pdf\">https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/adult-codebook.pdf</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=report&amp;rft.btitle=2022%20National%20Health%20Interview%20Survey%3A%20Codebook%20for%20Sample%20Adult%20File&amp;rft.au=undefined&amp;rft.date=2023\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">23. National Center for Health Statistics. National Health Interview Survey, 2025 survey description [Internet]. Centers for Disease Control and Prevention; 2026. <a href=\"https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/srvydesc-508.pdf\">https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/srvydesc-508.pdf</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=report&amp;rft.btitle=National%20Health%20Interview%20Survey%2C%202025%20survey%20description&amp;rft.au=undefined&amp;rft.date=2026\"></span>\n  <div class=\"csl-entry\" style=\"margin-bottom: 1em;\">24. National Center for Health Statistics. 2025 National Health Interview Survey: Codebook for Sample Adult File [Internet]. Centers for Disease Control and Prevention; 2026. <a href=\"https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/adult-codebook.pdf\">https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/adult-codebook.pdf</a></div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=report&amp;rft.btitle=2025%20National%20Health%20Interview%20Survey%3A%20Codebook%20for%20Sample%20Adult%20File&amp;rft.au=undefined&amp;rft.date=2026\"></span>\n  <div class=\"csl-entry\">25. National Center for Health Statistics. Age adjustment - Health, United States [Internet]. 2026 [cited 2026 Nov 6]. <a href=\"https://www.cdc.gov/nchs/hus/sources-definitions/age-adjustment.htm\">https://www.cdc.gov/nchs/hus/sources-definitions/age-adjustment.htm</a>. Accessed 6 Nov 2026</div>\n  <span class=\"Z3988\" title=\"url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=webpage&amp;rft.title=Age%20adjustment%20-%20Health%2C%20United%20States&amp;rft.identifier=https%3A%2F%2Fwww.cdc.gov%2Fnchs%2Fhus%2Fsources-definitions%2Fage-adjustment.htm&amp;rft.au=undefined&amp;rft.date=2026-09-16\"></span>\n</div>"
+  },
+  "verification": {
+    "nativeLibraryImport": true,
+    "nativeCiteprocBibliography": true,
+    "wordRefreshVerified": false
+  }
+}

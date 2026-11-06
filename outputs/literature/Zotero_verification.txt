@@ -1,0 +1,45 @@
+Zotero manuscript verification
+Checked at: 2026-11-06T15:40:52.148745+00:00
+Document: outputs/NHIS_Manuscript_Final.docx
+SHA-256: 5712a2809e01583fbefb69fbb5fd00243b9a1a0c089ff4411cb5d643478e1093
+
+Native Zotero processing
+- Zotero version: 10.0.7
+- Project collection: NHIS Swallowing 2022–2025
+- Actual library items imported and exported: 25.
+- Style: http://www.zotero.org/styles/springer-vancouver-brackets
+- Processor: citeproc-js
+- Native manuscript citation clusters: 19; unique cited references: 25.
+
+Microsoft Word refresh
+- The coordinating agent observed the Zotero Refresh command execute in Microsoft Word without an error.
+- The coordinating agent saved the resulting document using Ctrl+S.
+- This observation is reported from the coordinating agent; the validation script itself does not operate Word.
+- Saved preference bibliographyStyleHasBeenSet is now 1 (it was false in the pre-Word export), consistent with Zotero applying bibliography formatting.
+
+Independent read-only validation of the saved DOCX: PASSED
+- All 19 complex CSL_CITATION fields remain present, balanced, and parseable.
+- Citation IDs and document order match the pre-Word native citation export.
+- Every cited item ID, genuine Zotero URI, and embedded title matches the native library export.
+- There are exactly 25 distinct Zotero item IDs and 25 corresponding real item URIs.
+- Every cached citation and all 25 bibliography entries match native Zotero output after whitespace normalization.
+- One live ZOTERO_BIBL field remains, with no uncited, omitted, or custom references.
+- ZOTERO_PREF chunks are sequential, no longer than 255 UTF-16 code units, and reassemble into valid preference XML.
+- Style, en-US locale, bibliography flag, and Field integration type are retained.
+- Three tables and four drawing objects remain present; no Unicode replacement characters occur in document text.
+- Current Bibliography style spacing: line=240 twips-auto, after=120 twips.
+
+Final Microsoft Word render and visual review
+- The coordinating agent opened and rendered the final DOCX in Microsoft Word without a GUI error.
+- The final Word render contains 22 pages, represented by work/manuscript_final_pages/page-01.png through page-22.png.
+- Final pages 16-17: all four English figure legends are complete and readable; the heading font adjustment is visible.
+- Final page 18: the shared methods/source statement is complete, with no clipping or overlap.
+- Final pages 19-22: figures 1-4, their labels, numerical confidence intervals, footnotes, and page numbers are visible and readable.
+- All seven final pages 16-22 were visually inspected. No clipping, overlap, missing labels, or other layout defect was detected.
+- Earlier review of the corresponding pages in the initial 23-page render also found no defects. The bibliography spacing correction reduced the final manuscript length to 22 pages.
+
+Layout-copy record
+The final copy was patched directly in OOXML: bibliography spacing after each entry was reduced to 6 pt while retaining 11 pt text and single spacing; Title, Subtitle, Heading 1, and Heading 2 now explicitly use Times New Roman without font-theme attributes; 19 ordinary spaces immediately before citation fields were changed to nonbreaking spaces. Zotero instructions were preserved byte-for-byte at the XML text level. All other ZIP parts were retained unchanged. The final copy has now been rendered in Microsoft Word as 22 pages; visual review of pages 16-22 passed as recorded above.
+
+Scope
+This check verifies Zotero linkage, preserved native citation content, and the specified rendered pages. It is not an independent replication of the statistical analysis or source-level fact checking.

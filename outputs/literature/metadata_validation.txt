@@ -1,0 +1,8 @@
+25 unique records; 19 PubMed records parsed from downloaded NCBI XML.
+All 19 journal titles, author lists, years, journal names, identifiers and available pagination retained from XML.
+Page ranges use StartPage-EndPage when both exist, otherwise article number/MedlinePgn.
+Bhattacharyya2014 pages: 765-769
+Dziewas2021 pages: LXXXIX-CXV
+Jones2023 uses final indexed title and PMID37249305; PMC author-manuscript title differs.
+An unrelated search-return PMID40015349 was excluded after title/abstract verification.
+Access level is recorded in evidence_table.tsv; full-text review is not claimed for abstract-only entries.
