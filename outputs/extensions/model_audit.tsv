@@ -1,0 +1,5 @@
+"model_id"	"formula"	"n"	"events"	"design_df"	"model_df"	"rank"	"converged"	"min_fitted"	"max_fitted"
+"age_sex_adjusted_overall"	"any ~ year + agegroup + sex"	16702	1342	1122	1118	5	TRUE	0.0626834045810841	0.1256952318066
+"age_sex_adjusted_stroke_groups"	"any ~ year * stroke_group + agegroup + sex"	16666	1338	1122	1116	7	TRUE	0.0588398345950663	0.274517004646049
+"self_age_sex_adjusted_overall"	"any ~ year + agegroup + sex"	16113	1241	1122	1118	5	TRUE	0.0620224840651505	0.100665540553822
+"self_age_sex_adjusted_stroke_groups"	"any ~ year * stroke_group + agegroup + sex"	16080	1238	1122	1116	7	TRUE	0.0582448024680625	0.216147152927569

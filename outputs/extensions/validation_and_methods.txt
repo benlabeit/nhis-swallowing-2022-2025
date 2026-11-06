@@ -1,0 +1,24 @@
+All additional results are post-hoc exploratory analyses.
+Fixed marginal reference: US 2000 age standard within 65+ crossed with 50% male / 50% female.
+The reference is a hypothetical balanced population; adjusted levels are not actual population prevalence.
+Self-only 2022 requires AVAIL_A=1 and missing PROXY_A; all other nonproxy combinations are ambiguous/excluded.
+Self-only 2025 requires PROXYFLAG_A=2.
+age_sex_adjusted_overall all 2022: analytic/numerical marginal gradient max error 5.63e-12; predict() agreement PASS
+age_sex_adjusted_overall all 2025: analytic/numerical marginal gradient max error 6.15e-12; predict() agreement PASS
+age_sex_adjusted_stroke_groups no_stroke 2022: analytic/numerical marginal gradient max error 2.82e-12; predict() agreement PASS
+age_sex_adjusted_stroke_groups no_stroke 2025: analytic/numerical marginal gradient max error 7.42e-12; predict() agreement PASS
+age_sex_adjusted_stroke_groups stroke 2022: analytic/numerical marginal gradient max error 2.76e-12; predict() agreement PASS
+age_sex_adjusted_stroke_groups stroke 2025: analytic/numerical marginal gradient max error 5.21e-11; predict() agreement PASS
+self_direct all saturated Gaussian survey covariance check PASS
+self_direct stroke saturated Gaussian survey covariance check PASS
+self_direct no_stroke saturated Gaussian survey covariance check PASS
+self_direct stroke_vs_no_stroke saturated Gaussian survey covariance check PASS
+self_age_sex_adjusted_overall all 2022: analytic/numerical marginal gradient max error 4.89e-12; predict() agreement PASS
+self_age_sex_adjusted_overall all 2025: analytic/numerical marginal gradient max error 2.98e-11; predict() agreement PASS
+self_age_sex_adjusted_stroke_groups no_stroke 2022: analytic/numerical marginal gradient max error 5.49e-12; predict() agreement PASS
+self_age_sex_adjusted_stroke_groups no_stroke 2025: analytic/numerical marginal gradient max error 3.66e-12; predict() agreement PASS
+self_age_sex_adjusted_stroke_groups stroke 2022: analytic/numerical marginal gradient max error 6.22e-12; predict() agreement PASS
+self_age_sex_adjusted_stroke_groups stroke 2025: analytic/numerical marginal gradient max error 3.07e-11; predict() agreement PASS
+No singleton-PSU adjustment applied. Original full adult design retained before domain restriction.
+Prepared data MD5: 64af5fe244c8a1a318f427dd50acbd18
+Addendum MD5: 7480de960d6051f3ec298473c8a77745

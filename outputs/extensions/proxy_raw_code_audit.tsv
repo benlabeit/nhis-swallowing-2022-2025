@@ -1,0 +1,8 @@
+"year"	"AVAIL_A"	"PROXY_A"	"PROXYFLAG_A"	"proxy_status"	"n_all"	"n_65plus"	"n_valid_primary_65plus"	"events_65plus"
+2022	"1"	"NA"	"NA"	"self"	26386	8317	8175	603
+2022	"3"	"1"	"NA"	"proxy"	488	303	294	49
+2022	"8"	"NA"	"NA"	"unknown"	652	122	14	0
+2022	"2"	"NA"	"NA"	"unknown"	117	23	1	0
+2022	"3"	"2"	"NA"	"unknown"	8	6	1	1
+2025	"NA"	"NA"	"2"	"self"	23750	8180	7944	638
+2025	"NA"	"NA"	"1"	"proxy"	465	288	279	51
