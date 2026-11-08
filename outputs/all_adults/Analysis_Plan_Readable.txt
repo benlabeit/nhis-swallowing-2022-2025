@@ -1,0 +1,37 @@
+Reader-friendly copy of the frozen plan. Only spacing has been corrected; the scientific specification is unchanged. The original Analysis_Plan.txt and its SHA-256 remain authoritative.
+
+REVISED PRIMARY ANALYSIS PLAN
+NHIS 2022 and 2025 swallowing difficulties among all adults
+Revision date: 8 November 2026
+
+Status and history
+At the investigator's request, the primary population is now all adults aged 18 years or older. The overall population comparison and a separate comparison among adults reporting a stroke history are the two central analyses. The earlier analysis restricted to adults aged 65 years or older is retained as a historical version; the adult analysis is not presented as a secondary extension of that question. This revision follows inspection of the earlier older-adult results and unweighted adult stroke feasibility counts. No weighted all-adult outcome estimates were examined before this plan was written and hashed. This is not a preregistration or a claim that the new question preceded all inspection of the data.
+
+Population and source
+Use the unmodified NHIS Sample Adult public-use files for 2022 and 2025. Declare the survey design on the full stacked sample before domain restrictions. Include records with valid age 18 through 85 (85 denotes 85 years or older). Report exclusions for unknown age. Unknown stroke history does not exclude respondents from the overall analysis; it excludes them from stroke-specific comparisons. These are survey participants in the civilian noninstitutionalized population, not a clinical patient cohort.
+
+Outcomes
+Primary: reported swallowing difficulty in the preceding 12 months, VSLSWYR_A yes versus no. Refused, not ascertained and don't know are missing. Stroke history is STREV_A yes versus no. Secondary outcomes are substantial difficulty (VSLSWDIF_A 'a lot') and prolonged symptoms (VSLSWDYS_A at least 180 days), using population denominators. Primary-negative respondents are negative for each secondary outcome; missing follow-up information among primary-positive respondents remains missing. Symptoms are not equated with clinically confirmed dysphagia.
+
+Primary estimates
+For each year, estimate survey-weighted crude prevalence and directly age-standardized prevalence overall and separately among respondents with stroke history. The principal temporal contrast is the age-standardized 2025-minus-2022 difference in percentage points, with 95% confidence interval. Report crude differences alongside it to describe observed population burden. Test differences in either direction; an increase is not assumed. Use the projected US 2000 adult population and five age groups: 18–44=108151050;45–64=60991658;65–74=18135514;75–84=12314793;85+=4259173. Normalize by 203852188. This same fixed reference is used for both years and all stroke groups. Age-standardized estimates represent a common reference distribution, not the actual age distribution of stroke survivors.
+Reference: https://www.cdc.gov/nchs/hus/sources-definitions/age-adjustment.htm
+
+Supporting comparisons
+Report the no-stroke group and the additive interaction, defined as the change in the stroke group minus the change in the no-stroke group. These support interpretation and do not replace either central population comparison. Report age-specific estimates with sample/event counts to expose the influence and uncertainty of sparse younger stroke cells. Age at interview must not be called age at stroke onset. Secondary outcomes and additional comparisons are exploratory. All intervals and p values are nominal, without multiplicity adjustment; do not treat a collection of analyses as independent confirmatory discoveries.
+
+Survey inference
+Use WTFA_A, PSTRAT and PPSU with stratification and clustered variance estimation. Follow the 2025 public-use pooling guidance by retaining PSTRAT and PPSU across years, rather than adding year prefixes. Annual weights are retained for year-specific ratios and differences; any common scaling would not alter those estimates. Preserve full covariance between estimated cells and year contrasts. Use Taylor linearization, logit-transformed prevalence intervals where defined, and t-based difference intervals with design degrees of freedom. Never drop design records before creating the survey design. Validate weighted point estimates by direct weighted arithmetic and standardized covariance by an independent saturated-model calculation. Record software versions, domain counts, design degrees of freedom and numerical tolerances.
+
+Precision
+Report underlying unweighted denominators and event counts. Flag any contributing year-by-age cell with fewer than 30 observations, fewer than 10 events or fewer than 10 nonevents, and high relative standard errors. These are transparent analysis flags, not a claim to implement all formal NCHS publication standards. Do not hide the central stroke estimate because a flag occurs; qualify its precision and the large US 2000reference weight assigned to ages 18–44. Do not select age groupings or methods according to statistical significance.
+
+Sensitivity analyses
+1. Restrict interviews to quarters 1–3, retaining annual weights without recalibration. This is a comparability sensitivity analysis, not an alternative nationally recalibrated annual estimate.
+2. Show extreme missing-primary-response assignments, including opposing assignments across years, and missingness rates. These bounds do not address survey nonparticipation or unknown age/stroke status.
+3. Restrict to confirmed self-responses using the previously documented conservative, year-specific classifications. The 2022 and 2025 classifications are not fully equivalent; restriction changes the target group and does not establish a corrected true result.
+4. Add sex adjustment with survey-weighted logistic regression and marginal predictions averaged over the fixed US 2000age distribution and a fixed 50:50 male:female distribution. Fit separate overall and stroke models with year, age group and sex; use a joint year-by-stroke model for a supporting interaction. Repeat within confirmed self-responses. Clearly distinguish direct standardization from model-based margins and document the model's assumptions.
+
+Reporting
+Place the overall adult result first, followed by the separate stroke analysis regardless of direction or statistical significance. Update all English figures, tables, abstract, title and discussion to match the new population and results. Preserve source data and older results, document the revised hierarchy, and avoid causal interpretations or claims of a longitudinal trend from only two cross-sectional years. Describe the 2025 collection interruption and response-classification asymmetry in clear language. Retain direct original-data download links and live Zotero references in the identified manuscript master.
+

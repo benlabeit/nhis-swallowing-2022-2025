@@ -1,0 +1,5 @@
+PASS: Independent weighted ratio arithmetic and explicit PSU-level Taylor covariance match all nine primary population/stroke/no-stroke levels and changes.
+No survey-package functions or functions from the main analysis were used in this check.
+Maximum estimate error: 3.7470027081099e-16
+Maximum standard-error error: 3.46944695195361e-17
+Full-sample PSU structure and cross-year covariance were retained; tolerance=1e-10.

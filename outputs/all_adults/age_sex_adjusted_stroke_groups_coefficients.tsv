@@ -1,0 +1,15 @@
+"term"	"estimate"
+"(Intercept)"	-3.07876027793643
+"year2025"	-0.174673506083704
+"stroke_groupstroke"	1.34859889350427
+"agegroup45-64"	0.188822876713731
+"agegroup65-74"	0.316295331880214
+"agegroup75-84"	0.542715230372209
+"agegroup85+"	0.834862258237414
+"sexfemale"	0.268027678977907
+"year2025:stroke_groupstroke"	0.556994480055362
+"stroke_groupstroke:agegroup45-64"	-0.410794494857477
+"stroke_groupstroke:agegroup65-74"	-0.361921899412936
+"stroke_groupstroke:agegroup75-84"	-0.704195953961869
+"stroke_groupstroke:agegroup85+"	-0.620889714132195
+"stroke_groupstroke:sexfemale"	-0.258594177370198
