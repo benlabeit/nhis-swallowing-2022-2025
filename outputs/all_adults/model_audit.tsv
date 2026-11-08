@@ -1,9 +1,0 @@
-"model_id"	"formula"	"n"	"events"	"design_df"	"model_df"	"rank"	"converged"	"min_fitted"	"max_fitted"
-"age_sex_adjusted_overall"	"any ~ year + agegroup + sex"	49908	3176	1133	1127	7	TRUE	0.0390404258908666	0.134148619710517
-"age_sex_adjusted_stroke"	"any ~ year + agegroup + sex"	1821	297	797	791	7	TRUE	0.12432096219359	0.245189681107758
-"age_sex_adjusted_no_stroke"	"any ~ year + agegroup + sex"	48024	2871	1133	1127	7	TRUE	0.0372036950064209	0.12175975083035
-"age_sex_adjusted_stroke_groups"	"any ~ year * stroke_group + agegroup * stroke_group + sex * stroke_group"	49845	3168	1133	1120	14	TRUE	0.0372036949933078	0.24518968112235
-"self_age_sex_adjusted_overall"	"any ~ year + agegroup + sex"	48853	3039	1133	1127	7	TRUE	0.0378446372927517	0.110392750184399
-"self_age_sex_adjusted_stroke"	"any ~ year + agegroup + sex"	1675	262	759	753	7	TRUE	0.118968772169573	0.199230706007294
-"self_age_sex_adjusted_no_stroke"	"any ~ year + agegroup + sex"	47119	2770	1133	1127	7	TRUE	0.0365711142463988	0.10071948395207
-"self_age_sex_adjusted_stroke_groups"	"any ~ year * stroke_group + agegroup * stroke_group + sex * stroke_group"	48794	3032	1133	1120	14	TRUE	0.036571114228674	0.199230706012793

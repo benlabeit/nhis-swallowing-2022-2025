@@ -1,4 +1,0 @@
-Frozen before weighted all-adult outcome analysis
-2026-11-08T17:51:00.6408630+01:00
-SHA256: 29BC599A21241BB7CEE7E9E33E19391065BCA6EDC61C07ACA3884729A654A7C2
-File: C:\Users\benlabeit\Documents\Codex\2026-11-06\nhis-p1-analyse\outputs\all_adults\Analysis_Plan.txt

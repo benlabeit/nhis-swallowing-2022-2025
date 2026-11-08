@@ -1,5 +1,0 @@
-2022 source CSV MD5 53fe9acd50f48deeecaa7203ad24bf6f
-2025 source CSV MD5 d8c359ca161e0bd3ef51345626308d72
-Fresh CSV parsing is identical to existing work/prepared.rds; existing file unchanged.
-The age>=65 preparation fields are retained for compatibility only.
-The adult analysis script replaces the agegroup field with the revised five adult age groups.
