@@ -1,0 +1,202 @@
+[
+  {
+    "figure": "1",
+    "source_rows": 6,
+    "png_pixels": [
+      3897,
+      2362
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "pdf_mm": [
+      164.75,
+      99.84
+    ],
+    "pdf_font_sizes_pt": [
+      8.5,
+      9.5
+    ],
+    "pdf_fonts": [
+      {
+        "name": "/PJBAHU+ArialMT",
+        "embedded": true
+      },
+      {
+        "name": "/CVERFO+Arial-BoldMT",
+        "embedded": true
+      }
+    ],
+    "pdf_raster_images": 0,
+    "eps_embedded_font_resources": [
+      "ArialMT",
+      "Arial-BoldMT"
+    ],
+    "eps_header": "%!PS-Adobe-3.0 EPSF-3.0"
+  },
+  {
+    "figure": "2",
+    "source_rows": 9,
+    "png_pixels": [
+      3897,
+      2598
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "pdf_mm": [
+      164.75,
+      109.71
+    ],
+    "pdf_font_sizes_pt": [
+      8.5,
+      9.5
+    ],
+    "pdf_fonts": [
+      {
+        "name": "/GNNJSW+ArialMT",
+        "embedded": true
+      },
+      {
+        "name": "/TNUNLV+ArialMT",
+        "embedded": true
+      },
+      {
+        "name": "/NDXPGE+Arial-BoldMT",
+        "embedded": true
+      }
+    ],
+    "pdf_raster_images": 0,
+    "eps_embedded_font_resources": [
+      "ArialMT",
+      "ArialMT",
+      "Arial-BoldMT"
+    ],
+    "eps_header": "%!PS-Adobe-3.0 EPSF-3.0"
+  },
+  {
+    "figure": "3",
+    "source_rows": 10,
+    "png_pixels": [
+      3897,
+      2598
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "pdf_mm": [
+      164.75,
+      109.71
+    ],
+    "pdf_font_sizes_pt": [
+      8.5,
+      9.5
+    ],
+    "pdf_fonts": [
+      {
+        "name": "/DYSDUC+ArialMT",
+        "embedded": true
+      },
+      {
+        "name": "/UBGKEP+ArialMT",
+        "embedded": true
+      },
+      {
+        "name": "/EFTSZL+Arial-BoldMT",
+        "embedded": true
+      }
+    ],
+    "pdf_raster_images": 0,
+    "eps_embedded_font_resources": [
+      "ArialMT",
+      "ArialMT",
+      "Arial-BoldMT"
+    ],
+    "eps_header": "%!PS-Adobe-3.0 EPSF-3.0"
+  },
+  {
+    "figure": "4",
+    "source_rows": 10,
+    "png_pixels": [
+      3897,
+      2598
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "pdf_mm": [
+      164.75,
+      109.71
+    ],
+    "pdf_font_sizes_pt": [
+      8.0,
+      9.5
+    ],
+    "pdf_fonts": [
+      {
+        "name": "/PZEAFJ+ArialMT",
+        "embedded": true
+      },
+      {
+        "name": "/UBGKEP+ArialMT",
+        "embedded": true
+      },
+      {
+        "name": "/CVERFO+Arial-BoldMT",
+        "embedded": true
+      }
+    ],
+    "pdf_raster_images": 0,
+    "eps_embedded_font_resources": [
+      "ArialMT",
+      "ArialMT",
+      "Arial-BoldMT"
+    ],
+    "eps_header": "%!PS-Adobe-3.0 EPSF-3.0"
+  },
+  {
+    "figure": "S1",
+    "source_rows": 8,
+    "png_pixels": [
+      3897,
+      2362
+    ],
+    "png_dpi": [
+      599.9988,
+      599.9988
+    ],
+    "pdf_mm": [
+      164.75,
+      99.84
+    ],
+    "pdf_font_sizes_pt": [
+      8.5,
+      9.5
+    ],
+    "pdf_fonts": [
+      {
+        "name": "/XVFIJG+ArialMT",
+        "embedded": true
+      },
+      {
+        "name": "/UBGKEP+ArialMT",
+        "embedded": true
+      },
+      {
+        "name": "/BYMNZU+Arial-BoldMT",
+        "embedded": true
+      }
+    ],
+    "pdf_raster_images": 0,
+    "eps_embedded_font_resources": [
+      "ArialMT",
+      "ArialMT",
+      "Arial-BoldMT"
+    ],
+    "eps_header": "%!PS-Adobe-3.0 EPSF-3.0"
+  }
+]
