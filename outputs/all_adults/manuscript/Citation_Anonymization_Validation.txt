@@ -1,0 +1,426 @@
+Dysphagia citation and anonymization structural check
+Checked at: 2026-11-08T17:14:14.684645+00:00
+Overall result: PASS
+
+NHIS_All_Adults_Zotero_Master.docx
+SHA-256: 737a30a3ac287a8bddae77c908d22a0cb60946ac476f7d58b4aba8615aea71f4
+NHIS_All_Adults_Manuscript.docx
+SHA-256: 0d368cf41ed8f695fb1f6611708243f8c6fb4e7f9f23b83b578d86e9c1e0c5d3
+
+Native Zotero update proof:
+{"verifiedExistingItems": 25, "journalAbbreviationsVerified": 20, "lumleyPages": "1-19", "changedItems": 20, "createdItems": 0, "collectionsChanged": 0, "installedStyleID": "http://www.zotero.org/styles/nhis-dysphagia-basic-brackets"}
+
+Summary:
+- Master: 19 live citations, one bibliography, 25 real item identities; cached references and embedded metadata checked against the new native export.
+- Submission: Zotero content removed, author/contact/funding identifiers and person-related core properties absent; 25 matching references and 19 flattened citations.
+- All four CDC links checked as actual DOCX hyperlinks in both documents.
+- Explicit and inherited paragraph numbering checked for every bibliography entry.
+
+Notes:
+- The submission retains an empty built-in Word APA Sources custom XML part and its document GUID. It contains no sources, people, Zotero data, or author identifiers; the coordinating agent accepted this standard nonpersonal Word package component.
+- Bibliography numbering is literal text (1. through 25.) with no active paragraph or inherited style numbering. There is no double-numbering mechanism.
+- Published author names in reference entries are retained intentionally and do not identify this manuscript author list as metadata.
+- Visual rendering and the subsequent Word Refresh are outside this read-only structural check. No DOCX was changed.
+
+Failed checks (0):
+None.
+
+Passed checks: 397
+
+PASS: All complex fields are balanced
+PASS: Master has exactly 19 live Zotero citation clusters
+PASS: Master has exactly one live Zotero bibliography field
+PASS: Citation ID/order matches: NHISB0008
+PASS: Item sequence matches: NHISB0008
+PASS: Cached citation matches native CSL: NHISB0008
+PASS: Real URI retained: Bhattacharyya2014
+PASS: Embedded title matches native item: Bhattacharyya2014
+PASS: Embedded DOI matches native item: Bhattacharyya2014
+PASS: Embedded page matches native item: Bhattacharyya2014
+PASS: Embedded journalAbbreviation matches native item: Bhattacharyya2014
+PASS: Real URI retained: Hong2024Prevalence
+PASS: Embedded title matches native item: Hong2024Prevalence
+PASS: Embedded DOI matches native item: Hong2024Prevalence
+PASS: Embedded page matches native item: Hong2024Prevalence
+PASS: Embedded journalAbbreviation matches native item: Hong2024Prevalence
+PASS: Citation ID/order matches: NHISB0009
+PASS: Item sequence matches: NHISB0009
+PASS: Cached citation matches native CSL: NHISB0009
+PASS: Real URI retained: Madhavan2016
+PASS: Embedded title matches native item: Madhavan2016
+PASS: Embedded DOI matches native item: Madhavan2016
+PASS: Embedded page matches native item: Madhavan2016
+PASS: Embedded journalAbbreviation matches native item: Madhavan2016
+PASS: Real URI retained: Frequency2022
+PASS: Embedded title matches native item: Frequency2022
+PASS: Embedded DOI matches native item: Frequency2022
+PASS: Embedded page matches native item: Frequency2022
+PASS: Embedded journalAbbreviation matches native item: Frequency2022
+PASS: Real URI retained: Namasivayam2026
+PASS: Embedded title matches native item: Namasivayam2026
+PASS: Embedded DOI matches native item: Namasivayam2026
+PASS: Embedded page matches native item: Namasivayam2026
+PASS: Embedded journalAbbreviation matches native item: Namasivayam2026
+PASS: Citation ID/order matches: NHISB0010
+PASS: Item sequence matches: NHISB0010
+PASS: Cached citation matches native CSL: NHISB0010
+PASS: Real URI retained: Martino2005
+PASS: Embedded title matches native item: Martino2005
+PASS: Embedded DOI matches native item: Martino2005
+PASS: Embedded page matches native item: Martino2005
+PASS: Embedded journalAbbreviation matches native item: Martino2005
+PASS: Real URI retained: Mann1999
+PASS: Embedded title matches native item: Mann1999
+PASS: Embedded DOI matches native item: Mann1999
+PASS: Embedded page matches native item: Mann1999
+PASS: Embedded journalAbbreviation matches native item: Mann1999
+PASS: Real URI retained: Dziewas2021
+PASS: Embedded title matches native item: Dziewas2021
+PASS: Embedded DOI matches native item: Dziewas2021
+PASS: Embedded page matches native item: Dziewas2021
+PASS: Embedded journalAbbreviation matches native item: Dziewas2021
+PASS: Citation ID/order matches: NHISB0013
+PASS: Item sequence matches: NHISB0013
+PASS: Cached citation matches native CSL: NHISB0013
+PASS: Real URI retained: NHIS2022Survey
+PASS: Embedded title matches native item: NHIS2022Survey
+PASS: Embedded DOI matches native item: NHIS2022Survey
+PASS: Embedded page matches native item: NHIS2022Survey
+PASS: Embedded journalAbbreviation matches native item: NHIS2022Survey
+PASS: Real URI retained: NHIS2025Survey
+PASS: Embedded title matches native item: NHIS2025Survey
+PASS: Embedded DOI matches native item: NHIS2025Survey
+PASS: Embedded page matches native item: NHIS2025Survey
+PASS: Embedded journalAbbreviation matches native item: NHIS2025Survey
+PASS: Citation ID/order matches: NHISB0014
+PASS: Item sequence matches: NHISB0014
+PASS: Cached citation matches native CSL: NHISB0014
+PASS: Real URI retained: NHIS2022Codebook
+PASS: Embedded title matches native item: NHIS2022Codebook
+PASS: Embedded DOI matches native item: NHIS2022Codebook
+PASS: Embedded page matches native item: NHIS2022Codebook
+PASS: Embedded journalAbbreviation matches native item: NHIS2022Codebook
+PASS: Real URI retained: NHIS2025Codebook
+PASS: Embedded title matches native item: NHIS2025Codebook
+PASS: Embedded DOI matches native item: NHIS2025Codebook
+PASS: Embedded page matches native item: NHIS2025Codebook
+PASS: Embedded journalAbbreviation matches native item: NHIS2025Codebook
+PASS: Real URI retained: NHIS2025Survey
+PASS: Embedded title matches native item: NHIS2025Survey
+PASS: Embedded DOI matches native item: NHIS2025Survey
+PASS: Embedded page matches native item: NHIS2025Survey
+PASS: Embedded journalAbbreviation matches native item: NHIS2025Survey
+PASS: Citation ID/order matches: NHISB0015
+PASS: Item sequence matches: NHISB0015
+PASS: Cached citation matches native CSL: NHISB0015
+PASS: Real URI retained: NHIS2022Codebook
+PASS: Embedded title matches native item: NHIS2022Codebook
+PASS: Embedded DOI matches native item: NHIS2022Codebook
+PASS: Embedded page matches native item: NHIS2022Codebook
+PASS: Embedded journalAbbreviation matches native item: NHIS2022Codebook
+PASS: Real URI retained: NHIS2025Codebook
+PASS: Embedded title matches native item: NHIS2025Codebook
+PASS: Embedded DOI matches native item: NHIS2025Codebook
+PASS: Embedded page matches native item: NHIS2025Codebook
+PASS: Embedded journalAbbreviation matches native item: NHIS2025Codebook
+PASS: Citation ID/order matches: NHISB0017
+PASS: Item sequence matches: NHISB0017
+PASS: Cached citation matches native CSL: NHISB0017
+PASS: Real URI retained: Lumley2004
+PASS: Embedded title matches native item: Lumley2004
+PASS: Embedded DOI matches native item: Lumley2004
+PASS: Embedded page matches native item: Lumley2004
+PASS: Embedded journalAbbreviation matches native item: Lumley2004
+PASS: Real URI retained: NHIS2025Survey
+PASS: Embedded title matches native item: NHIS2025Survey
+PASS: Embedded DOI matches native item: NHIS2025Survey
+PASS: Embedded page matches native item: NHIS2025Survey
+PASS: Embedded journalAbbreviation matches native item: NHIS2025Survey
+PASS: Real URI retained: CDCAgeStandard
+PASS: Embedded title matches native item: CDCAgeStandard
+PASS: Embedded DOI matches native item: CDCAgeStandard
+PASS: Embedded page matches native item: CDCAgeStandard
+PASS: Embedded journalAbbreviation matches native item: CDCAgeStandard
+PASS: Citation ID/order matches: NHISB0019
+PASS: Item sequence matches: NHISB0019
+PASS: Cached citation matches native CSL: NHISB0019
+PASS: Real URI retained: STROBE2007
+PASS: Embedded title matches native item: STROBE2007
+PASS: Embedded DOI matches native item: STROBE2007
+PASS: Embedded page matches native item: STROBE2007
+PASS: Embedded journalAbbreviation matches native item: STROBE2007
+PASS: Citation ID/order matches: NHISB0020
+PASS: Item sequence matches: NHISB0020
+PASS: Cached citation matches native CSL: NHISB0020
+PASS: Real URI retained: NHIS2025Survey
+PASS: Embedded title matches native item: NHIS2025Survey
+PASS: Embedded DOI matches native item: NHIS2025Survey
+PASS: Embedded page matches native item: NHIS2025Survey
+PASS: Embedded journalAbbreviation matches native item: NHIS2025Survey
+PASS: Citation ID/order matches: NHISB0022
+PASS: Item sequence matches: NHISB0022
+PASS: Cached citation matches native CSL: NHISB0022
+PASS: Real URI retained: NHIS2022Codebook
+PASS: Embedded title matches native item: NHIS2022Codebook
+PASS: Embedded DOI matches native item: NHIS2022Codebook
+PASS: Embedded page matches native item: NHIS2022Codebook
+PASS: Embedded journalAbbreviation matches native item: NHIS2022Codebook
+PASS: Real URI retained: NHIS2025Codebook
+PASS: Embedded title matches native item: NHIS2025Codebook
+PASS: Embedded DOI matches native item: NHIS2025Codebook
+PASS: Embedded page matches native item: NHIS2025Codebook
+PASS: Embedded journalAbbreviation matches native item: NHIS2025Codebook
+PASS: Citation ID/order matches: NHISB0033
+PASS: Item sequence matches: NHISB0033
+PASS: Cached citation matches native CSL: NHISB0033
+PASS: Real URI retained: Bhattacharyya2014
+PASS: Embedded title matches native item: Bhattacharyya2014
+PASS: Embedded DOI matches native item: Bhattacharyya2014
+PASS: Embedded page matches native item: Bhattacharyya2014
+PASS: Embedded journalAbbreviation matches native item: Bhattacharyya2014
+PASS: Real URI retained: Hong2024Prevalence
+PASS: Embedded title matches native item: Hong2024Prevalence
+PASS: Embedded DOI matches native item: Hong2024Prevalence
+PASS: Embedded page matches native item: Hong2024Prevalence
+PASS: Embedded journalAbbreviation matches native item: Hong2024Prevalence
+PASS: Real URI retained: NHIS2022Survey
+PASS: Embedded title matches native item: NHIS2022Survey
+PASS: Embedded DOI matches native item: NHIS2022Survey
+PASS: Embedded page matches native item: NHIS2022Survey
+PASS: Embedded journalAbbreviation matches native item: NHIS2022Survey
+PASS: Citation ID/order matches: NHISB0034
+PASS: Item sequence matches: NHISB0034
+PASS: Cached citation matches native CSL: NHISB0034
+PASS: Real URI retained: Namasivayam2026
+PASS: Embedded title matches native item: Namasivayam2026
+PASS: Embedded DOI matches native item: Namasivayam2026
+PASS: Embedded page matches native item: Namasivayam2026
+PASS: Embedded journalAbbreviation matches native item: Namasivayam2026
+PASS: Real URI retained: Kawashima2004
+PASS: Embedded title matches native item: Kawashima2004
+PASS: Embedded DOI matches native item: Kawashima2004
+PASS: Embedded page matches native item: Kawashima2004
+PASS: Embedded journalAbbreviation matches native item: Kawashima2004
+PASS: Real URI retained: Holland2011
+PASS: Embedded title matches native item: Holland2011
+PASS: Embedded DOI matches native item: Holland2011
+PASS: Embedded page matches native item: Holland2011
+PASS: Embedded journalAbbreviation matches native item: Holland2011
+PASS: Real URI retained: Yang2013
+PASS: Embedded title matches native item: Yang2013
+PASS: Embedded DOI matches native item: Yang2013
+PASS: Embedded page matches native item: Yang2013
+PASS: Embedded journalAbbreviation matches native item: Yang2013
+PASS: Real URI retained: Madhavan2016
+PASS: Embedded title matches native item: Madhavan2016
+PASS: Embedded DOI matches native item: Madhavan2016
+PASS: Embedded page matches native item: Madhavan2016
+PASS: Embedded journalAbbreviation matches native item: Madhavan2016
+PASS: Real URI retained: Frequency2022
+PASS: Embedded title matches native item: Frequency2022
+PASS: Embedded DOI matches native item: Frequency2022
+PASS: Embedded page matches native item: Frequency2022
+PASS: Embedded journalAbbreviation matches native item: Frequency2022
+PASS: Citation ID/order matches: NHISB0035
+PASS: Item sequence matches: NHISB0035
+PASS: Cached citation matches native CSL: NHISB0035
+PASS: Real URI retained: Martino2005
+PASS: Embedded title matches native item: Martino2005
+PASS: Embedded DOI matches native item: Martino2005
+PASS: Embedded page matches native item: Martino2005
+PASS: Embedded journalAbbreviation matches native item: Martino2005
+PASS: Real URI retained: Mann1999
+PASS: Embedded title matches native item: Mann1999
+PASS: Embedded DOI matches native item: Mann1999
+PASS: Embedded page matches native item: Mann1999
+PASS: Embedded journalAbbreviation matches native item: Mann1999
+PASS: Real URI retained: Dziewas2021
+PASS: Embedded title matches native item: Dziewas2021
+PASS: Embedded DOI matches native item: Dziewas2021
+PASS: Embedded page matches native item: Dziewas2021
+PASS: Embedded journalAbbreviation matches native item: Dziewas2021
+PASS: Citation ID/order matches: NHISB0036
+PASS: Item sequence matches: NHISB0036
+PASS: Cached citation matches native CSL: NHISB0036
+PASS: Real URI retained: NHIS2022Codebook
+PASS: Embedded title matches native item: NHIS2022Codebook
+PASS: Embedded DOI matches native item: NHIS2022Codebook
+PASS: Embedded page matches native item: NHIS2022Codebook
+PASS: Embedded journalAbbreviation matches native item: NHIS2022Codebook
+PASS: Real URI retained: NHIS2025Codebook
+PASS: Embedded title matches native item: NHIS2025Codebook
+PASS: Embedded DOI matches native item: NHIS2025Codebook
+PASS: Embedded page matches native item: NHIS2025Codebook
+PASS: Embedded journalAbbreviation matches native item: NHIS2025Codebook
+PASS: Citation ID/order matches: NHISB0037
+PASS: Item sequence matches: NHISB0037
+PASS: Cached citation matches native CSL: NHISB0037
+PASS: Real URI retained: Hong2024Function
+PASS: Embedded title matches native item: Hong2024Function
+PASS: Embedded DOI matches native item: Hong2024Function
+PASS: Embedded page matches native item: Hong2024Function
+PASS: Embedded journalAbbreviation matches native item: Hong2024Function
+PASS: Real URI retained: Leiman2023
+PASS: Embedded title matches native item: Leiman2023
+PASS: Embedded DOI matches native item: Leiman2023
+PASS: Embedded page matches native item: Leiman2023
+PASS: Embedded journalAbbreviation matches native item: Leiman2023
+PASS: Real URI retained: Jones2023
+PASS: Embedded title matches native item: Jones2023
+PASS: Embedded DOI matches native item: Jones2023
+PASS: Embedded page matches native item: Jones2023
+PASS: Embedded journalAbbreviation matches native item: Jones2023
+PASS: Real URI retained: SerraPrat2012
+PASS: Embedded title matches native item: SerraPrat2012
+PASS: Embedded DOI matches native item: SerraPrat2012
+PASS: Embedded page matches native item: SerraPrat2012
+PASS: Embedded journalAbbreviation matches native item: SerraPrat2012
+PASS: Citation ID/order matches: NHISB0038
+PASS: Item sequence matches: NHISB0038
+PASS: Cached citation matches native CSL: NHISB0038
+PASS: Real URI retained: Disparities2023
+PASS: Embedded title matches native item: Disparities2023
+PASS: Embedded DOI matches native item: Disparities2023
+PASS: Embedded page matches native item: Disparities2023
+PASS: Embedded journalAbbreviation matches native item: Disparities2023
+PASS: Real URI retained: Zhao2025
+PASS: Embedded title matches native item: Zhao2025
+PASS: Embedded DOI matches native item: Zhao2025
+PASS: Embedded page matches native item: Zhao2025
+PASS: Embedded journalAbbreviation matches native item: Zhao2025
+PASS: Citation ID/order matches: NHISB0039
+PASS: Item sequence matches: NHISB0039
+PASS: Cached citation matches native CSL: NHISB0039
+PASS: Real URI retained: Belafsky2008
+PASS: Embedded title matches native item: Belafsky2008
+PASS: Embedded DOI matches native item: Belafsky2008
+PASS: Embedded page matches native item: Belafsky2008
+PASS: Embedded journalAbbreviation matches native item: Belafsky2008
+PASS: Real URI retained: NHIS2022Survey
+PASS: Embedded title matches native item: NHIS2022Survey
+PASS: Embedded DOI matches native item: NHIS2022Survey
+PASS: Embedded page matches native item: NHIS2022Survey
+PASS: Embedded journalAbbreviation matches native item: NHIS2022Survey
+PASS: Real URI retained: NHIS2025Survey
+PASS: Embedded title matches native item: NHIS2025Survey
+PASS: Embedded DOI matches native item: NHIS2025Survey
+PASS: Embedded page matches native item: NHIS2025Survey
+PASS: Embedded journalAbbreviation matches native item: NHIS2025Survey
+PASS: Citation ID/order matches: NHISB0040
+PASS: Item sequence matches: NHISB0040
+PASS: Cached citation matches native CSL: NHISB0040
+PASS: Real URI retained: NHIS2025Survey
+PASS: Embedded title matches native item: NHIS2025Survey
+PASS: Embedded DOI matches native item: NHIS2025Survey
+PASS: Embedded page matches native item: NHIS2025Survey
+PASS: Embedded journalAbbreviation matches native item: NHIS2025Survey
+PASS: Citation ID/order matches: NHISB0045
+PASS: Item sequence matches: NHISB0045
+PASS: Cached citation matches native CSL: NHISB0045
+PASS: Real URI retained: NHIS2022Survey
+PASS: Embedded title matches native item: NHIS2022Survey
+PASS: Embedded DOI matches native item: NHIS2022Survey
+PASS: Embedded page matches native item: NHIS2022Survey
+PASS: Embedded journalAbbreviation matches native item: NHIS2022Survey
+PASS: Real URI retained: NHIS2025Survey
+PASS: Embedded title matches native item: NHIS2025Survey
+PASS: Embedded DOI matches native item: NHIS2025Survey
+PASS: Embedded page matches native item: NHIS2025Survey
+PASS: Embedded journalAbbreviation matches native item: NHIS2025Survey
+PASS: All 25 real Zotero item IDs retained
+PASS: All 25 real Zotero item URIs retained
+PASS: Native export has all 20 journal abbreviations
+PASS: Lumley page range is 1-19
+PASS: Master cached bibliography matches native export: Bhattacharyya2014
+PASS: Master cached bibliography matches native export: Hong2024Prevalence
+PASS: Master cached bibliography matches native export: Madhavan2016
+PASS: Master cached bibliography matches native export: Frequency2022
+PASS: Master cached bibliography matches native export: Namasivayam2026
+PASS: Master cached bibliography matches native export: Martino2005
+PASS: Master cached bibliography matches native export: Mann1999
+PASS: Master cached bibliography matches native export: Dziewas2021
+PASS: Master cached bibliography matches native export: NHIS2022Survey
+PASS: Master cached bibliography matches native export: NHIS2025Survey
+PASS: Master cached bibliography matches native export: NHIS2022Codebook
+PASS: Master cached bibliography matches native export: NHIS2025Codebook
+PASS: Master cached bibliography matches native export: Lumley2004
+PASS: Master cached bibliography matches native export: CDCAgeStandard
+PASS: Master cached bibliography matches native export: STROBE2007
+PASS: Master cached bibliography matches native export: Kawashima2004
+PASS: Master cached bibliography matches native export: Holland2011
+PASS: Master cached bibliography matches native export: Yang2013
+PASS: Master cached bibliography matches native export: Hong2024Function
+PASS: Master cached bibliography matches native export: Leiman2023
+PASS: Master cached bibliography matches native export: Jones2023
+PASS: Master cached bibliography matches native export: SerraPrat2012
+PASS: Master cached bibliography matches native export: Disparities2023
+PASS: Master cached bibliography matches native export: Zhao2025
+PASS: Master cached bibliography matches native export: Belafsky2008
+PASS: Master bibliography contains exactly 25 nonempty paragraphs
+PASS: Master bibliography has literal labels only; no inherited or direct automatic numbering
+PASS: Master preference style ID matches the installed project CSL
+PASS: Master CSL locale is en-US
+PASS: Master preference retains bibliography support
+PASS: Master integration field type is Field
+PASS: Zotero preference chunks are contiguous and <=255 UTF-16 units
+PASS: Submission contains no Zotero field codes, library URIs, or Zotero preferences
+PASS: Submission has no custom document-property file
+PASS: Submission body has no active field functions
+PASS: Submission creator metadata is blank
+PASS: Submission lastModifiedBy metadata is blank
+PASS: Submission identifier metadata is blank
+PASS: Submission description metadata is blank
+PASS: Submission Company metadata is blank
+PASS: Submission Manager metadata is blank
+PASS: Full manuscript-author name absent from submission package: Cinja Huber
+PASS: Full manuscript-author name absent from submission package: Gero Lueg
+PASS: Full manuscript-author name absent from submission package: Anel Karisik
+PASS: Full manuscript-author name absent from submission package: Sriramya Lapa
+PASS: Full manuscript-author name absent from submission package: Anne Jung
+PASS: Full manuscript-author name absent from submission package: Orhan Aktas
+PASS: Full manuscript-author name absent from submission package: Michael Gliem
+PASS: Full manuscript-author name absent from submission package: Paul Muhle
+PASS: Full manuscript-author name absent from submission package: Sonja Suntrup-Krueger
+PASS: Full manuscript-author name absent from submission package: Rainer Dziewas
+PASS: Full manuscript-author name absent from submission package: Bendix Labeit
+PASS: Personal/contact/funding marker absent: benlabeit
+PASS: Personal/contact/funding marker absent: benlabeit@gmail.com
+PASS: Personal/contact/funding marker absent: 529859742
+PASS: Personal/contact/funding marker absent: Moorenstraße
+PASS: Personal/contact/funding marker absent: Moorenstrasse
+PASS: Personal/contact/funding marker absent: Walter Benjamin Programme
+PASS: Personal/contact/funding marker absent: Department of Neurology, Medical Faculty
+PASS: Personal/contact/funding marker absent: github.com/benlabeit
+PASS: No email address in submission XML/relationships
+PASS: No comments/people metadata parts in submission
+PASS: No tracked insertion/deletion authors in submission
+PASS: Submission reference matches native export exactly once: Bhattacharyya2014
+PASS: Submission reference matches native export exactly once: Hong2024Prevalence
+PASS: Submission reference matches native export exactly once: Madhavan2016
+PASS: Submission reference matches native export exactly once: Frequency2022
+PASS: Submission reference matches native export exactly once: Namasivayam2026
+PASS: Submission reference matches native export exactly once: Martino2005
+PASS: Submission reference matches native export exactly once: Mann1999
+PASS: Submission reference matches native export exactly once: Dziewas2021
+PASS: Submission reference matches native export exactly once: NHIS2022Survey
+PASS: Submission reference matches native export exactly once: NHIS2025Survey
+PASS: Submission reference matches native export exactly once: NHIS2022Codebook
+PASS: Submission reference matches native export exactly once: NHIS2025Codebook
+PASS: Submission reference matches native export exactly once: Lumley2004
+PASS: Submission reference matches native export exactly once: CDCAgeStandard
+PASS: Submission reference matches native export exactly once: STROBE2007
+PASS: Submission reference matches native export exactly once: Kawashima2004
+PASS: Submission reference matches native export exactly once: Holland2011
+PASS: Submission reference matches native export exactly once: Yang2013
+PASS: Submission reference matches native export exactly once: Hong2024Function
+PASS: Submission reference matches native export exactly once: Leiman2023
+PASS: Submission reference matches native export exactly once: Jones2023
+PASS: Submission reference matches native export exactly once: SerraPrat2012
+PASS: Submission reference matches native export exactly once: Disparities2023
+PASS: Submission reference matches native export exactly once: Zhao2025
+PASS: Submission reference matches native export exactly once: Belafsky2008
+PASS: Submission reference order and count are 1-25
+PASS: Submission bibliography has literal labels only; no inherited or direct automatic numbering
+PASS: All 19 flattened bracketed citations retain native content and order
+PASS: NHIS_All_Adults_Zotero_Master.docx: all four CDC data/documentation hyperlinks have both targets and visible hyperlink elements
+PASS: NHIS_All_Adults_Manuscript.docx: all four CDC data/documentation hyperlinks have both targets and visible hyperlink elements
