@@ -33,6 +33,6 @@ Self-only age/sex-adjusted stroke-group difference: +4.05 (-0.78 to +8.88).
 The point estimates remain positive, but the self-only confidence intervals include zero. This is attenuation and increased uncertainty, not proof that proxy reports caused the original signal or proof of no change.
 
 Reproduce from project root after outputs/01_prepare.R:
-Rscript outputs/06_extensions.R
+Rscript outputs/04_extensions.R
 Requires survey and numDeriv in work/Rlib (both already installed by the project setup).
 The addendum and its frozen record must be retained; do not rewrite them after inspecting results.

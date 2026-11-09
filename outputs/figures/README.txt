@@ -14,7 +14,7 @@ All figure text, captions and filenames in this collection are in English.
 Reproduction
 Extract the ZIP into an empty directory. From its root, run:
 Rscript outputs/05_figures.R
-Rscript outputs/07_extension_figure.R
+Rscript outputs/06_extension_figure.R
 python work/build_figure_bundle.py
 
 Requires R, the included grid package, Cairo graphics support, and Arial or a substitute font.

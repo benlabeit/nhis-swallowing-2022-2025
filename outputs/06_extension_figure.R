@@ -1,4 +1,4 @@
-# Reproduce from project root: Rscript outputs/07_extension_figure.R
+# Reproduce from project root: Rscript outputs/06_extension_figure.R
 # Figure 4 plots saved results only; no estimation or new inference.
 if(.Platform$OS.type=='windows')Sys.setlocale('LC_CTYPE','English_United States.utf8')
 library(grid)

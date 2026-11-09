@@ -1,6 +1,6 @@
 """Combine the four generated figure pages and rebuild the English figure ZIP.
 
-Run after outputs/05_figures.R and outputs/07_extension_figure.R. This operation
+Run after outputs/05_figures.R and outputs/06_extension_figure.R. This operation
 uses only saved figure files and tables; it performs no statistical estimation.
 """
 from pathlib import Path
@@ -29,7 +29,7 @@ last.close()
 temporary.replace(combined)
 assert len(PdfReader(combined).pages) == 4
 
-inputs = ['outputs/05_figures.R', 'outputs/07_extension_figure.R',
+inputs = ['outputs/05_figures.R', 'outputs/06_extension_figure.R',
           'outputs/cell_counts.tsv', 'outputs/standardized_results.tsv',
           'outputs/extensions/primary_comparison_all_methods.tsv',
           'work/build_figure_bundle.py']
