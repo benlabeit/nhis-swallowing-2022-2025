@@ -1,4 +1,1 @@
-python-docx
-lxml
-Pillow
 pypdf

@@ -1,4 +1,6 @@
-AUTHOR INFORMATION PROVENANCE
+HISTORICAL AUTHOR INFORMATION PROVENANCE
+
+This record documents the sources used for author information in the original draft. Subsequent author additions and confirmed study-specific declarations are reflected in the current BMC Geriatrics manuscript under outputs/bmc_geriatrics/. Statements below about information not inferred describe the historical extraction step, not unresolved requirements for the current manuscript.
 
 Primary source: Benchmarking commercial large language model systems for guideline-concordant dysphagia management
 Latest clean revision: 2026-10-30T09:33:57

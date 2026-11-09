@@ -1,3 +1,6 @@
+HISTORICAL FIRST-DRAFT ZOTERO VERIFICATION
+This verification concerns the original 25-reference manuscript, with 19 live citation clusters, checked on 6 November 2026. The document paths, hashes and layout observations below are historical. The current BMC Geriatrics manuscript under outputs/bmc_geriatrics/ has 34 references and 42 live citation clusters; this historical report is not its validation record.
+
 Zotero manuscript verification
 Checked at: 2026-11-06T15:40:52.148745+00:00
 Document: outputs/NHIS_Manuscript_Final.docx

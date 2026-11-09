@@ -1,0 +1,39 @@
+NHIS Project 1 - Analysis plan v1, 6 November 2026
+English translation prepared on 9 November 2026. The original German plan was recorded after reviewing codebooks and unweighted cell counts, before calculating weighted outcome estimates or inferential comparisons. No external preregistration. This translation does not amend the analysis plan; its provenance and the original frozen hash are recorded in analysis_plan_frozen.txt.
+
+Research question and population
+Compare two repeated cross-sections, 2022 and 2025; no individual trajectories. Civilian noninstitutionalized US population aged 65 years and older. Include AGEP_A 65-85; 85 is top-coded (85+), and 97-99 are missing. No inference about nursing-home residents or clinically confirmed dysphagia. STREV_A records a reported previous diagnosis of stroke by a doctor; event timing and causal attribution of swallowing symptoms are unknown.
+
+Outcomes
+Primary: VSLSWYR_A=1 versus 2, swallowing problems in the preceding 12 months.
+Secondary: severe problems, VSLSWDIF_A=2; other valid responses, 1 and 3, are not severe. Population prevalence: code VSLSWYR_A=2 as 0, and VSLSWYR_A=1 with valid severity as 0/1. Unknown primary status or missing severity among affected respondents remain missing.
+Secondary: duration >=180 days (VSLSWDYS_A=6); codes 1-5 indicate shorter duration. Calculate population prevalence analogously. Do not convert ordinal categories into an apparently exact mean number of days. Additionally describe the complete duration and severity distributions among affected respondents.
+Codes 7/8/9 are not negative responses. Skips outside the affected group do not represent additional item nonresponse for severity/duration.
+
+Design and estimation
+R survey, Taylor linearization. First construct the design using all adult records: ids=~PPSU, strata=~PSTRAT, weights=~WTFA_A, nest=TRUE; then form domains. Append files for the year comparison, retaining unchanged weights. Retain public-use PSTRAT/PPSU unchanged according to the CDC 2025 Survey Description, pp.35 and 50; do not artificially separate them by year. The independent cross-sectional samples do not justify ignoring the shared public-use variance structure. Use the covariance of year-specific and age-cell estimates from the combined design. No naive regression. Singleton strata must trigger an error rather than a silent adjustment.
+Direct age standardization: 65-74, 75-84 and 85+; US 2000 standard-population counts of 18,135,514, 12,314,793 and 4,259,173, normalized to sum to 1 within ages 65+. Use the same standard for both years and all stroke-history groups. Source: CDC Health, United States, Age adjustment, Table I. Standardized prevalences are comparative indices, not actual population proportions. Additionally report crude survey-weighted prevalences.
+Prevalence CIs: 95% t intervals on the logit scale using the delta method; differences: linear contrasts in percentage points, with 95% t CIs using the complete covariance matrix. Use degrees of freedom from the respective analysis domain. No one-sided tests. The primary comparison is 2025 minus 2022 among all respondents aged 65+.
+
+Subgroups and interaction
+Prespecified stroke-history group; exclude missing stroke status only from subgroup analyses. Standardize both groups to the same age distribution. Assess interaction primarily on the additive scale: the difference between age-standardized year differences (stroke minus no stroke). No additional logistic interaction model is required. Calculate only if each year-by-stroke-by-age cell contains >=30 valid observations, >=10 events and >=10 nonevents, with sufficient design degrees of freedom. This is a pragmatic project rule, not a formal demonstration of statistical power. The primary swallowing outcome meets the cell rule; no interaction tests for secondary outcomes. Secondary subgroup estimates with small cells are exploratory, with a warning, and must not be interpreted as reliable null findings.
+
+Missing values and sensitivity
+Outcome-specific complete-case analysis; report unweighted and weighted proportions missing. Extreme-value sensitivity analysis for the primary outcome (all missing responses coded as no or yes), including opposing assumptions between years. These bounds are not imputations under a realistic missing-at-random assumption.
+Additionally restrict to the common interview period, quarters 1-3, to examine the disrupted/delayed end-of-year collection in 2025. Domain analysis with annual weights; no specific nonresponse recalibration. This is therefore an exploratory robustness check, not a fully seasonally adjusted annual comparison.
+Describe sex using survey weights; no automatic confounder selection. The primary estimate is age-standardized, not sex-standardized.
+
+Precision and interpretation
+Report unweighted event/denominator counts, design degrees of freedom and relative standard errors. Flag cells with <10 events or denominator <30, and estimates with relative standard error >30%, as fragile. This diagnostic does not replace a full NCHS publication-reliability assessment according to the Data Presentation Standards. Results are reproducible interim research findings, not yet approved publication tables.
+Secondary outcomes, subgroups, interaction and sensitivity analyses are exploratory; avoid multiple isolated significance claims and post-hoc outcome selection. Do not claim that a nonsignificant comparison establishes equality. Two years show a between-year difference, not a continuous trend.
+
+Comparability and limitations
+Codebooks: wording, universes and response codes agree for the three swallowing variables and STREV_A. Collection circumstances differ: a new sampling design in 2025; according to CDC, public-use variance variables can be used jointly. The 2025 file contains only eleven sample months, adjusted annual weights, a collection interruption in October/November and no December sample month. In 2025, Q4 is coded as 9 and must not be discarded as a missing interview date. Response/mode effects, proxy responses, recall, selection and residual nonresponse limit comparability. The published 2022 unweighted and 2025 weighted response rates must not be directly compared over time.
+
+Sources
+https://www.cdc.gov/nchs/nhis/documentation/2022-nhis.html
+https://www.cdc.gov/nchs/nhis/documentation/2025-nhis.html
+https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/adult-codebook.pdf
+https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/adult-codebook.pdf
+https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/srvydesc-508.pdf
+https://www.cdc.gov/nchs/hus/sources-definitions/age-adjustment.htm

@@ -1,6 +1,16 @@
+ORIGINAL ANALYSIS PLAN: FREEZE AND TRANSLATION PROVENANCE
 
-Algorithm : SHA256
-Hash      : F266A0829C5EFDA412CA03EB542E5227CBDEBE5FD2A74DA3D4C0E33CB851A2AF
-Path      : C:\Users\benlabeit\Documents\Codex\2026-11-06\nhis-p1-analyse\outputs\Analyseplan.txt
+Original plan date: 6 November 2026
+Original freeze timestamp: 2026-11-06T15:10:30.9444150+01:00
+Original language: German
+Original repository path: outputs/Analyseplan.txt
+Original SHA-256: f266a0829c5efda412ca03eb542e5227cbdebe5fd2a74da3d4c0e33cb851a2af
+Original frozen bytes remain available in repository history:
+https://github.com/benlabeit/nhis-swallowing-2022-2025/blob/6d0358204ca50a7e04effd9bdfb89c616c3872dd/outputs/Analyseplan.txt
 
-2026-11-06T15:10:30.9444150+01:00
+Current English translation: outputs/Analysis_Plan.txt
+Translation date: 9 November 2026
+Translation SHA-256: 6662b3d81654501fb85f5c60b9369ca07d6d6a8211182cd0dfd24fe4ca5cc753
+The translation preserves the original analysis specification and does not amend it.
+The original freeze timestamp and hash identify the German source, not the later English translation.
+The plan was recorded after the unweighted feasibility review and before weighted outcome estimation; it was not externally preregistered.

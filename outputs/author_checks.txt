@@ -1,8 +1,10 @@
-AUTHOR INFORMATION AND DECLARATION CHECKS
-Source: C:\Users\benlabeit\OneDrive\Files\Wissenschaft\LLM und Dysphagie\PLOS digital health\Revision\Revised_Manuscript_clean.docx
+HISTORICAL AUTHOR INFORMATION AND DECLARATION CHECKS
+This record describes the original manuscript draft. Its author order and outstanding checks are historical, not the current submission status. Use the BMC Geriatrics manuscript under outputs/bmc_geriatrics/ for the current author list, affiliations and declarations, including subsequently confirmed information.
+
+Source: Revised_Manuscript_clean.docx, the user-identified revision of "Benchmarking commercial large language model systems for guideline-concordant dysphagia management".
 Source modification: 2026-10-30T09:33:57
 Source SHA-256: 9d4067a931564e2dc0276f6ee376afd8d74202c6554500bb5620f4256c5b76d0
-Current author order retained exactly: Cinja Huber, Gero Lueg, Anel Karisik, Sriramya Lapa, Anne Jung, Orhan Aktas, Michael Gliem, Paul Muhle, Sonja Suntrup-Krueger, Rainer Dziewas, Bendix Labeit
+Author order recorded in the original draft: Cinja Huber, Gero Lueg, Anel Karisik, Sriramya Lapa, Anne Jung, Orhan Aktas, Michael Gliem, Paul Muhle, Sonja Suntrup-Krueger, Rainer Dziewas, Bendix Labeit
 Affiliations and author-specific disclosures were transferred from the user-identified latest LLM revision, as requested.
 No independent update to current employment or disclosure completeness has been inferred.
 Unverified or missing affiliation: None

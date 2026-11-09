@@ -1,0 +1,19 @@
+BMC Geriatrics manuscript verification - 9 November 2026
+
+42 live Zotero citation fields and one live bibliography field are retained.
+The bibliography contains 34 references. Citation identifiers, item identities,
+embedded metadata and in-text citation displays were preserved during formatting.
+The native Zotero CSL processor produced the same 42 citation displays and
+formatted citation strings and the same 34 bibliography entries as the saved
+document. All 24 Word-rendered pages were visually reviewed.
+
+The DOCX is the authoritative current manuscript. The CSL-JSON file is an
+export of its 34 embedded reference records, in first-citation order.
+The historical 25-reference materials in ../literature/ document the initial
+literature search and first manuscript; they are not the current bibliography.
+
+Style: BMC Geriatrics (NHIS report URLs).
+The bundled style minimally extends the BioMed Central style to retain the
+existing URLs of CDC report items. Install it in Zotero before refreshing this
+document on a different computer. Keep the citation and bibliography fields
+linked when continuing to edit the manuscript.

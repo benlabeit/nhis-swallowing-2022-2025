@@ -1,3 +1,5 @@
+Historical verification of the original 25-reference evidence set (6 November 2026). See README.txt for the distinction from the current BMC Geriatrics manuscript.
+
 25 unique records; 19 PubMed records parsed from downloaded NCBI XML.
 All 19 journal titles, author lists, years, journal names, identifiers and available pagination retained from XML.
 Page ranges use StartPage-EndPage when both exist, otherwise article number/MedlinePgn.

@@ -15,20 +15,6 @@ getrow<-function(gr,v='any',kind='difference_2025_minus_2022',anal='main') {
 }
 C<-list(ink='#182F40',muted='#536574',grid='#DEE5E9',blue='#0072B2',orange='#D55E00',grey='#77848C',pale='#F3F6F8')
 T<-list(
- de=list(groups=c('Alle ab 65 Jahren','Mit Schlaganfallanamnese','Ohne Schlaganfallanamnese'),
-   titles=c('Schluckbeschwerden ab 65 Jahren','Absolute Jahresdifferenzen','Sensitivit\u00e4t des Jahresvergleichs'),
-   subs=c('12-Monats-Pr\u00e4valenz nach berichteter Schlaganfallanamnese',
-          'Altersstandardisierte Pr\u00e4valenz 2025 minus 2022',
-          'Schluckbeschwerden: 2025 minus 2022; zwei Bev\u00f6lkerungsgruppen'),
-   axis=c('Altersstandardisierte Pr\u00e4valenz (%)','Pr\u00e4valenzdifferenz (Prozentpunkte)'),
-   estimate=c('Pr\u00e4valenz % [95%-KI]','Differenz [95%-KI]'),
-   outcomes=c('Schluckbeschwerden','Starke Beschwerden','Beschwerdedauer \u2265180 Tage'),
-   scenarios=c('Hauptanalyse: g\u00fcltige Antworten','Nur Quartale 1-3','Fehlend: 2022 Ja / 2025 Nein','Fehlend: 2022 Nein / 2025 Ja'),
-   left=c('Gruppe / Jahr; Ereignisse / g\u00fcltige Antworten','Gruppe / Endpunkt','Gruppe / Analyseannahme'),
-   source='Quelle: NCHS, NHIS 2022 und 2025; eigene Berechnungen.',
-   note1='US-Altersstandard 2000; Surveygewichte, Strata und Cluster ber\u00fccksichtigt.',
-   note2='Offene Symbole: kleine Alterszellen. Sekund\u00e4re Endpunkte und Subgruppen explorativ.',
-   note3='KI gelten unter der jeweiligen Annahme; Extremannahmen dienen als Grenzszenarien.'),
  en=list(groups=c('All adults aged 65+','With a history of stroke','Without a history of stroke'),
    titles=c('Swallowing difficulties at age 65+','Absolute differences between survey years','Sensitivity of the year comparison'),
    subs=c('12-month prevalence by reported history of stroke',
@@ -44,10 +30,9 @@ T<-list(
    note2='Open markers: sparse age cells. Secondary outcomes and subgroups are exploratory.',
    note3='CIs are conditional on each assumption; extreme scenarios serve as bounds.')
 )
-lang<-'de';tr<-T[[lang]]
+lang<-'en';tr<-T[[lang]]
 num<-function(v,sign=FALSE) {
  s<-sprintf(if(sign)'%+.2f' else '%.2f',v)
- if(lang=='de') s<-gsub('.',',',s,fixed=TRUE)
  gsub('-', '\u2212', s, fixed=TRUE)
 }
 interval<-function(z,diff=FALSE) paste0(num(100*z$estimate,diff),' [',num(100*z$lcl),'; ',num(100*z$ucl),']')
@@ -57,7 +42,7 @@ ln<-function(x0,y0,x1,y1,col=C$grid,lwd=1,lty=1)
  grid.lines(c(x0,x1),c(y0,y1),gp=gpar(col=col,lwd=lwd,lty=lty))
 basepage<-function(index) {
  grid.newpage();grid.rect(gp=gpar(fill='white',col=NA))
- tx(paste0('NHIS 2022 / 2025  |  ',if(lang=='de')'ABBILDUNG ' else 'FIGURE ',index),.04,.972,8,C$muted)
+ tx(paste0('NHIS 2022 / 2025  |  ','FIGURE ',index),.04,.972,8,C$muted)
  tx(tr$titles[index],.04,.919,17,face='bold')
  tx(tr$subs[index],.04,.873,10,C$muted)
 }
@@ -87,7 +72,7 @@ figure1<-function() {
      yr<-c(2022,2025)[j];y<-h-c(.047,.11)[j];z<-getrow(grs[i],kind=paste0('standardized_',yr))
      ct<-counts[counts$year==yr & counts$group==grs[i] & counts$agegroup=='all' & counts$outcome=='any',]
      stopifnot(z$n==ct$valid,z$events==ct$yes)
-     tx(paste0(yr,'   ',z$events,' / ',format(z$n,big.mark=if(lang=='de')'.' else ',',decimal.mark=if(lang=='de')',' else '.',scientific=FALSE,trim=TRUE)),.065,y,10,if(j==1)C$blue else C$orange)
+     tx(paste0(yr,'   ',z$events,' / ',format(z$n,big.mark=',',decimal.mark='.',scientific=FALSE,trim=TRUE)),.065,y,10,if(j==1)C$blue else C$orange)
      point(z,y,X,if(j==1)C$blue else C$orange,pch=if(j==1)16 else 15,size=2.4)
      tx(interval(z),.965,y,10,just='right')
    }

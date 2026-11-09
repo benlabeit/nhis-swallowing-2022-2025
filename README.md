@@ -1,42 +1,52 @@
-# Swallowing problems in older U.S. adults: NHIS 2022 and 2025
+# Swallowing difficulties in older US adults: NHIS 2022 and 2025
 
-Reproducible secondary analyses of National Health Interview Survey (NHIS) public-use Sample Adult data. The study compares reported swallowing problems in the preceding 12 months among adults aged 65 years and older, including a predefined subgroup with a reported history of stroke.
+Reproducible analyses of National Health Interview Survey (NHIS) public-use Sample Adult data. This study compares reported swallowing difficulties in the preceding 12 months among adults aged 65 years and older, including a prespecified subgroup with a history of stroke.
 
-The data are repeated cross-sections. Reported swallowing problems are not clinically confirmed dysphagia, and a reported stroke history does not establish the cause of the swallowing symptoms. The NHIS target population excludes institutionalized adults.
+## Current manuscript and downloads
 
-## Main findings
+The current manuscript is **Swallowing Difficulties in Older US Adults: Higher Prevalence Among Stroke Survivors in 2025 Than in 2022**, formatted for **BMC Geriatrics** on 9 November 2026.
 
-The primary directly age-standardized overall prevalence difference, 2025 minus 2022, was +0.57 percentage points (95% CI -0.40 to +1.55). The stroke-history subgroup difference was +6.27 points (1.08 to 11.47). In the post-hoc confirmed-self-response sensitivity analysis, the stroke-group difference was +4.53 points (-0.42 to +9.48), or +4.05 points (-0.78 to +8.88) after additional age/sex model standardization. The subgroup signal therefore remains exploratory and sensitive to the responding population. These are research analyses, not NCHS findings or an externally certified release.
+- [Current BMC Geriatrics manuscript with live Zotero fields](outputs/bmc_geriatrics/Manuscript_BMC_Geriatrics_Zotero.docx)
+- [BMC manuscript and four separate submission figures](outputs/bmc_geriatrics/BMC_Geriatrics_Manuscript_and_Figures.zip)
+- [Plain-text manuscript](outputs/bmc_geriatrics/Manuscript_BMC_Geriatrics.txt)
+- [Current references and Zotero style](outputs/bmc_geriatrics/)
+- [Original-data manifest and download links](outputs/data_original/original_data_manifest.tsv)
+- [Download the entire current repository](https://github.com/benlabeit/nhis-swallowing-2022-2025/archive/refs/heads/main.zip)
 
-## Downloads
+The Word manuscript contains 42 live Zotero citation fields, one live bibliography with 34 references, three editable tables and four figure legends. Its four submission figures are separate PNG files in [outputs/bmc_geriatrics/figures/](outputs/bmc_geriatrics/figures/). Install the supplied [Zotero style](outputs/bmc_geriatrics/nhis-bmc-geriatrics.csl) before refreshing the document on another computer. Scientific text, results and figure content were not changed by the journal-format conversion or this repository update.
 
-- [English manuscript with live Zotero citations](outputs/NHIS_Manuscript_Final.docx)
-- [Complete research package](NHIS_Research_Package.zip): all 110 project files, including the exact manuscript, source code, official CDC PDFs, original data archives, tables, figures, and verified literature. Extract the archive to obtain the full reproducible directory tree described below.
-- [Four English figures as a PDF](outputs/figures/NHIS_Figures_EN.pdf)
-- [Literature search and evidence](outputs/literature/)
+Superseded Dysphagia manuscripts and static research packages have been removed from the current file tree. Earlier versions remain available in Git history. The whole-repository download above always reflects the current branch and avoids distributing an outdated manuscript inside an older archive.
 
-Core analyses, tables, figures, literature and original data archives are also available as individual repository files. Supporting manuscript builders and the official PDF documentation are included in the complete package. The original uncompressed CSVs can be extracted from the two unchanged CDC archives under `work/raw/`; they are also provided separately to the project owner.
+## Findings and interpretation
 
-## Contents
+The primary directly age-standardized overall prevalence difference, 2025 minus 2022, was +0.57 percentage points (95% CI -0.40 to +1.55). The stroke-history subgroup difference was +6.27 points (1.08 to 11.47). In the confirmed-self-response sensitivity analysis, the stroke-group difference was +4.53 points (-0.42 to +9.48), or +4.05 points (-0.78 to +8.88) after additional age/sex model standardization. The subgroup finding is exploratory and sensitive to the responding population.
 
-- `outputs/`: reproducible R scripts, original and additional analysis plans, aggregate result tables, checksums and validation records.
-- `outputs/extensions/`: post-hoc age/sex adjustment and confirmed-self-response sensitivity analyses, with counts, reference distribution and diagnostic summaries.
-- `outputs/figures/`: current English PNG/SVG/PDF figures, captions, preview and plotting checks.
-- `outputs/NHIS_Manuscript_Final.docx` and `.txt`: final English manuscript, including three tables and four figures. The Word file retains live Zotero citation and bibliography fields.
-- `outputs/literature/`: 25 verified references, a documented targeted narrative search, evidence table, synthesis, native Zotero item/citation exports and Zotero validation.
-- `outputs/author_checks.txt` and `outputs/author_information_provenance.txt`: author information and remaining author checks. Source author data retained for manuscript reproduction cover only the current manuscript authors.
-- `work/`: manuscript text blocks and builder, final layout patch, Zotero helpers, author-source metadata and the figure-bundle assembly script.
-- `outputs/data_original/`: original-data manifest and provenance instructions. Large CSV copies are delivered separately; their source archives are retained in this repository.
-- `work/raw/adult22csv.zip` and `work/raw/adult25csv.zip`: unchanged downloaded CDC archives.
-- `work/docs/`: official CDC Adult Codebooks, variable summaries and Survey Descriptions in PDF format. Extracted text is regenerated by setup.
+These are repeated cross-sections, not individual follow-up observations. Reported swallowing difficulties are not clinically confirmed dysphagia, and stroke history does not establish the cause of swallowing symptoms. The target population excludes institutionalized adults. The 2025 collection interruption, changed sampling design and asymmetric respondent-status classification limit comparisons. The analyses do not establish causal effects or a continuous temporal trend.
 
-The original analysis plan is retained in its original language; the addendum, manuscript and current figures are English. Legacy generated German reports, superseded manuscript DOCX files and superseded figure bundles are not included.
+## Repository contents
 
-## Reproduce
+| Location | Contents |
+|---|---|
+| `outputs/bmc_geriatrics/` | Current Word and text manuscript, separate figures, 34-reference export, citation style and verification |
+| `outputs/Analysis_Plan.txt` | English translation of the original analysis plan, with provenance linking to the frozen original |
+| `outputs/Analysis_Plan_Addendum.txt` | Original English addendum for exploratory age/sex adjustment and self-response analyses |
+| `outputs/*.R` | Data preparation, survey estimation, validation and figure scripts |
+| `outputs/*.tsv` | Aggregate results, sample flow, variable definitions, checksums and software versions |
+| `outputs/extensions/` | Adjustment and self-response sensitivity results, cell counts and validation |
+| `outputs/figures/` | English analysis plots, numeric plotting inputs, combined PDF and figure checks |
+| `outputs/literature/` | Historical literature-search evidence and first-draft Zotero exports; the current 34-reference bibliography is under `outputs/bmc_geriatrics/` |
+| `outputs/data_original/` | Source-data manifest and provenance instructions |
+| `work/raw/` | Unchanged CDC data archives for both survey years |
+| `work/build_figure_bundle.py` | Assembly of the four analysis-figure PDF pages |
 
-Run the following from the repository root using R 4.6.0 or a compatible installation:
+Repository documentation and plot labels are in English. Proper names, reference metadata and original machine-generated software identifiers are preserved. The translation of the original plan does not alter its historical freeze record; see [analysis_plan_frozen.txt](outputs/analysis_plan_frozen.txt).
+
+## Reproduce the analyses
+
+Run from the repository root with R 4.6.0 or a compatible installation:
 
 ```sh
+python -m pip install -r requirements-python.txt
 Rscript outputs/00_setup.R
 Rscript outputs/01_prepare.R
 Rscript outputs/02_analyse.R
@@ -47,59 +57,34 @@ Rscript outputs/07_extension_figure.R
 python work/build_figure_bundle.py
 ```
 
-`00_setup.R` installs missing packages inside `work/Rlib` and extracts text from the official PDF documents. The raw data ZIPs and documents are already included, so network access is only needed for missing dependencies or absent source files. `01_prepare.R` extracts the unchanged CSVs and applies the explicit coding rules. `02_analyse.R` computes the main survey analyses; `03_validate.R` independently verifies estimates and covariance. `06_extensions.R` computes the requested post-hoc additions. The two figure scripts plot saved estimates without refitting models.
+Setup installs missing R packages in `work/Rlib`, downloads the six official CDC codebooks, variable summaries and Survey Descriptions into `work/docs`, and extracts their text. Network access is needed for missing dependencies or documentation. The original data ZIPs are included; preparation extracts them and creates a separate working dataset. No original records are overwritten.
 
-`04_report.R` is retained solely as the original report-generation source. It generates a legacy German feasibility report and is not part of the current English manuscript/figure pipeline. Do not use that report as a substitute for the updated manuscript or the extension results.
+The main analysis uses `WTFA_A` weights, `PSTRAT` strata and `PPSU` clusters, with the design declared on all adult records before domain restrictions. Annual weights and public-use design identifiers are retained across years. Direct standardization uses the US 2000 population within ages 65+, with age groups 65-74, 75-84 and 85+. The model-based sensitivity margins use the same age weights crossed with 50% male and 50% female in each age group; these are fixed comparison margins rather than actual population prevalences.
 
-The final figure assembly requires Python with `pypdf`. It combines Figures 1-3 with Figure 4 into `outputs/figures/NHIS_Figures_EN.pdf` and builds `outputs/NHIS_Figures_EN.zip`. Running `05_figures.R` regenerates the combined PDF with only its original three pages; run both figure scripts and the assembly step in the order shown to restore all four pages. Figure captions, gallery and README are maintained accompanying assets and are not regenerated by the R scripts.
+`03_validate.R` independently checks estimates and covariance. `06_extensions.R` produces the exploratory additional analyses. The figure scripts plot saved results without refitting models. The Python assembly step requires `pypdf` and combines the original three-page figure PDF with Figure 4. Run it after both figure scripts to retain all four pages. Captions and figure documentation are maintained separately.
 
-The exact R/package versions used are recorded in `outputs/session_analysis.txt`, `outputs/extensions/session_extensions.txt`, and `outputs/package_versions.tsv`. Setup installs available CRAN versions rather than resolving a locked package snapshot; compare versions and source checksums before interpreting rerun differences. No dependency binaries, local R library, prepared individual-record dataset or temporary rendering files are committed.
+`04_report.R` was removed because it generated only an obsolete German feasibility report and was not used by the current analysis or figure workflow. The variable dictionary it formerly produced is retained in English as [variable_mapping.tsv](outputs/variable_mapping.tsv).
 
-## Manuscript and Zotero reproduction
+Exact recorded versions are in [package_versions.tsv](outputs/package_versions.tsv), [session_analysis.txt](outputs/session_analysis.txt), and [session_extensions.txt](outputs/extensions/session_extensions.txt). Setup installs available CRAN versions rather than a locked package snapshot. No compiled dependencies or derived individual-record datasets are committed. The scripts reproduce analyses and analysis plots; they do not overwrite the author-edited BMC manuscript.
 
-The final document uses 25 references and 19 live Zotero citation clusters. Native Zotero processing and the saved Word field structure are recorded in `outputs/literature/Zotero_verification.txt`. The included reference metadata and native exports permit inspection without access to the original Zotero account. Item identifiers in the delivered document refer to the original user's library; another user should import the references into their own Zotero library before regenerating editable citations.
+## Result units
 
-To regenerate in a new local environment:
+Results retain full numeric precision in the TSV files. Estimates and differences in `standardized_results.tsv` and `extensions/additional_results.tsv` use a 0-1 scale; multiply by 100 for percentages or percentage points. `extensions/manuscript_summary_percent_units.tsv` already uses percentage and percentage-point units. Secondary endpoints, subgroup contrasts and sensitivity analyses are exploratory without multiplicity adjustment. Project precision flags do not replace the complete NCHS Data Presentation Standards.
 
-1. Install Python packages `python-docx`, `lxml`, `Pillow` and `pypdf`, plus Zotero with its Microsoft Word add-in.
-2. In each Zotero JavaScript helper, set `projectRoot` to the repository's local absolute path. Run `work/zotero_import_export.js`, then `work/zotero_render_citations.js`, in Zotero's Tools > Developer > Run JavaScript window with async execution enabled. The first script imports or updates the marked project items in a dedicated collection; the second renders citations from `work/manuscript_body.json` using Zotero's installed CSL engine. These helpers are Zotero scripts, not Node.js programs.
-3. Run `python work/build_manuscript.py --approve-create`. It reads the saved analyses, literature exports, author metadata and figures and generates intermediate `outputs/NHIS_Manuscript.docx` and `.txt` files. The flag confirms the local artifact-creation operation; it does not submit or publish anything.
-4. Refresh Zotero fields in Microsoft Word and save. Run `python work/refine_manuscript_layout.py` to produce `outputs/NHIS_Manuscript_Final.docx`, preserving the fields and applying the documented final layout refinements. Retain the manuscript text export as `outputs/NHIS_Manuscript_Final.txt`.
-5. Run `python work/verify_zotero_docx.py outputs/NHIS_Manuscript_Final.docx`, then export/render the saved Word file and visually inspect every page. The validator checks fields and content, and cannot replace Word-based pagination review. Historical workflow observations in its report must not be read as proof that Word refresh or visual review occurred during a new run.
+## Original data
 
-The delivered manuscript and supplied final validation describe the completed original workflow. Font availability and Word/Zotero versions can change pagination in later runs. Affiliation provenance and study-specific disclosure assumptions are recorded separately; the manuscript's author order is explicit in its builder. This package does not include private source manuscripts from unrelated projects.
-
-## Analysis specification
-
-The survey design is declared using all adult records, with annual weights `WTFA_A`, public-use strata `PSTRAT`, and clusters `PPSU`, followed by domain restrictions. Public-use design identifiers and annual weights are retained across years in accordance with CDC documentation. Primary estimates use direct standardization to the U.S. 2000 population within ages 65+, using age groups 65-74, 75-84, and 85+.
-
-The two post-hoc model-based comparisons use a fixed hypothetical reference: the same age weights crossed with 50% male and 50% female within each age group. These margins are not actual population prevalences. Proxy status is conservatively harmonized using the different year-specific indicators; the self-only sensitivity excludes unknown respondent status and changes the target population. The plans document endpoint coding, missing values, covariance, confidence intervals and limitations.
-
-All tables report unrounded numeric results. In `standardized_results.tsv` and `extensions/additional_results.tsv`, estimates and differences are on a 0-1 scale; multiply by 100 for percentages or percentage points. `extensions/manuscript_summary_percent_units.tsv` already uses percent/percentage-point units.
-
-## Original data and provenance
-
-| Survey year | Adult records | CSV columns | Official archive |
+| Survey year | Adult records | CSV columns | Unchanged source archive |
 |---|---:|---:|---|
-| 2022 | 27,651 | 637 | `work/raw/adult22csv.zip` |
-| 2025 | 24,215 | 577 | `work/raw/adult25csv.zip` |
+| 2022 | 27,651 | 637 | [adult22csv.zip](work/raw/adult22csv.zip) |
+| 2025 | 24,215 | 577 | [adult25csv.zip](work/raw/adult25csv.zip) |
 
-The local user deliverable `NHIS_Original_Data.zip` contains both downloaded archives, both unchanged extracted CSVs, and their manifest. The CSVs were verified byte-for-byte against their archive entries. The 2022 CSV is approximately 28 MB; retaining the original archive avoids an oversized individual upload and unnecessary duplication.
+- [CDC NHIS 2022 documentation](https://www.cdc.gov/nchs/nhis/documentation/2022-nhis.html)
+- [CDC NHIS 2025 documentation](https://www.cdc.gov/nchs/nhis/documentation/2025-nhis.html)
+- [Official 2022 Adult CSV download](https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NHIS/2022/adult22csv.zip)
+- [Official 2025 Adult CSV download](https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NHIS/2025/adult25csv.zip)
 
-- [CDC NHIS 2022 data and documentation](https://www.cdc.gov/nchs/nhis/documentation/2022-nhis.html)
-- [CDC NHIS 2025 data and documentation](https://www.cdc.gov/nchs/nhis/documentation/2025-nhis.html)
-- [2022 original Adult CSV archive](https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NHIS/2022/adult22csv.zip)
-- [2025 original Adult CSV archive](https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NHIS/2025/adult25csv.zip)
+The [manifest](outputs/data_original/original_data_manifest.tsv) records source URLs, byte sizes, record counts and SHA-256 hashes for the archives and their unchanged CSV entries. The large CSVs are not duplicated in Git; preparation extracts them from the original ZIPs. `HHX` is a within-year identifier and must not be interpreted as a longitudinal person identifier.
 
-SHA-256 hashes, byte sizes, record/column counts and source URLs are in `outputs/data_original/original_data_manifest.tsv`. `outputs/source_sha256.tsv` also covers the documentation. Scripts preserve original inputs; transformations are made separately. `HHX` is used within year and must not be interpreted as a longitudinal person identifier.
+## Source, data use and rights
 
-## Interpretation, data use and rights
-
-NHIS data use is subject to the terms in the official Survey Description, including prohibitions on attempted identification or linkage to identifiable records. The 2025 file contains 11 sample months with adjusted annual weights after collection interruptions; these operational changes limit year-to-year comparability. Secondary endpoints, subgroup contrasts and sensitivity analyses are exploratory, with no multiplicity adjustment. The project-specific precision flags do not replace the complete NCHS Data Presentation Standards.
-
-Source: National Center for Health Statistics, National Health Interview Survey, 2022 and 2025 public-use data. Analyses, interpretations and conclusions are those of the project authors and do not represent NCHS positions. No submission or external endorsement is implied. No additional license for the manuscript or original project materials is asserted by this repository; official data-use terms and the rights of any separately included third-party sources remain applicable.
-
-## Delivery archives
-
-`NHIS_Research_Package.zip` contains this complete repository staging tree, including the original data ZIPs and six official CDC PDF documents. `NHIS_Supplementary_Materials.zip` contains the manuscript, code, aggregate results, English figures, literature/Zotero materials and current-author provenance, but omits `work/raw/` and `work/docs/`. To reproduce from the compact archive, run setup and preparation with network access; they download missing official inputs from the recorded CDC URLs. The original-data manifest and checksums are included in both archives. Neither archive contains local dependencies, temporary renderings, the original unrelated LLM manuscript or superseded manuscript files.
-
+Source: National Center for Health Statistics, National Health Interview Survey, 2022 and 2025 public-use data. Analyses, interpretations and conclusions are those of the project authors and do not represent NCHS positions. NHIS data-use terms apply, including the prohibition on attempted identification or linkage to identifiable records. No submission, journal acceptance or external endorsement is implied. No additional license for the manuscript or project materials is asserted here; official data-use terms and third-party rights remain applicable.
