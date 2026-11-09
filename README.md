@@ -51,9 +51,9 @@ Rscript outputs/00_setup.R
 Rscript outputs/01_prepare.R
 Rscript outputs/02_analyse.R
 Rscript outputs/03_validate.R
-Rscript outputs/06_extensions.R
+Rscript outputs/04_extensions.R
 Rscript outputs/05_figures.R
-Rscript outputs/07_extension_figure.R
+Rscript outputs/06_extension_figure.R
 python work/build_figure_bundle.py
 ```
 
@@ -61,9 +61,9 @@ Setup installs missing R packages in `work/Rlib`, downloads the six official CDC
 
 The main analysis uses `WTFA_A` weights, `PSTRAT` strata and `PPSU` clusters, with the design declared on all adult records before domain restrictions. Annual weights and public-use design identifiers are retained across years. Direct standardization uses the US 2000 population within ages 65+, with age groups 65-74, 75-84 and 85+. The model-based sensitivity margins use the same age weights crossed with 50% male and 50% female in each age group; these are fixed comparison margins rather than actual population prevalences.
 
-`03_validate.R` independently checks estimates and covariance. `06_extensions.R` produces the exploratory additional analyses. The figure scripts plot saved results without refitting models. The Python assembly step requires `pypdf` and combines the original three-page figure PDF with Figure 4. Run it after both figure scripts to retain all four pages. Captions and figure documentation are maintained separately.
+`03_validate.R` independently checks estimates and covariance. `04_extensions.R` produces the exploratory additional analyses. The figure scripts plot saved results without refitting models. The Python assembly step requires `pypdf` and combines the original three-page figure PDF with Figure 4. Run it after both figure scripts to retain all four pages. Captions and figure documentation are maintained separately.
 
-`04_report.R` was removed because it generated only an obsolete German feasibility report and was not used by the current analysis or figure workflow. The variable dictionary it formerly produced is retained in English as [variable_mapping.tsv](outputs/variable_mapping.tsv).
+The R scripts are numbered `00` through `06` in execution order: setup, preparation, main analysis, validation, exploratory extensions, Figures 1-3, and Figure 4. The variable dictionary is maintained separately as [variable_mapping.tsv](outputs/variable_mapping.tsv). The historical author checklist has been removed; the current author list and declarations are in the BMC manuscript.
 
 Exact recorded versions are in [package_versions.tsv](outputs/package_versions.tsv), [session_analysis.txt](outputs/session_analysis.txt), and [session_extensions.txt](outputs/extensions/session_extensions.txt). Setup installs available CRAN versions rather than a locked package snapshot. No compiled dependencies or derived individual-record datasets are committed. The scripts reproduce analyses and analysis plots; they do not overwrite the author-edited BMC manuscript.
 
