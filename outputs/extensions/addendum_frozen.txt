@@ -1,6 +1,11 @@
+ANALYSIS PLAN ADDENDUM: ORIGINAL FREEZE RECORD
 
-Algorithm : SHA256
-Hash      : 259910509930E0032634E2252366285D592CFFF4536A68F93FAC04560DC00079
-Path      : C:\Users\benlabeit\Documents\Codex\2026-11-06\nhis-p1-analyse\outputs\Analyseplan_Addendum.txt
-
-2026-11-06T15:41:22.9002038+01:00
+Plan date: 6 November 2026
+Original freeze timestamp: 2026-11-06T15:41:22.9002038+01:00
+SHA-256: 259910509930e0032634e2252366285d592cfff4536a68f93fac04560dc00079
+Current path: outputs/Analysis_Plan_Addendum.txt
+Original repository path: outputs/Analyseplan_Addendum.txt
+The file was already written in English. Only its filename was changed on 9 November 2026; its bytes and SHA-256 are unchanged.
+Original version:
+https://github.com/benlabeit/nhis-swallowing-2022-2025/blob/6d0358204ca50a7e04effd9bdfb89c616c3872dd/outputs/Analyseplan_Addendum.txt
+The addendum specifies post-hoc exploratory analyses and was recorded before those additional models and contrasts were computed.
