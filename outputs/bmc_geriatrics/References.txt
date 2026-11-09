@@ -1,0 +1,67 @@
+1. Labeit B, Lapa S, Lueg G, Joebges R, Hofacker J, Muhle P, et al. Oropharyngeal dysphagia: a narrative review towards an integrated neurogeriatric perspective. Lancet Healthy Longev. 2025;6:100794. https://doi.org/10.1016/j.lanhl.2025.100794.
+
+2. Labeit B, Berkovich E, Claus I, Roderigo M, Schwake A-L, Izgelov D, et al. Dysphagia for medication in Parkinson’s disease. NPJ Parkinsons Dis. 2022;8:156. https://doi.org/10.1038/s41531-022-00421-9.
+
+3. Labeit B, Kremer A, Muhle P, Claus I, Warnecke T, Dziewas R, et al. Costs of post-stroke dysphagia during acute hospitalization from a health-insurance perspective. Eur Stroke J. 2023;8:361–9. https://doi.org/10.1177/23969873221147740.
+
+4. Labeit B, Muhle P, von Itter J, Slavik J, Wollbrink A, Sporns P, et al. Clinical determinants and neural correlates of presbyphagia in community-dwelling older adults. Front Aging Neurosci. 2022;14:912691. https://doi.org/10.3389/fnagi.2022.912691.
+
+5. National Center for Health Statistics. National Health Interview Survey, 2022 survey description. Centers for Disease Control and Prevention; 2023. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/srvydesc-508.pdf.
+
+6. National Center for Health Statistics. National Health Interview Survey, 2025 survey description. Centers for Disease Control and Prevention; 2026. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/srvydesc-508.pdf.
+
+7. Bhattacharyya N. The prevalence of dysphagia among adults in the United States. Otolaryngol Head Neck Surg. 2014;151:765–9. https://doi.org/10.1177/0194599814549156.
+
+8. Hong I, Bae S, Lee HK, Bonilha HS. Prevalence of Dysphonia and Dysphagia Among Adults in the United States in 2012 and 2022. Am J Speech Lang Pathol. 2024;33:1868–79. https://doi.org/10.1044/2024_AJSLP-23-00407.
+
+9. Madhavan A, LaGorio LA, Crary MA, Dahl WJ, Carnaby GD. Prevalence of and Risk Factors for Dysphagia in the Community Dwelling Elderly: A Systematic Review. J Nutr Health Aging. 2016;20:806–15. https://doi.org/10.1007/s12603-016-0712-3.
+
+10. Rech RS, de Goulart BNG, Dos Santos KW, Marcolino MAZ, Hilgert JB. Frequency and associated factors for swallowing impairment in community-dwelling older persons: a systematic review and meta-analysis. Aging Clin Exp Res. 2022;34:2945–61. https://doi.org/10.1007/s40520-022-02258-x.
+
+11. Namasivayam-MacDonald A, Werbeloff M, Shune S. Prevalence and Predictors of Self-Reported Swallowing Difficulties in Community-Dwelling Older Adults: A Population-Based Study from the National Health and Aging Trends Study (NHATS). Dysphagia. 2026;41:127–37. https://doi.org/10.1007/s00455-025-10860-0.
+
+12. Labeit B, Michou E, Hamdy S, Trapl-Grundschober M, Suntrup-Krueger S, Muhle P, et al. The assessment of dysphagia after stroke: state of the art and future directions. Lancet Neurol. 2023;22:858–70. https://doi.org/10.1016/S1474-4422(23)00153-9.
+
+13. Martino R, Foley N, Bhogal S, Diamant N, Speechley M, Teasell R. Dysphagia after stroke: incidence, diagnosis, and pulmonary complications. Stroke. 2005;36:2756–63. https://doi.org/10.1161/01.STR.0000190056.76543.eb.
+
+14. Mann G, Hankey GJ, Cameron D. Swallowing function after stroke: prognosis and prognostic factors at 6 months. Stroke. 1999;30:744–8. https://doi.org/10.1161/01.str.30.4.744.
+
+15. Dziewas R, Michou E, Trapl-Grundschober M, Lal A, Arsava EM, Bath PM, et al. European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia. Eur Stroke J. 2021;6:LXXXIX–CXV. https://doi.org/10.1177/23969873211039721.
+
+16. Labeit B, Michou E, Trapl-Grundschober M, Suntrup-Krueger S, Muhle P, Bath PM, et al. Dysphagia after stroke: research advances in treatment interventions. Lancet Neurol. 2024;23:418–28. https://doi.org/10.1016/S1474-4422(24)00053-X.
+
+17. Karisik A, Labeit B, Schiefecker AJ, Sollereder S, Galvan O, Graf S, et al. Gaps in Guidelines on Long‐Term Management Strategies for Post‐Stroke Dysphagia. Eur J Neurol. 2025;32:e70307. https://doi.org/10.1111/ene.70307.
+
+18. National Center for Health Statistics. 2022 National Health Interview Survey: Codebook for Sample Adult File. Centers for Disease Control and Prevention; 2023. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/adult-codebook.pdf.
+
+19. National Center for Health Statistics. 2025 National Health Interview Survey: Codebook for Sample Adult File. Centers for Disease Control and Prevention; 2026. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/adult-codebook.pdf.
+
+20. Lumley T. Analysis of Complex Survey Samples. J Stat Softw. 2004;9:1–19. https://doi.org/10.18637/jss.v009.i08.
+
+21. National Center for Health Statistics. Age adjustment - Health, United States. 2026. https://www.cdc.gov/nchs/hus/sources-definitions/age-adjustment.htm. Accessed 6 Nov 2026.
+
+22. von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC, Vandenbroucke JP, et al. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies. PLoS Med. 2007;4:e296. https://doi.org/10.1371/journal.pmed.0040296.
+
+23. Kawashima K, Motohashi Y, Fujishima I. Prevalence of dysphagia among community-dwelling elderly individuals as estimated using a questionnaire for dysphagia screening. Dysphagia. 2004;19:266–71. https://doi.org/10.1007/s00455-004-0013-6.
+
+24. Holland G, Jayasekeran V, Pendleton N, Horan M, Jones M, Hamdy S. Prevalence and symptom profiling of oropharyngeal dysphagia in a community dwelling of an elderly population: a self-reporting questionnaire survey. Dis Esophagus. 2011;24:476–80. https://doi.org/10.1111/j.1442-2050.2011.01182.x.
+
+25. Yang EJ, Kim MH, Lim J, Paik N-J. Oropharyngeal Dysphagia in a community-based elderly cohort: the korean longitudinal study on health and aging. J Korean Med Sci. 2013;28:1534–9. https://doi.org/10.3346/jkms.2013.28.10.1534.
+
+26. Kwok CS, Gillani SA, Bains NK, Gomez CR, Hanley DF, Ford DE, et al. Mechanical thrombectomy in patients with acute ischemic stroke in the USA before and after time window expansion. J Neurointerv Surg. 2024;16:447–52. https://doi.org/10.1136/jnis-2023-020286.
+
+27. Bendszus M, Fiehler J, Subtil F, Bonekamp S, Aamodt AH, Fuentes B, et al. Endovascular thrombectomy for acute ischaemic stroke with established large infarct: multicentre, open-label, randomised trial. Lancet. 2023;402:1753–63. https://doi.org/10.1016/S0140-6736(23)02032-9.
+
+28. Hong I, Norman RS, Woo H-S, Jin Y, Reistetter TA. Dysphagia and Functional Limitations Among Adults in the United States: Findings from the 2022 National Health Interview Survey. Dysphagia. 2024;39:1042–51. https://doi.org/10.1007/s00455-024-10680-8.
+
+29. Leiman DA, Jones HN, North R, Porter Starr KN, Pieper CF, Cohen SM. Self-Reported Dysphagia and Psychosocial Health Among Community-Dwelling Older Adults: Results of a National Study. J Gen Intern Med. 2023;38:3329–38. https://doi.org/10.1007/s11606-023-08232-1.
+
+30. Jones HN, Leiman DA, Porter Starr KN, North R, Pieper CF, Robison RD, et al. Dysphagia in Older Adults is Associated With Food Insecurity and Being Homebound. J Appl Gerontol. 2023;42:1993–2002. https://doi.org/10.1177/07334648231177568.
+
+31. Serra-Prat M, Palomera M, Gomez C, Sar-Shalom D, Saiz A, Montoya JG, et al. Oropharyngeal dysphagia as a risk factor for malnutrition and lower respiratory tract infection in independently living older persons: a population-based prospective study. Age Ageing. 2012;41:376–81. https://doi.org/10.1093/ageing/afs006.
+
+32. Zheng M, Zhou S, Hur K, Chambers T, O’Dell K, Johns M. Disparities in the prevalence of self-reported dysphagia and treatment among U.S. adults. Am J Otolaryngol. 2023;44:103774. https://doi.org/10.1016/j.amjoto.2022.103774.
+
+33. Zhao R, He L, Albert SW, Li A, Rameau A. Dysphagia Care in the United States: Examining the Impact of the Affordable Care Act on Access to Care. Otolaryngol Head Neck Surg. 2025;173:162–70. https://doi.org/10.1002/ohn.1239.
+
+34. Belafsky PC, Mouadeb DA, Rees CJ, Pryor JC, Postma GN, Allen J, et al. Validity and reliability of the Eating Assessment Tool (EAT-10). Ann Otol Rhinol Laryngol. 2008;117:919–24. https://doi.org/10.1177/000348940811701210.

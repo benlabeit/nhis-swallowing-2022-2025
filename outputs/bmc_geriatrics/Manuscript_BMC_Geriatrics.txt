@@ -1,0 +1,270 @@
+Swallowing Difficulties in Older US Adults: Higher Prevalence Among Stroke Survivors in 2025 Than in 2022
+Cinja Huber1, Lars Masanneck1, Gero Lueg2, Anel Karisik3,4, Sriramya Lapa5, Anne Jung5, Orhan Aktas1, Michael Gliem1, Paul Muhle6, Sonja Suntrup-Krueger6, Rainer Dziewas7, Bendix Labeit1
+1 Department of Neurology, Medical Faculty, University Hospital Duesseldorf, Duesseldorf, Germany.
+2 Department of Geriatric Medicine, Marien Hospital Herne, Ruhr University Bochum, Herne, Germany.
+3 Department of Neurology, Medical University of Innsbruck, Innsbruck, Austria
+4 VASCage-Centre on Clinical Stroke Research, Innsbruck, Austria
+5 Department of Neurology, Medical Faculty, University Hospital Frankfurt, Frankfurt, Germany
+6 Department of Neurology, University Hospital Muenster, Muenster, Germany.
+7 Department of Neurology and Neurorehabilitation, Klinikum Osnabrueck, Osnabrueck, Germany.
+Corresponding author: Bendix Labeit. Department of Neurology, Medical Faculty and University Hospital Duesseldorf, Moorenstraße 5, 40225, Duesseldorf, Germany. Email: benlabeit@gmail.com
+Abstract
+Background: We compared reported swallowing difficulties among US adults aged 65 years and older in 2022 and 2025, with attention to stroke history and response status.
+Methods: We analyzed National Health Interview Survey public-use Sample Adult files using survey weights and design-based variance estimation. The primary outcome was reported swallowing difficulty during the preceding 12 months. Prevalences were standardized to the US 2000 population aged 65 years and older. We estimated between-year differences and the difference between changes in respondents with and without stroke history. Exploratory analyses examined age and sex adjustment and restriction to confirmed self-responses.
+Results: Valid primary responses were available for 8,485 adults in 2022 and 8,223 in 2025. Age-standardized prevalence was 7.77% versus 8.35%, respectively, a difference of 0.57 percentage points (95% confidence interval [CI], −0.40 to 1.55). Among respondents with stroke history, prevalence was 14.15% versus 20.43%, a difference of 6.27 points (95% CI, 1.08 to 11.47). The additive interaction was 6.05 points (95% CI, 0.77 to 11.33). The stroke-group difference remained positive after age and sex adjustment but decreased to 4.53 points (95% CI, −0.42 to 9.48) with self-response restriction.
+Conclusions: The overall comparison did not establish a clear prevalence difference. A larger increase was observed among respondents with stroke history, but its magnitude and precision were sensitive to response-status restriction. Changes in survival after severe stroke, survivor composition or symptom reporting are possible explanations requiring dedicated study.
+Keywords Swallowing difficulties; Older adults; Stroke; National Health Interview Survey; Prevalence; Population survey
+Background
+Dysphagia refers to difficulty swallowing and can compromise the safe and efficient intake of food, liquids, and medication. It is associated with malnutrition, pneumonia, impaired medication intake, higher hospitalization costs, and increased mortality [1–3]. Older adults may be particularly vulnerable to these consequences because age-related changes in swallowing, termed presbyphagia, can reduce functional reserve even in otherwise healthy individuals [1, 4]. This reduced reserve may be further challenged by neurological conditions such as stroke, which become more common with advancing age [1]. Together, these factors provide the clinical rationale for focusing on adults aged 65 years and older. 
+National Health Interview Survey (NHIS) is a continuous household survey conducted by the National Center for Health Statistics in the United States of America. It uses a multistage probability sample and interviews conducted by trained Census Bureau staff, in person or by telephone, to collect primarily self-reported health information. Survey weights are designed to produce nationally representative estimates for the civilian noninstitutionalized US population, and de-identified public-use data and documentation are freely available [5, 6].
+Swallowing difficulties are relevant to population health because they occur beyond hospitals and specialist clinics. In the 2012 NHIS, approximately 4.0% of US adults reported a swallowing problem during the preceding year, and relatively few affected respondents sought professional care [7]. A subsequent comparison of NHIS 2012 and 2022 reported an increase in all-adult prevalence from 4.02% to 5.91% [8]. Whether a similar difference is apparent in more recent survey years, particularly among older adults, requires separate assessment.
+Estimates among community-dwelling older adults vary with symptom definitions, recall periods, sampling and assessment methods. Reviews show considerable heterogeneity, making pooled prevalence an imperfect benchmark for an individual survey [9, 10]. A US National Health and Aging Trends Study (NHATS) analysis reported annual weighted prevalence between 8.7% and 10.2% across 11 rounds, with symptoms often reported intermittently [11]. Such observations support repeated surveillance while cautioning against interpreting separate cross-sectional estimates as individual deterioration or recovery.
+Stroke is a major cause of dysphagia [12], but findings from acute stroke care do not directly describe the burden among community-dwelling stroke survivors. In the acute setting, prevalence estimates depend strongly on whether swallowing is evaluated by screening, clinical examination, or instrumental assessment [12, 13]. Swallowing function may subsequently improve, although difficulties can persist beyond the acute phase [14]. Clinical guidance therefore emphasizes recognition, assessment, and management of post-stroke dysphagia through nutritional support, oral hygiene, and individualized swallowing rehabilitation [12, 15, 16]. However, recommendations for structured long-term reassessment remain limited [17], highlighting the relevance of examining swallowing difficulties among survivors living in the community. 
+Against this background, we compared the prevalence of reported swallowing difficulties among US adults aged 65 years and older in NHIS 2022 and 2025, using a common age standard. Stroke was selected for a separate subgroup analysis because of its clinical relevance and because a history of physician-diagnosed stroke was recorded in both survey years, allowing this group to be defined consistently. The study plan specified a comparison within this subgroup and an assessment of whether the between-year difference varied between respondents with and without a stroke history. Secondary objectives were to characterize substantial swallowing difficulty and prolonged symptoms. Additional exploratory analyses assessed whether the findings were sensitive to age and sex adjustment or restriction to confirmed self-responses. These comparisons were intended to describe population-level differences between the two survey years and were not designed to establish their causes.
+
+Methods
+Study design and population
+We conducted a repeated cross-sectional analysis of the 2022 and 2025 NHIS public-use Sample Adult files. NHIS samples the civilian noninstitutionalized US population [5, 6]. Adults with known age of at least 65 years were eligible; the highest public-use age value represents 85 years or older. The two files provide distinct cross-sectional observations and do not support individual longitudinal follow-up.
+Survey comparability
+The swallowing items and stroke-history item had matching wording, universes and response codes. Nevertheless, a new sampling design began in 2025, and survey operations were disrupted by a lapse in federal appropriations. Collection was paused from October 1 through November 16 and restarted on November 18. October and November sample interviewing was delayed; the December sample was fielded in January 2026 and excluded from the 2025 file. The annual file therefore contains 11 sample months with adjusted weights [6]. The altered end-of-year interview-quarter code was retained in the annual analysis and not treated as missing [18, 19].
+Outcomes and subgroup definition. 
+The primary outcome was a positive response to VSLSWYR_A, which asks about swallowing problems during the previous 12 months and gives examples involving food, pills and liquids [18, 19]. Secondary outcomes were reporting “a lot” of difficulty (VSLSWDIF_A=2) and symptoms on at least 180 days (VSLSWDYS_A=6). These were population outcomes: respondents without swallowing problems were classified as negative, whereas missing severity or duration among affected respondents remained missing. Duration categories were not treated as exact continuous measurements. Stroke history indicated a reported previous diagnosis by a doctor or other health professional (STREV_A=1); timing and attribution of swallowing symptoms to stroke were unavailable [18, 19].
+Analysis planning and missing data
+Endpoint-specific complete cases were analyzed; unknown stroke status excluded respondents only from stroke-group comparisons. Refused, unknown and not-ascertained responses were not recoded as negative. Sensitivity bounds assigned all missing primary outcomes to negative or positive responses, both identically across years and under opposing assumptions. These are deliberately extreme scenarios rather than missing-at-random imputations.
+Survey estimation and standardization
+Analyses used R 4.6.0 and survey 4.5, with Taylor linearization, annual adult weights and the public-use strata and primary sampling units [20]. Following NCHS guidance for public-use cross-year comparisons, weights and design identifiers were retained unchanged when files were concatenated [6]. All domains were derived from the full survey design. Direct standardization used ages 65–74, 75–84 and 85 years or older, weighted by corresponding US 2000 standard-population counts normalized within ages 65 and older: 0.522495, 0.354796 and 0.122709 [21]. Standardized prevalences are comparative indexes; crude weighted prevalences additionally describe each year's population distribution.
+Contrasts and uncertainty
+The primary contrast was the 2025-minus-2022 age-standardized prevalence difference among all older adults. Prevalence confidence intervals used logit-transformed delta-method standard errors and t critical values; differences used linear contrasts and the full covariance matrix of the jointly estimated year-by-age domain means. Degrees of freedom reflected the relevant survey domain. Additive interaction was defined as the stroke-group year difference minus the no-stroke-group year difference. This descriptive difference-in-differences contrast was not interpreted as a causal difference-in-differences design.
+Secondary comparisons and quality checks
+The prespecified stroke-group and interaction analyses, secondary-outcome comparisons and sensitivity analyses were interpreted as exploratory, without multiplicity adjustment. Interaction estimation required at least 30 valid observations, 10 events and 10 nonevents in each year-by-stroke-by-age cell, with adequate design degrees of freedom. Sparse secondary-outcome cells were flagged and not interpreted as reliable negative findings. Record and event counts were checked against codebooks; standardized estimates were independently reproduced from age-specific means, and covariance estimates were checked against saturated survey models. These checks do not constitute a complete NCHS publication-reliability assessment. Reporting was informed by STROBE [22].
+Interview-period sensitivity
+We repeated primary-outcome comparisons within interview quarters 1–3, using the full survey design and annual weights. This explored the influence of the disrupted end-of-year period [6]. It did not recalibrate nonresponse weights for the restricted interval and should not be interpreted as a fully seasonally adjusted annual comparison.
+The stroke subgroup comparison was prespecified in the original analysis plan. After inspection of the original results, an addendum specified additional exploratory survey-weighted logistic models with quasibinomial variance. The overall model included year, age group and sex; the stroke model additionally included stroke history and its interaction with year. Marginal predictions used the same fixed hypothetical reference in every year and subgroup: US 2000 age weights crossed with 50% male and 50% female within each age group. Adjusted levels consequently describe this reference population. Differences and additive interactions used analytic gradients, the full coefficient covariance and model-based residual survey degrees of freedom. Numerical gradients and model predictions were independently checked.
+Self-response sensitivity
+Public proxy indicators changed between years. A conservative 2022 definition required the sample adult to be available (AVAIL_A=1) with PROXY_A outside its question universe; other ambiguous combinations were excluded [18]. In 2025, PROXYFLAG_A=2 identified self-response [19]. Direct age standardization and age-and-sex-adjusted models were repeated in these domains. This restriction changes the represented population toward adults able to respond themselves, and its asymmetric classification may exclude some true self-responses in 2022. It is a sensitivity analysis, not a correction establishing that proxy responses are erroneous.
+Generative AI assistance. 
+ChatGPT (OpenAI) assisted with drafting analysis code, manuscript text and figure layouts, and with formatting. Statistical estimates were produced by the R scripts; numerical validation procedures are described above.
+
+Results
+Study sample
+The adult files contained 27,651 records in 2022 and 24,215 in 2025, including 8,771 and 8,468 adults aged 65 years or older. Valid primary responses were available for 8,485 and 8,223, with 653 and 689 positive responses, respectively. Primary-outcome missingness was 286/8,771 (3.26%) and 245/8,468 (2.89%) unweighted, corresponding to weighted proportions of 3.64% and 3.06%. Valid stroke-group analyses included 671 respondents in 2022 and 590 in 2025, with 98 and 108 positive responses. The corresponding no-stroke denominators were 7,796 and 7,615. Sample inclusion is summarized in Table 1.
+Table 1 Sample inclusion and primary outcome counts
+Sample or outcome
+2022 n
+2025 n
+All Sample Adult records
+27651
+24215
+Unknown age
+64
+60
+Adults aged 65 years or older
+8771
+8468
+Valid primary outcome
+8485
+8223
+Reported swallowing problems
+653
+689
+Missing primary outcome
+286
+245
+Reported stroke history among adults 65+
+702
+615
+Unknown stroke status among adults 65+
+18
+22
+Stroke history with valid primary outcome
+671
+590
+No stroke history with valid primary outcome
+7796
+7615
+All counts are unweighted. Outcome-specific missing responses are excluded from prevalence estimation. Unknown stroke status affects subgroup analyses but does not exclude a valid response from the overall analysis.
+Overall prevalence
+Crude weighted prevalence was 7.61% in 2022 and 8.14% in 2025. After age standardization, prevalence was 7.77% (95% CI, 7.13–8.47) and 8.35% (95% CI, 7.67–9.08), respectively. The difference was 0.57 percentage points (95% CI, −0.40 to 1.55; P=.248). The interval was compatible with a small decrease or an increase; the result does not establish equivalence between years.
+Stroke-history comparison
+Age-standardized prevalence among respondents with stroke history was 14.15% (95% CI, 11.24–17.67) in 2022 and 20.43% (95% CI, 16.64–24.81) in 2025. The difference was 6.27 percentage points (95% CI, 1.08–11.47; P=.018). Among respondents without stroke history, prevalence was 7.19% and 7.41%, a difference of 0.22 points (95% CI, −0.73 to 1.18). The additive interaction was 6.05 points (95% CI, 0.77–11.33; P=.025), indicating a larger estimated year difference in the stroke-history group on the absolute scale. Primary prevalence estimates are summarized in Table 2 and Fig. 1.
+Table 2 Primary age standardized prevalence and between year differences
+Population
+2022 prevalence %95% CI
+2025 prevalence %95% CI
+Difference pp95% CI
+All adults 65+
+7.77 (7.13 to 8.47)
+8.35 (7.67 to 9.08)
+0.57 (−0.40 to 1.55)
+Stroke history
+14.15 (11.24 to 17.67)
+20.43 (16.64 to 24.81)
+6.27 (1.08 to 11.47)
+No stroke history
+7.19 (6.55 to 7.89)
+7.41 (6.76 to 8.12)
+0.22 (−0.73 to 1.18)
+CI, confidence interval; pp, percentage points. Differences are 2025 minus 2022. Direct age standardization uses the US 2000 population within ages 65 years and older. Intervals account for weights, strata, clusters and covariance of the joint estimates. The overall population includes unknown stroke status and overlaps both subgroups. Subgroup analyses are exploratory and intervals are not adjusted for multiplicity.
+
+Secondary outcomes
+Overall age-standardized prevalence of substantial difficulty was 1.49% in 2022 and 1.43% in 2025, a difference of −0.05 points (95% CI, −0.48 to 0.38). Symptoms on at least 180 days were reported by 2.12% and 2.48%, a difference of 0.37 points (95% CI, −0.18 to 0.92). Corresponding stroke-group differences were 2.16 points for substantial difficulty (95% CI, −0.49 to 4.80) and 1.06 points for prolonged symptoms (95% CI, −2.70 to 4.83). Sparse age-specific cells made these subgroup estimates fragile; no secondary-outcome interaction tests were performed. Outcome-specific differences are shown in Fig. 2.
+Interview-period and missing-outcome sensitivities
+Restricting to quarters 1–3 produced an overall difference of 0.43 points (95% CI, −0.65 to 1.51) and a stroke-group difference of 5.72 points (95% CI, 0.08–11.37). Assigning every missing outcome to negative responses in both years yielded a stroke-group difference of 6.18 points (95% CI, 1.18–11.18); assigning all to positive responses yielded 5.16 points (95% CI, −0.27 to 10.58). Opposing assignments across years produced stroke-group point differences from 1.27 to 10.06 points. These scenarios demonstrate dependence on missingness assumptions rather than identifying a preferred estimate. These sensitivity comparisons are shown in Fig. 3.
+
+Additional age and sex adjustment
+Adjusted marginal differences were 0.52 points overall (95% CI, −0.44 to 1.48), 5.84 points in the stroke-history group (95% CI, 0.80–10.88), and 0.18 points without stroke history (95% CI, −0.77 to 1.12). The adjusted additive interaction was 5.66 points (95% CI, 0.52–10.80). Six respondents with valid outcomes in 2025 lacked usable sex information and were excluded from these models.
+Restriction to confirmed self-responses
+The primary-outcome domain decreased to 8,175 respondents in 2022 and 7,944 in 2025; stroke-group denominators were 614 and 532. Age-standardized stroke-group prevalence was 13.52% and 18.05%, a difference of 4.53 points (95% CI, −0.42 to 9.48). The additive interaction decreased to 4.15 points (95% CI, −0.92 to 9.23). Combining self-response restriction with age and sex adjustment yielded a stroke-group difference of 4.05 points (95% CI, −0.78 to 8.88) and an interaction of 3.80 points (95% CI, −1.17 to 8.77). These intervals include both no difference and appreciable increases. All four methods are compared in Table 3, with stroke-group contrasts in Fig. 4.
+[Table 3 near here]
+
+Discussion
+This comparison found no clear overall difference in reported swallowing difficulties among older US adults between 2022 and 2025. A larger increase was observed among respondents with stroke history than among those without it. That contrast persisted after additional age and sex adjustment, but became smaller and less precise when analyses were restricted to confirmed self-responses. The combined evidence supports further investigation of the stroke-history subgroup while limiting claims about a consistent population change across alternative analytic populations.
+The findings extend previous NHIS research. Previous work documented an all-adult increase between 2012 and 2022, but the current older-adult comparison does not demonstrate that this earlier pattern continued uniformly after 2022 [7, 8]. Differences in age range, standardization and calendar interval prevent direct numerical substitution. Earlier analyses also crossed the 2019 NHIS redesign [5]. Two observed years identify a between-year difference, not a continuous trajectory or the timing of a change.
+The overall estimates are broadly within the range of reported symptoms in recent US older-adult survey research, including NHATS, but these sources should not be combined into a single prevalence series [11]. Community studies from Japan, the United Kingdom and Korea used different questionnaires or clinical screening, age distributions and exclusions [23–25]. The UK questionnaire study, for example, excluded participants with a history of neurological disease [24]. Reviews' wide ranges and marked heterogeneity reinforce the importance of matching the measurement and target population when interpreting prevalence [9, 10].
+The stroke-history finding is clinically relevant but cannot be interpreted as an increase in acute post-stroke dysphagia. NHIS respondents are survivors living outside institutions, with unknown time since stroke, stroke severity and recurrence. Symptoms may predate stroke or have another cause. Acute-stroke studies use bedside or instrumental assessments and commonly report higher frequencies; longitudinal clinical observations also show that diet recovery and residual swallowing abnormalities need not coincide [12–15]. The survey therefore complements clinical surveillance without measuring the same outcome or population.
+Several untested explanations could contribute to the higher stroke-group estimate. Expanded access to acute reperfusion therapy may change the composition of the survivor population. In US inpatient data, thrombectomy use increased and in-hospital mortality decreased after extension of the treatment window, although those observations preceded our comparison [26]. More recently, TENSION demonstrated functional and survival benefits of thrombectomy in selected patients with large established infarcts [27]. If more people survive severe strokes with residual swallowing impairment and return to community living, symptom prevalence among community-dwelling survivors could rise even while acute care improves. Treatment may also reduce residual disability, so higher thrombectomy use does not itself predict more dysphagia. Differences in comorbidity, time since stroke, symptom recognition, or reporting are alternative hypotheses. NHIS lacks treatment and detailed stroke-severity data, so these mechanisms cannot be tested or attributed to the observed difference.
+The response-status analysis is particularly informative because restrictions on who can answer may change the composition of a stroke-survivor sample. The decrease in the point estimate after excluding proxy and ambiguous responses could reflect differences in health, functional ability, reporting or classification. It cannot establish that proxy reports inflated the original result. The strict 2022 harmonization also differs from the direct 2025 flag [18, 19]. A confidence interval crossing zero after restriction does not prove absence of a difference; conversely, the primary interval excluding zero does not establish robustness to all plausible selection mechanisms.
+Reported symptoms matter even without diagnostic confirmation. NHIS 2022 analyses linked swallowing complaints with functional limitations, while NHATS analyses found associations with psychosocial health, food insecurity and being homebound [28–30]. These studies provide context for potential service needs, although they are observational and some use overlapping source populations. Prospective community evidence links clinically assessed swallowing impairment with subsequent respiratory infection [31]. Such findings justify attention to symptom burden but should not be treated as complications demonstrated in the present respondents.
+Care access remains a separate issue. Previous NHIS work identified disparities in reported swallowing problems and treatment, and a 2012/2022 comparison did not establish a corresponding clear improvement in treatment access [32, 33]. Our analysis did not test care utilization, treatment effectiveness or policy effects. Consequently, the stroke-group difference cannot be attributed to reduced access, inadequate rehabilitation or a specific policy. Those explanations require studies with appropriately measured exposures and temporal information.
+Several limitations constrain inference. The single symptom question does not distinguish oropharyngeal from esophageal disorders, identify aspiration, or establish clinical severity. Validation of a multi-item instrument such as EAT-10 does not validate the NHIS item [34]. Twelve-month recall, recognition of symptoms and proxy observation may affect reporting. Missing outcomes were handled transparently, but neither complete-case analysis nor extreme bounds remove selection bias. Exclusion of institutionalized adults is particularly relevant to older people with severe disability, and weighting cannot guarantee correction of all differential nonresponse [5, 6].
+The 2025 collection interruption creates an additional comparability limitation. Adjusted annual weights, the delayed October and November samples, and the absence of the December sample do not recreate uninterrupted collection [6]. Interview-period restriction gave a similar directional stroke-group estimate, but used annual weights and did not address all participation or seasonal effects. Age standardization and the exploratory sex-adjusted models address selected compositional differences, not unmeasured changes in morbidity or reporting. Multiple exploratory comparisons, modest stroke-group event counts and fragile secondary cells further favor cautious interpretation over isolated significance claims.
+Strengths include population-based sampling, identical outcome coding, explicit preservation of the public-use survey design, a common age standard and reproducible covariance calculations. Future work could assess additional survey waves, clinically characterized community stroke cohorts and consistent response-status measures. Such work would help distinguish persistent symptom changes from differences in survey participation and survivor composition.
+Conclusions
+Reported swallowing difficulties did not show a clearly established overall prevalence difference among US adults aged 65 years and older between 2022 and 2025. A larger increase was observed among respondents with stroke history, with attenuation and wider uncertainty under confirmed-self-response restriction. The findings support continued surveillance of swallowing symptoms in older stroke survivors while requiring caution about survey comparability, reporting differences and any inference concerning clinically confirmed dysphagia. A changing survivor population after advances in acute stroke care and differences in symptom reporting are plausible, untested explanations for the stroke-group finding.
+List of abbreviations
+AI, artificial intelligence; CDC, Centers for Disease Control and Prevention; CI, confidence interval; CSV, comma-separated values; DFG, Deutsche Forschungsgemeinschaft (German Research Foundation); EAT-10, Eating Assessment Tool; NCHS, National Center for Health Statistics; NHATS, National Health and Aging Trends Study; NHIS, National Health Interview Survey; pp, percentage points; STROBE, Strengthening the Reporting of Observational Studies in Epidemiology; UK, United Kingdom; US, United States.
+Declarations
+Ethics approval and consent to participate
+Ethics approval was not required because this secondary analysis used publicly available data. Consent to participate was not applicable to this secondary analysis of publicly available, de-identified survey data.
+Consent for publication
+Not applicable.
+Availability of data and materials
+The original public-use National Health Interview Survey Sample Adult datasets are publicly available from the Centers for Disease Control and Prevention and the National Center for Health Statistics as compressed CSV files: NHIS 2022 (adult22csv.zip) and NHIS 2025 (adult25csv.zip). The unmodified source tables contain 27,651 records and 637 variables for 2022 and 24,215 records and 577 variables for 2025, before analytical exclusions. 2022 documentation and 2025 documentation provide the questionnaires, codebooks and survey descriptions [5, 6].
+The study materials include original-file checksums, variable mappings, analysis plans, reproducible R code, numerical results, and figure-generation code.  The study materials are maintained in the project repository: https://github.com/benlabeit/nhis-swallowing-2022-2025.
+Competing interests
+C.H. has received travel expenses from Phagenesis Ltd, from the German Society for Dysphagia (DGD) and from the United European Gastroenterology (UEG).
+L.M. has received honoraria for lecturing, consulting, and travel expenses for attending meetings from Biogen, Merck, Sanofi, argenx, Roche, Alexion Pharmaceuticals, and Novartis, and has received research funding from the German Multiple Sclerosis Foundation (DMSG) and the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) [grant number 493659010].
+G.L. has received honoraria from Bristol Myers Squibb, has received travel expenses from German Dysphagia Society (DGD) and German Geriatric Society (DGG), and receives additional funding through the Advanced Clinician Scientist Program of Ruhr University Bochum.
+S.L. has received honoraria and travel grants for lectures and conferences from the German Society for Clinical Neurophysiology and Functional Imaging (DGKN), Phagenesis Ltd, the United European Gastroenterology (UEG), the German Stroke Society (DSG), argenx, AbbVie, and Merck, and serves as a consultant for Phagenesis Ltd.
+A.J. has received a travel grant from the German Dysphagia Society (DGD) and honoraria for lectures from the German Society for Clinical Neurophysiology and Functional Imaging (DGKN) and Phagenesis Ltd.
+O.A. has received personal fees from Alexion, Amgen, AstraZeneca, Roche, Sanofi, and UCB.
+M.G. receives speaking fees from Novartis, Pfizer, Daiichi Sankyo, and Johnson & Johnson.
+P.M. has received honoraria for lectures from Nestlé Health Science, Phagenesis Ltd, and Alexion Pharma.
+S.S.-K. has received honoraria from Phagenesis Ltd, and served as unpaid Congress President 2024 of the European Society for Swallowing Disorders (ESSD).
+R.D. is a former advisory board member of Phagenesis Ltd, serves as unpaid President of the European Society for Swallowing Disorders (ESSD) and has received consulting fees from Danone, Johnson and Johnson and Argenx.
+B.L. has received research funding from the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation), Clexio Bioscience Ltd, the Medical Faculty of the University of Münster, and the Gesellschaft von Freunden und Förderern der Heinrich-Heine-Universität Düsseldorf e.V.; scientific prizes from the German Geriatric Society (DGG) in conjunction with the Rolf and Hubertine Schiffbauer Foundation and the German Neurological Society (DGN); and honoraria and/or travel grants for lectures and conferences from the German Society for Clinical Neurophysiology and Functional Imaging (DGKN), the European Stroke Organization (ESO), the Society for Clinical Nutrition and Metabolism (ESPEN), Phagenesis Ltd, the German Society for Neurology (DGN), the European Society for Swallowing Disorders (ESSD), the United European Gastroenterology (UEG), the University of Strasbourg, the German Society for Muscular Dystrophy (DGM), the German Society for Nutritional Medicine (DGEM), the German Society for Internal Medicine (DGIM), the German Stroke Society (DSG), the University of Zurich, the Confederation of European Otorhinolaryngology – Head and Neck Surgery (CEORL-HNS), CONGRES ORPHEO, the Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin (DIVI), the DGG, Novartis, and Danone.
+A.K. declares no competing interests.
+Funding
+This work was supported by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation), project number 529859742, under the Walter Benjamin Programme for Bendix Labeit.
+Authors’ contributions
+B.L. planned the study. C.H. and B.L. performed the analyses. L.M. verified the analyses. G.L., A.K., S.L., A.J., O.A., M.G., P.M., S.S.-K. and R.D. critically reviewed the manuscript for important intellectual content. All authors read and approved the final manuscript.
+Acknowledgements
+Not applicable.
+References
+1. Labeit B, Lapa S, Lueg G, Joebges R, Hofacker J, Muhle P, et al. Oropharyngeal dysphagia: a narrative review towards an integrated neurogeriatric perspective. Lancet Healthy Longev. 2025;6:100794. https://doi.org/10.1016/j.lanhl.2025.100794.
+2. Labeit B, Berkovich E, Claus I, Roderigo M, Schwake A-L, Izgelov D, et al. Dysphagia for medication in Parkinson’s disease. NPJ Parkinsons Dis. 2022;8:156. https://doi.org/10.1038/s41531-022-00421-9.
+3. Labeit B, Kremer A, Muhle P, Claus I, Warnecke T, Dziewas R, et al. Costs of post-stroke dysphagia during acute hospitalization from a health-insurance perspective. Eur Stroke J. 2023;8:361–9. https://doi.org/10.1177/23969873221147740.
+4. Labeit B, Muhle P, von Itter J, Slavik J, Wollbrink A, Sporns P, et al. Clinical determinants and neural correlates of presbyphagia in community-dwelling older adults. Front Aging Neurosci. 2022;14:912691. https://doi.org/10.3389/fnagi.2022.912691.
+5. National Center for Health Statistics. National Health Interview Survey, 2022 survey description. Centers for Disease Control and Prevention; 2023. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/srvydesc-508.pdf.
+6. National Center for Health Statistics. National Health Interview Survey, 2025 survey description. Centers for Disease Control and Prevention; 2026. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/srvydesc-508.pdf.
+7. Bhattacharyya N. The prevalence of dysphagia among adults in the United States. Otolaryngol Head Neck Surg. 2014;151:765–9. https://doi.org/10.1177/0194599814549156.
+8. Hong I, Bae S, Lee HK, Bonilha HS. Prevalence of Dysphonia and Dysphagia Among Adults in the United States in 2012 and 2022. Am J Speech Lang Pathol. 2024;33:1868–79. https://doi.org/10.1044/2024_AJSLP-23-00407.
+9. Madhavan A, LaGorio LA, Crary MA, Dahl WJ, Carnaby GD. Prevalence of and Risk Factors for Dysphagia in the Community Dwelling Elderly: A Systematic Review. J Nutr Health Aging. 2016;20:806–15. https://doi.org/10.1007/s12603-016-0712-3.
+10. Rech RS, de Goulart BNG, Dos Santos KW, Marcolino MAZ, Hilgert JB. Frequency and associated factors for swallowing impairment in community-dwelling older persons: a systematic review and meta-analysis. Aging Clin Exp Res. 2022;34:2945–61. https://doi.org/10.1007/s40520-022-02258-x.
+11. Namasivayam-MacDonald A, Werbeloff M, Shune S. Prevalence and Predictors of Self-Reported Swallowing Difficulties in Community-Dwelling Older Adults: A Population-Based Study from the National Health and Aging Trends Study (NHATS). Dysphagia. 2026;41:127–37. https://doi.org/10.1007/s00455-025-10860-0.
+12. Labeit B, Michou E, Hamdy S, Trapl-Grundschober M, Suntrup-Krueger S, Muhle P, et al. The assessment of dysphagia after stroke: state of the art and future directions. Lancet Neurol. 2023;22:858–70. https://doi.org/10.1016/S1474-4422(23)00153-9.
+13. Martino R, Foley N, Bhogal S, Diamant N, Speechley M, Teasell R. Dysphagia after stroke: incidence, diagnosis, and pulmonary complications. Stroke. 2005;36:2756–63. https://doi.org/10.1161/01.STR.0000190056.76543.eb.
+14. Mann G, Hankey GJ, Cameron D. Swallowing function after stroke: prognosis and prognostic factors at 6 months. Stroke. 1999;30:744–8. https://doi.org/10.1161/01.str.30.4.744.
+15. Dziewas R, Michou E, Trapl-Grundschober M, Lal A, Arsava EM, Bath PM, et al. European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia. Eur Stroke J. 2021;6:LXXXIX–CXV. https://doi.org/10.1177/23969873211039721.
+16. Labeit B, Michou E, Trapl-Grundschober M, Suntrup-Krueger S, Muhle P, Bath PM, et al. Dysphagia after stroke: research advances in treatment interventions. Lancet Neurol. 2024;23:418–28. https://doi.org/10.1016/S1474-4422(24)00053-X.
+17. Karisik A, Labeit B, Schiefecker AJ, Sollereder S, Galvan O, Graf S, et al. Gaps in Guidelines on Long‐Term Management Strategies for Post‐Stroke Dysphagia. Eur J Neurol. 2025;32:e70307. https://doi.org/10.1111/ene.70307.
+18. National Center for Health Statistics. 2022 National Health Interview Survey: Codebook for Sample Adult File. Centers for Disease Control and Prevention; 2023. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/adult-codebook.pdf.
+19. National Center for Health Statistics. 2025 National Health Interview Survey: Codebook for Sample Adult File. Centers for Disease Control and Prevention; 2026. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2025/adult-codebook.pdf.
+20. Lumley T. Analysis of Complex Survey Samples. J Stat Softw. 2004;9:1–19. https://doi.org/10.18637/jss.v009.i08.
+21. National Center for Health Statistics. Age adjustment - Health, United States. 2026. https://www.cdc.gov/nchs/hus/sources-definitions/age-adjustment.htm. Accessed 6 Nov 2026.
+22. von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC, Vandenbroucke JP, et al. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies. PLoS Med. 2007;4:e296. https://doi.org/10.1371/journal.pmed.0040296.
+23. Kawashima K, Motohashi Y, Fujishima I. Prevalence of dysphagia among community-dwelling elderly individuals as estimated using a questionnaire for dysphagia screening. Dysphagia. 2004;19:266–71. https://doi.org/10.1007/s00455-004-0013-6.
+24. Holland G, Jayasekeran V, Pendleton N, Horan M, Jones M, Hamdy S. Prevalence and symptom profiling of oropharyngeal dysphagia in a community dwelling of an elderly population: a self-reporting questionnaire survey. Dis Esophagus. 2011;24:476–80. https://doi.org/10.1111/j.1442-2050.2011.01182.x.
+25. Yang EJ, Kim MH, Lim J, Paik N-J. Oropharyngeal Dysphagia in a community-based elderly cohort: the korean longitudinal study on health and aging. J Korean Med Sci. 2013;28:1534–9. https://doi.org/10.3346/jkms.2013.28.10.1534.
+26. Kwok CS, Gillani SA, Bains NK, Gomez CR, Hanley DF, Ford DE, et al. Mechanical thrombectomy in patients with acute ischemic stroke in the USA before and after time window expansion. J Neurointerv Surg. 2024;16:447–52. https://doi.org/10.1136/jnis-2023-020286.
+27. Bendszus M, Fiehler J, Subtil F, Bonekamp S, Aamodt AH, Fuentes B, et al. Endovascular thrombectomy for acute ischaemic stroke with established large infarct: multicentre, open-label, randomised trial. Lancet. 2023;402:1753–63. https://doi.org/10.1016/S0140-6736(23)02032-9.
+28. Hong I, Norman RS, Woo H-S, Jin Y, Reistetter TA. Dysphagia and Functional Limitations Among Adults in the United States: Findings from the 2022 National Health Interview Survey. Dysphagia. 2024;39:1042–51. https://doi.org/10.1007/s00455-024-10680-8.
+29. Leiman DA, Jones HN, North R, Porter Starr KN, Pieper CF, Cohen SM. Self-Reported Dysphagia and Psychosocial Health Among Community-Dwelling Older Adults: Results of a National Study. J Gen Intern Med. 2023;38:3329–38. https://doi.org/10.1007/s11606-023-08232-1.
+30. Jones HN, Leiman DA, Porter Starr KN, North R, Pieper CF, Robison RD, et al. Dysphagia in Older Adults is Associated With Food Insecurity and Being Homebound. J Appl Gerontol. 2023;42:1993–2002. https://doi.org/10.1177/07334648231177568.
+31. Serra-Prat M, Palomera M, Gomez C, Sar-Shalom D, Saiz A, Montoya JG, et al. Oropharyngeal dysphagia as a risk factor for malnutrition and lower respiratory tract infection in independently living older persons: a population-based prospective study. Age Ageing. 2012;41:376–81. https://doi.org/10.1093/ageing/afs006.
+32. Zheng M, Zhou S, Hur K, Chambers T, O’Dell K, Johns M. Disparities in the prevalence of self-reported dysphagia and treatment among U.S. adults. Am J Otolaryngol. 2023;44:103774. https://doi.org/10.1016/j.amjoto.2022.103774.
+33. Zhao R, He L, Albert SW, Li A, Rameau A. Dysphagia Care in the United States: Examining the Impact of the Affordable Care Act on Access to Care. Otolaryngol Head Neck Surg. 2025;173:162–70. https://doi.org/10.1002/ohn.1239.
+34. Belafsky PC, Mouadeb DA, Rees CJ, Pryor JC, Postma GN, Allen J, et al. Validity and reliability of the Eating Assessment Tool (EAT-10). Ann Otol Rhinol Laryngol. 2008;117:919–24. https://doi.org/10.1177/000348940811701210.
+
+Table 3 Primary outcome comparisons across four analysis methods
+Method
+Population
+2022 %
+2025 %
+Difference pp95% CI
+Direct age standardization
+All adults 65+
+7.77
+8.35
+0.57 (−0.40 to 1.55)
+Direct age standardization
+Stroke history
+14.15
+20.43
+6.27 (1.08 to 11.47)
+Direct age standardization
+No stroke history
+7.19
+7.41
+0.22 (−0.73 to 1.18)
+Age and sex adjustment
+All adults 65+
+7.76
+8.28
+0.52 (−0.44 to 1.48)
+Age and sex adjustment
+Stroke history
+13.95
+19.79
+5.84 (0.80 to 10.88)
+Age and sex adjustment
+No stroke history
+7.15
+7.33
+0.18 (−0.77 to 1.12)
+Self-response onlyAge standardization
+All adults 65+
+7.26
+7.78
+0.52 (−0.39 to 1.43)
+Self-response onlyAge standardization
+Stroke history
+13.52
+18.05
+4.53 (−0.42 to 9.48)
+Self-response onlyAge standardization
+No stroke history
+6.72
+7.10
+0.38 (−0.55 to 1.30)
+Self-response onlyAge and sex adjustment
+All adults 65+
+7.29
+7.68
+0.39 (−0.52 to 1.30)
+Self-response onlyAge and sex adjustment
+Stroke history
+13.43
+17.48
+4.05 (−0.78 to 8.88)
+Self-response onlyAge and sex adjustment
+No stroke history
+6.74
+6.99
+0.25 (−0.67 to 1.17)
+CI, confidence interval; pp, percentage points. Model-adjusted estimates use the US 2000 age standard crossed with a fixed 50:50 male:female distribution, a hypothetical reference population. Self-response restriction uses conservative year-specific classifications and changes the target population. The additional methods were specified after inspection of the original results; all are exploratory and unadjusted for multiplicity. Small changes in denominators for adjusted models reflect missing sex information. These analyses do not remove the 2025 collection-interruption limitation.
+Figure legends
+Fig. 1 Reported swallowing difficulties among adults aged 65 years and older in 2022 and 2025. Points indicate survey-weighted prevalence standardized to the US 2000 age distribution; horizontal lines indicate 95% confidence intervals. Circles denote 2022 and squares denote 2025. Event counts and valid-response denominators are unweighted and therefore do not reproduce weighted percentages. The overall group includes unknown stroke status and overlaps both stroke-history subgroups. Estimates account for the survey design. Source: National Health Interview Survey public-use data
+Fig. 2 Absolute prevalence differences between 2025 and 2022 by outcome and stroke history. Points indicate age-standardized differences in percentage points; horizontal lines show 95% confidence intervals. The dashed zero line denotes no difference. Substantial difficulty represents the response “a lot”; prolonged symptoms represent at least 180 days during the preceding year. Both secondary outcomes use population denominators, with valid primary-negative responses coded as negative and missing follow-up responses retained as missing. Open circles identify stroke-group contrasts with fewer than ten events in at least one underlying year-by-age cell. Secondary and subgroup analyses are exploratory without multiplicity adjustment. Source: National Health Interview Survey public-use data
+Fig. 3 Sensitivity to interview period and missing responses. Points and horizontal lines indicate age-standardized prevalence differences (2025 minus 2022) and 95% confidence intervals. The dashed line denotes no difference. Restriction to interview quarters 1–3 retains annual weights without recalibration. The two extreme scenarios assign all missing primary responses to yes in 2022 and no in 2025, or vice versa. Their intervals represent sampling uncertainty conditional on each assignment and do not form a confidence band across missing-data mechanisms. These exploratory scenarios do not address complete interview nonparticipation or unknown age and stroke status. Source: National Health Interview Survey public-use data
+Fig. 4 Stroke-group prevalence differences across analysis methods. Points and horizontal lines show 2025-minus-2022 differences in reported swallowing difficulties and 95% confidence intervals; the dashed line denotes no difference. The primary result is shown by a square and added analyses by circles. Direct estimates use the US 2000 age distribution. Model-adjusted estimates additionally use a fixed 50:50 male:female distribution within age groups. Restriction to confirmed self-responses excludes proxy and ambiguous response status using conservative year-specific classifications and changes the target population. The directly age-standardized stroke comparison was prespecified; the age- and sex-adjusted and self-response analyses were added after inspection of the original results. All subgroup and sensitivity comparisons are exploratory without multiplicity adjustment. Source: National Health Interview Survey public-use data
