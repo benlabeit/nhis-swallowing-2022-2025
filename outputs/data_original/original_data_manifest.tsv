@@ -1,0 +1,5 @@
+year	file	kind	bytes	sha256	csv_rows_excluding_header	csv_columns	source_url
+2022	adult22.csv	unchanged CSV extracted from official ZIP	28118163	2e814050ea06ca1ffed356f51979b87c20d6242b0453c928249a29bd5f1f29f1	27651	637	https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NHIS/2022/adult22csv.zip
+2022	adult22csv.zip	official downloaded ZIP	3654579	25083298173acfff35c6635be0fbcaa3ff26b985e0a48fc5e7d9788761864dba	27651	637	https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NHIS/2022/adult22csv.zip
+2025	adult25.csv	unchanged CSV extracted from official ZIP	22038942	011b46e814e619acd970a1449a7f7d6a97f52c7ffe07e955c753f791da23d12b	24215	577	https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NHIS/2025/adult25csv.zip
+2025	adult25csv.zip	official downloaded ZIP	3579199	94d5477ffc3a03e292a3000da8eb5ad71626ae8032bbaa98c9711b7a3b572570	24215	577	https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NHIS/2025/adult25csv.zip
