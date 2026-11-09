@@ -2,6 +2,7 @@
 /work/Rlib/
 /work/prepared.rds
 /work/analysis_results.rds
+/work/raw/*.zip
 /work/raw/*.csv
 /work/raw/readme.txt
 /work/raw/2022/
