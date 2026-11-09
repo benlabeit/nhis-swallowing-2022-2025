@@ -1,12 +1,12 @@
 # Run from project root AFTER 01_prepare.R. No input data are changed.
-# Post-hoc analyses 1 and 2 defined in Analyseplan_Addendum.txt.
+# Post-hoc analyses 1 and 2 defined in Analysis_Plan_Addendum.txt.
 if(.Platform$OS.type=='windows') Sys.setlocale('LC_CTYPE','English_United States.utf8')
 .libPaths(c('work/Rlib',.libPaths()))
 suppressPackageStartupMessages(library(survey))
 options(survey.lonely.psu='fail')
 outdir<-'outputs/extensions'
 dir.create(outdir,recursive=TRUE,showWarnings=FALSE)
-stopifnot(file.exists('outputs/Analyseplan_Addendum.txt'),file.exists(file.path(outdir,'addendum_frozen.txt')))
+stopifnot(file.exists('outputs/Analysis_Plan_Addendum.txt'),file.exists(file.path(outdir,'addendum_frozen.txt')))
 write_tsv<-function(x,name) write.table(x,file.path(outdir,name),sep='\t',row.names=FALSE,na='NA')
 d<-readRDS('work/prepared.rds')
 d$AVAIL_A<-d$PROXY_A<-d$PROXYFLAG_A<-NA_integer_
@@ -160,7 +160,7 @@ writeLines(c('All additional results are post-hoc exploratory analyses.',
              unique(validation),
              'No singleton-PSU adjustment applied. Original full adult design retained before domain restriction.',
              paste('Prepared data MD5:',unname(tools::md5sum('work/prepared.rds'))),
-             paste('Addendum MD5:',unname(tools::md5sum('outputs/Analyseplan_Addendum.txt')))),file.path(outdir,'validation_and_methods.txt'))
+             paste('Addendum MD5:',unname(tools::md5sum('outputs/Analysis_Plan_Addendum.txt')))),file.path(outdir,'validation_and_methods.txt'))
 capture.output(sessionInfo(),file=file.path(outdir,'session_extensions.txt'))
 summaryrows<-list();ks<-0
 for(method in unique(ans$analysis)) for(gr in c('all','stroke','no_stroke')) {
