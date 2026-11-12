@@ -1,0 +1,5 @@
+"year"	"group"	"baseline_n"	"baseline_events"	"dementia_missing"	"complete_n"	"complete_events"
+2022	"no_stroke"	7796	552	3	7793	551
+2022	"stroke"	671	98	0	671	98
+2025	"no_stroke"	7609	580	8	7601	579
+2025	"stroke"	590	108	1	589	108

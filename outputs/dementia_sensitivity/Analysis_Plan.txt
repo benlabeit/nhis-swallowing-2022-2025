@@ -1,0 +1,40 @@
+Exploratory dementia sensitivity analysis
+Author of requested manuscript revisions: Cinja
+Specified before fitting the new models, 12 November 2026.
+
+Purpose: assess whether the 2025-minus-2022 swallowing-symptom difference
+in adults aged 65+ with stroke history persists after accounting for reported
+physician-diagnosed dementia (DEMENEV_A). This is post-hoc, not prespecified
+in the original study, and does not establish independence from all causes.
+
+Use unchanged official 2022 and 2025 adult files. Reproduce existing outcome,
+age, sex, stroke and full survey-design coding; retain annual weights and
+public strata/PSU identifiers unchanged. Include proxy and ambiguous response
+status as in the original unrestricted analysis. Codes 7/8/9 are missing.
+
+Fit survey-weighted quasibinomial logistic models among older adults with
+known outcome, sex and stroke: outcome ~ year * stroke + agegroup + sex.
+Reproduce the published age-sex-adjusted subgroup contrasts first. Then fit
+this baseline on dementia-complete cases and add a binary dementia main
+effect on exactly those cases. No variable selection or extra interactions.
+
+For all model comparisons use the existing US 2000 age weights crossed with
+50% male/female. For the dementia model subdivide each age-sex cell using
+the pooled survey-weighted dementia proportion in the dementia-complete
+older-adult stroke-model domain, pooling both years and stroke groups.
+Use this same fixed hypothetical joint reference for every year and group.
+Treat the estimated reference distribution as fixed: confidence intervals
+are conditional on it and do not propagate its estimation uncertainty.
+
+Report standardized prevalence, year differences and additive interaction
+using analytic marginal gradients and full survey coefficient covariance;
+use residual survey degrees of freedom and t-based intervals, logit scale
+for prevalence and linear scale for differences. Check gradients numerically,
+predictions against predict(), convergence, rank, design df and cell counts.
+Report exclusions and compare the baseline on identical complete cases to
+separate adjustment effects from changes in sample composition.
+
+This is descriptive sensitivity analysis. Dementia timing/severity and other
+neurological causes remain unavailable. Dementia may follow stroke; adjustment
+does not identify a causal direct effect. No multiplicity correction. Do not
+replace the original primary analysis or confirmed-self-response sensitivity.

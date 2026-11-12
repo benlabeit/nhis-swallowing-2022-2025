@@ -49,3 +49,8 @@ Source: NCHS, National Health Interview Survey, 2022 and 2025 public-use data. N
 - `outputs/*.tsv` and `outputs/extensions/`: aggregate results, checks and sensitivity analyses. Prevalence estimates and differences in `standardized_results.tsv` and `extensions/additional_results.tsv` use a 0–1 scale; multiply by 100 for percentages or percentage points.
 - `outputs/figures/`: analysis plots and captions; `outputs/bmc_geriatrics/`: current manuscript and submission materials.
 - [Package versions](outputs/package_versions.tsv): recorded software versions. Setup uses available CRAN packages rather than a locked environment.
+
+## Additional dementia sensitivity analysis
+
+The [dementia sensitivity analysis](outputs/dementia_sensitivity/README.md) adds reported physician-diagnosed dementia to the age- and sex-adjusted year-by-stroke model, retaining proxy responses. Run `Rscript outputs/07_dementia_sensitivity.R` separately from the original pipeline. Code, complete-case comparisons, aggregate results and validation checks are provided; the primary analysis is unchanged.
+

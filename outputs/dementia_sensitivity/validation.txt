@@ -1,0 +1,7 @@
+baseline_full : convergence, rank, finite covariance, numerical gradients and predict() checks PASS
+baseline_complete : convergence, rank, finite covariance, numerical gradients and predict() checks PASS
+dementia_adjusted : convergence, rank, finite covariance, numerical gradients and predict() checks PASS
+Original stored subgroup estimates, standard errors and intervals reproduced to <1e-8: PASS
+Plan MD5 7b2b7d7d9909dd05f3fbf09495397b5f
+Reference distribution treated as fixed; uncertainty conditional on reference.
+Sparse dementia-stratified cells: no dementia interaction or separate dementia-subgroup effect estimated.
