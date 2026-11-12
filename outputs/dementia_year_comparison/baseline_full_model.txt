@@ -1,0 +1,23 @@
+
+Call:
+svyglm(formula = form, design = domain, family = quasibinomial())
+
+Survey design:
+subset(des, older & !is.na(any) & !is.na(sex) & !is.na(dementia_group))
+
+Coefficients:
+                                Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     -2.72033    0.06847 -39.729  < 2e-16 ***
+year2025                         0.06287    0.06838   0.919  0.35806    
+dementia_groupdementia           0.56254    0.20214   2.783  0.00548 ** 
+agegroup75-84                    0.18468    0.07078   2.609  0.00920 ** 
+agegroup85+                      0.47619    0.10631   4.479 8.25e-06 ***
+sexfemale                        0.13974    0.06837   2.044  0.04121 *  
+year2025:dementia_groupdementia  0.25401    0.26965   0.942  0.34640    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for quasibinomial family taken to be 0.9987704)
+
+Number of Fisher Scoring iterations: 5
+

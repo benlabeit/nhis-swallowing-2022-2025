@@ -1,0 +1,16 @@
+Exploratory comparison requested after reviewing the dementia-adjusted stroke
+analysis. Defined before fitting these new models. No manuscript edits.
+Outcome: reported swallowing difficulties; age >=65 with known dementia.
+Retain proxy responses, original annual weights and full public survey design.
+Estimate crude and directly age-standardized prevalence by year and dementia.
+Fit year*dementia + age group + sex; then add stroke history on the same
+complete-case population. Also fit age/sex on all eligible complete cases to
+separate exclusions from adjustment. Report marginal prevalence, year
+differences, and additive interaction (dementia change minus no-dementia change).
+Reference: US 2000 age standard, 50:50 sex, pooled survey-weighted stroke
+distribution within age-sex cells, common to year/dementia groups. Treat
+reference as fixed; CI uncertainty is conditional on estimated reference.
+Use full model covariance, analytic gradients checked numerically, t-based
+intervals with residual survey df and logit intervals for prevalence.
+Document unweighted events and sparse cells. Small dementia sample and multiple
+post-hoc comparisons require caution; no causal or individual-change claim.

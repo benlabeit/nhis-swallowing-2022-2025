@@ -1,0 +1,3 @@
+baseline_full : convergence, rank, finite covariance, numerical gradients and predict() checks PASS
+baseline_complete : convergence, rank, finite covariance, numerical gradients and predict() checks PASS
+stroke_adjusted : convergence, rank, finite covariance, numerical gradients and predict() checks PASS
