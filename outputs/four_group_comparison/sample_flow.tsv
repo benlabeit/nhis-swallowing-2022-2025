@@ -1,0 +1,9 @@
+"year"	"group"	"n"	"events"	"sex_missing"	"adjusted_n"	"adjusted_events"
+2022	"neither"	7554	514	0	7554	514
+2025	"neither"	7411	541	6	7405	541
+2022	"stroke_only"	618	90	0	618	90
+2025	"stroke_only"	538	93	0	538	93
+2022	"dementia_only"	239	37	0	239	37
+2025	"dementia_only"	196	38	0	196	38
+2022	"both"	53	8	0	53	8
+2025	"both"	51	15	0	51	15

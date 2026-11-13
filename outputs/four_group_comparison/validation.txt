@@ -1,0 +1,4 @@
+Crude estimates: manual weighted means and saturated Gaussian survey covariance agree: PASS
+Adjusted model: convergence/full rank/finite covariance, predict() and numerical gradients PASS
+Maximum gradient error 8.36771207879394e-11
+Exploratory contrasts without multiplicity adjustment; sparse cells limit precision.

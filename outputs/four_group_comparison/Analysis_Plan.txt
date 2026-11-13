@@ -1,0 +1,21 @@
+Four-group comparison requested 13 November 2026. Defined before fitting.
+No manuscript changes. Adults aged >=65 with known swallowing outcome, stroke
+and dementia status; proxy responses retained. Four mutually exclusive groups:
+neither, stroke only, dementia only, both. Use original full adult design and
+annual weights with unchanged public strata/PSU codes, matching prior analyses.
+Primary descriptive results: crude survey-weighted prevalences and between-year
+contrasts from joint year/group means with their full covariance. Report
+unweighted event counts and denominators alongside (not as weighted estimates).
+Additional descriptive adjustment: quasibinomial survey logistic model with
+full year*four-group interaction, common age-group and sex main effects.
+Marginal predictions to US 2000 age standard crossed with 50:50 sex, identical
+for all groups/years. Exclude missing sex only from adjusted model.
+Use logit delta CIs for prevalence and linear t CIs for differences, with
+survey-domain df (crude) and residual survey df (adjusted). Test heterogeneity
+of the four additive year differences with a joint 3-df Wald F test. Report
+pairwise differences in changes, exploratory without multiplicity correction.
+Do not infer heterogeneity from one significant and another nonsignificant
+within-group difference. Audit sparse cells, model rank, convergence and
+covariance. Validate crude estimates against manual weighted means/saturated
+survey model, and adjusted gradients numerically and against predict().
+No causal conclusions, clinical diagnosis confirmation or individual change.
